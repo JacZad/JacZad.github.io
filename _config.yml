@@ -1,11 +1,11 @@
-theme: agency-jekyll-theme
+remote_theme: mmistakes/minimal-mistakes
 
 url    : "https://jaczad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Jacek Zadrożny
 email      : Jacekzadrozny@dostepnik.com.pl
-description: "Znam się na dostępności jak mało kto. Pomogę Ci sprawić, by Twoja strona była dostępna dla wszystkich użytkowników."
+description: "Dostępność to moja pasja i chcę Cię nią zarazić. Pomogę Ci sprawić, by Twoja strona była dostępna dla wszystkich użytkowników. Zapraszam do współpracy."
 author     : Jacek Zadrożny
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -13,14 +13,42 @@ author     : Jacek Zadrożny
 
 locale: "pl_PL" # See available languages in _data/sitetext.yml
 
+# Site settings
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: true
+breadcrumbs: true
+
+# Social media and author info
+author:
+  name: "Jacek Zadrożny"
+  bio: "Ekspert dostępności cyfrowej"
+  location: "Polska"
+  email: "Jacekzadrozny@dostepnik.com.pl"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:Jacekzadrozny@dostepnik.com.pl"
+
+# Footer settings
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:Jacekzadrozny@dostepnik.com.pl"
+
+# Reading settings
+show_excerpts: true
+excerpt_length: 150
+
 analytics:
   google: #Google Analytics tracking code here
 
-collections:
-  portfolio:
-
 markdown: kramdown
 
-# Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+# Pagination settings
+paginate: 5
+paginate_path: /page:num/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
