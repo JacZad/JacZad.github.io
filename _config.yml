@@ -1,20 +1,26 @@
-      title: Dostępnik
-description: Zaczynam jeszcze raz. Pozbieram tu różne mejsca, które odwiedzam i rzeczy, które robię.
-theme: minima
-author: Jacek Zadrożny
-email: jaczad@gmail.com
-url: "https://JacZad.github.io"
-baseurl: ""
-favicon: "/assets/favicon.ico"
+theme: agency-jekyll-theme
 
-nav:
-	- title: "Home"
-		url: "/"
-	- title: "About"
-		url: "/about.html"
-	- title: "Contact"
-		url: "/contact.html"
+url    : "https://jaczad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title      : Jacek Zadrożny
+email      : Jacekzadrozny@dostepnik.com.pl
+description: "Znam się na dostępności jak mało kto. Pomogę Ci sprawić, by Twoja strona była dostępna dla wszystkich użytkowników."
+author     : Jacek Zadrożny
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+locale: "pl_PL" # See available languages in _data/sitetext.yml
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
 
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
+
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
