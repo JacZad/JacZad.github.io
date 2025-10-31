@@ -7,7 +7,7 @@ gem 'github-pages', group: :jekyll_plugins
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
 gem "faraday-retry"
-
+gem "jekyll-data"
 gem 'fiddle'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
