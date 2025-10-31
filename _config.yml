@@ -8,11 +8,9 @@ subtitle: Ekspert do spraw dostępności
 email      : Jacekzadrozny@dostepnik.com.pl
 description: "Dostępność to moja pasja i chcę Cię nią zarazić. Pomogę Ci sprawić, by Twoja strona była dostępna dla wszystkich użytkowników. Zapraszam do współpracy."
 author     : Jacek Zadrożny
-logo:     #optional, defaults to site title
-  path: assets/images/jz-profilowe.png
-  height: 60 #height in px, defaults to 52px
+logo: assets/img/jz-profilowe.png
 
-locale: "pl-PL" # See available languages in _data/sitetext.yml
+locale: "pl" # See available languages in _data/ui-text.yml
 
 # Site settings
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
