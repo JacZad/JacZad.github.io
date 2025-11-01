@@ -2,7 +2,6 @@
 id: 1436
 title: 'Dominik Paszkiewicz w podcaście o projektowaniu'
 date: '2015-09-15T18:39:45+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1436'
 permalink: /2015/09/15/dominik-paszkiewicz-w-podcascie-o-projektowaniu/
 restapi_import_id:

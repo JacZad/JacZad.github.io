@@ -3,7 +3,6 @@ id: 2547
 title: 'Quiz na temat psów przewodników'
 date: '2021-10-25T08:01:22+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 guid: 'https://informaton.blog/?p=2547'
 permalink: /2021/10/25/quiz-na-temat-psow-przewodnikow/
 categories:

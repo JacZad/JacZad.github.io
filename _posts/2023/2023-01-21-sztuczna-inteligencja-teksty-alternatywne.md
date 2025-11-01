@@ -1,8 +1,5 @@
----
 title: Sztuczna inteligencja i alternatywy tekstowe
-author: Jacek Zadrożny
-date: 2023-01-21
-layout: post
+ 
 category: artykuły
 tags: [„sztuczna inteligencja”, „Chat GPT”, „DiffusionBee”, 'tekst alternatywny']
 excerpt: Wykorzystanie sztucznej inteligencji w dostępności jest nie tylko możliwe, ale także dzieje się od dość dawna. Jednak nie można jej do końca ufać.

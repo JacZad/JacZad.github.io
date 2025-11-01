@@ -2,7 +2,6 @@
 id: 1174
 title: 'WUD na Pradze już za trzy dni'
 date: '2014-11-11T17:57:49+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1174'
 permalink: /2014/11/11/wud-na-pradze-juz-za-trzy-dni/
 restapi_import_id:

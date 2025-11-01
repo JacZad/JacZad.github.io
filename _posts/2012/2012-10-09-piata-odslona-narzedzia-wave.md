@@ -2,7 +2,6 @@
 id: 307
 title: 'Piąta odsłona narzędzia WAVE'
 date: '2012-10-09T14:10:11+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=307'
 permalink: /2012/10/09/piata-odslona-narzedzia-wave/
 restapi_import_id:

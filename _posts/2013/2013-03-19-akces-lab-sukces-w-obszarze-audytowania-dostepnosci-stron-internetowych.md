@@ -1,7 +1,6 @@
 ---
 title: 'Akces Lab &#8211; sukces w obszarze audytowania dostępności stron internetowych'
 date: '2013-03-19T11:26:10+01:00'
-layout: post
 categories:
     - artykuły
 tags:

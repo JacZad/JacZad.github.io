@@ -2,7 +2,6 @@
 id: 523
 title: 'Korzystanie z telefonów komórkowych przez osoby niewidome i niedowidzące'
 date: '2013-01-17T16:38:33+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=523'
 permalink: /2013/01/17/korzystanie-z-telefonw-komrkowych-przez-osoby-niewidome-i-niedowidzace/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 686
 title: 'Wyłącz Facebook Home, jeżeli chcesz używać telefonu'
 date: '2013-04-26T14:09:11+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=686'
 permalink: /2013/04/26/wylacz-facebook-home-jezeli-chcesz-uzywac-telefonu/
 restapi_import_id:

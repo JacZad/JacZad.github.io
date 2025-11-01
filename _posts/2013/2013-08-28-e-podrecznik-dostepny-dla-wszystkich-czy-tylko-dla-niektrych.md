@@ -2,7 +2,6 @@
 id: 779
 title: 'E-podręcznik dostępny dla wszystkich, czy tylko dla niektórych?'
 date: '2013-08-28T21:19:29+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=779'
 permalink: /2013/08/28/e-podrecznik-dostepny-dla-wszystkich-czy-tylko-dla-niektrych/
 restapi_import_id:

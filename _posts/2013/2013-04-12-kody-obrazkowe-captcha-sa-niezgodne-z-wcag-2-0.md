@@ -2,7 +2,6 @@
 id: 667
 title: 'Kody obrazkowe CAPTCHA są niezgodne z WCAG 2.0'
 date: '2013-04-12T08:45:02+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=667'
 permalink: /2013/04/12/kody-obrazkowe-captcha-sa-niezgodne-z-wcag-2-0/
 restapi_import_id:

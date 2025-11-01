@@ -2,7 +2,6 @@
 id: 171
 title: 'Trzy powody by mieć dostępny serwis internetowy'
 date: '2012-08-25T09:50:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=171'
 permalink: /2012/08/25/trzy-powody-by-miec-dostepny-serwis-internetowy/
 restapi_import_id:

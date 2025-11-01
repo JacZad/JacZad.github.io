@@ -2,7 +2,6 @@
 id: 904
 title: 'Rafał Trzaskowski na temat prawa o dostępności'
 date: '2013-12-12T14:17:35+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=904'
 permalink: /2013/12/12/rafal-trzaskowski-na-temat-prawa-o-dostepnosci/
 restapi_import_id:

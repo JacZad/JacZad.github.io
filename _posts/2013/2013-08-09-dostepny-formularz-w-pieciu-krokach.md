@@ -2,7 +2,6 @@
 id: 755
 title: 'Dostępny formularz w pięciu krokach'
 date: '2013-08-09T09:05:54+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=755'
 permalink: /2013/08/09/dostepny-formularz-w-pieciu-krokach/
 restapi_import_id:

@@ -4,7 +4,7 @@ title: 'O tym, jak nie kupiłem oczyszczacza powietrza'
 date: '2021-09-29T17:08:39+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Nie kupiłem oczyszczacza na promocji. Na przeszkodzie stanęły mi kod CAPTCHA i niechęć do znalezienia rozwiązania przez obsługę sklepu internetowego. #Applelepsze'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2500'
 permalink: /2021/09/29/o-tym-jak-nie-kupiem-oczyszczacza-powietrza/
 categories:

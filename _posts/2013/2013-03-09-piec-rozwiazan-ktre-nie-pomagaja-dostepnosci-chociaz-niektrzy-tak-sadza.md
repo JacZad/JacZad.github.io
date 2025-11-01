@@ -2,7 +2,6 @@
 id: 627
 title: 'Pięć rozwiązań, które nie pomagają dostępności, chociaż niektórzy tak sądzą'
 date: '2013-03-09T10:57:21+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=627'
 permalink: /2013/03/09/piec-rozwiazan-ktre-nie-pomagaja-dostepnosci-chociaz-niektrzy-tak-sadza/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 2057
 title: 'Oznaczanie drzwi dla osób niewidomych i słabowidzących'
 date: '2021-01-28T08:30:26+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2057'
 permalink: /2021/01/28/oznaczanie-drzwi-dla-osob-niewidomych-i-slabowidzacych/
 publicize_linkedin_url:

@@ -2,7 +2,6 @@
 title: 'Webinarium o cyfrowej dostępności na rzecz walczącej Ukrainy'
 date: '2022-03-01T14:18:50+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

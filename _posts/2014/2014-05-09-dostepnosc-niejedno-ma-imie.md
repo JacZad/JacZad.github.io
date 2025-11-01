@@ -2,7 +2,6 @@
 id: 1041
 title: 'Dostępność niejedno ma imie'
 date: '2014-05-09T12:59:10+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1041'
 permalink: /2014/05/09/dostepnosc-niejedno-ma-imie/
 restapi_import_id:

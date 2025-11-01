@@ -2,7 +2,6 @@
 id: 294
 title: 'Określenie języka części strony (WCAG 2.0 SC 3.1.2, poziom AA)'
 date: '2012-10-06T08:22:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=294'
 permalink: /2012/10/06/okreslenie-jezyka-czesci-strony-wcag-2-0-sc-3-1-2-poziom-aa/
 restapi_import_id:

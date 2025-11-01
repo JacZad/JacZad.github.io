@@ -2,7 +2,6 @@
 title: 'Poradnik o dostępności w kulturze'
 date: '2022-01-20T11:50:53+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

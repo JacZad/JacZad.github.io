@@ -2,7 +2,6 @@
 id: 993
 title: 'Specyfikacja ARIA oficjalnie staje się rekomendacją W3C'
 date: '2014-03-21T10:12:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=993'
 permalink: /2014/03/21/specyfikacja-aria-oficjalnie-staje-sie-rekomendacja-w3c/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1800
 title: 'Wyniki badania użytkowników czytników ekranu przeprowadzonego przez WebAIM'
 date: '2017-12-30T10:29:51+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1800'
 permalink: /2017/12/30/wyniki-badania-uzytkownikow-czytnikow-ekranu-przeprowadzonego-przez-webaim/
 restapi_import_id:

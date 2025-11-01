@@ -2,7 +2,6 @@
 id: 1092
 title: 'Bezpłatny elementarz MEN został zaadaptowany do potrzeb niepełnosprawnych uczniów'
 date: '2014-08-02T13:40:26+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1092'
 permalink: /2014/08/02/bezplatny-elementarz-men-zostal-zaadaptowany-do-potrzeb-niepelnosprawnych-uczniw/
 restapi_import_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Bezwzględny dostęp za pomocą klawiatury (WCAG SC 2.1.3, poziom AAA)'
 date: '2012-08-28T09:37:00+02:00'
-layout: post
 category: WCAG
 tags: [interfejs, klawiatura, 'myszka', nawigacja, 'osoby niewidome', 'kryteria sukcesu']
 ---

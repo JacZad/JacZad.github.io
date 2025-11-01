@@ -2,7 +2,6 @@
 id: 588
 title: 'Wtyczka do WordPressa podnosząca dostępność skórek'
 date: '2013-02-09T11:38:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=588'
 permalink: /2013/02/09/wtyczka-do-wordpressa-podnoszaca-dostepnosc-skrek/
 restapi_import_id:

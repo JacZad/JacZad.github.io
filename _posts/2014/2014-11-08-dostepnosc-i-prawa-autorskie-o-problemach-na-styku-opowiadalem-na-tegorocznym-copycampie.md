@@ -1,7 +1,6 @@
 ---
 title: 'Dostępność i prawa autorskie &#8211; o problemach na styku opowiadałem na tegorocznym Copycampie'
 date: '2014-11-08T16:56:53+01:00'
-layout: post
 categories:
     - artykuły
 tags:

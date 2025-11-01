@@ -2,7 +2,6 @@
 id: 267
 title: 'E-booki i czytniki, a dostępność treści'
 date: '2012-09-24T08:01:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=267'
 permalink: /2012/09/24/e-booki-i-czytniki-a-dostepnosc-tresci/
 restapi_import_id:

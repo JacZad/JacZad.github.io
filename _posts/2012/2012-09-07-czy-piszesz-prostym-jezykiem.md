@@ -2,7 +2,6 @@
 id: 221
 title: 'Czy piszesz prostym językiem?'
 date: '2012-09-07T09:17:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=221'
 permalink: /2012/09/07/czy-piszesz-prostym-jezykiem/
 restapi_import_id:

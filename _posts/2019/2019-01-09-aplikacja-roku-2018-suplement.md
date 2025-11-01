@@ -1,7 +1,6 @@
 ---
 title: 'Aplikacja roku 2018 &#8211; suplement'
 date: '2019-01-09T13:54:31+01:00'
-layout: post
 categories:
     - artykuły
 tags:

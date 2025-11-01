@@ -2,7 +2,6 @@
 id: 1078
 title: 'Kalendarz do WordPressa dostępny w każdym calu'
 date: '2014-07-08T14:16:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1078'
 permalink: /2014/07/08/kalendarz-do-wordpressa-dostepny-w-kazdym-calu/
 restapi_import_id:

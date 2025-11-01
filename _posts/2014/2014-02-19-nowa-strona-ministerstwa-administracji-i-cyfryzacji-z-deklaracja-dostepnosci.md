@@ -2,7 +2,6 @@
 id: 953
 title: 'Nowa strona Ministerstwa Administracji i Cyfryzacji z deklaracją dostępności'
 date: '2014-02-19T11:26:26+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=953'
 permalink: /2014/02/19/nowa-strona-ministerstwa-administracji-i-cyfryzacji-z-deklaracja-dostepnosci/
 restapi_import_id:

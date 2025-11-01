@@ -2,7 +2,6 @@
 id: 1275
 title: 'Kilka tutoriali od Google o korzystaniu z ich narzędzi za pomocą czytnika ekranu'
 date: '2015-03-19T09:55:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1275'
 permalink: /2015/03/19/kilka-tutoriali-od-google-o-korzystaniu-z-ich-narzedzi-za-pomoca-czytnika-ekranu/
 restapi_import_id:

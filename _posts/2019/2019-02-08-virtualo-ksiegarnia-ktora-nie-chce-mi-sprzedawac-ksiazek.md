@@ -1,7 +1,6 @@
 ---
 title: 'Virtualo &#8211; księgarnia, która nie chce mi sprzedawać książek'
 date: '2019-02-08T15:42:16+01:00'
-layout: post
 categories:
     - artykuły
 tags:

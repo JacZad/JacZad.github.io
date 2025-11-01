@@ -3,7 +3,6 @@ id: 2231
 title: 'Kilka łączy na piątek (2)'
 date: '2021-04-16T15:19:57+02:00'
 excerpt: 'Kolejny piątek, więc kolejna piątka wybranych łączy, tym razem do grup na Facebooku.'
-layout: post
 guid: 'http://informaton.blog/?p=2231'
 permalink: /2021/04/16/kilka-aczy-na-piatek-2/
 timeline_notification:

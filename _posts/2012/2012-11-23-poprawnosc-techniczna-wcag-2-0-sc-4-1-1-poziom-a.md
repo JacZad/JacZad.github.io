@@ -2,7 +2,6 @@
 id: 401
 title: 'Poprawność techniczna (WCAG 2.0 SC 4.1.1, poziom A)'
 date: '2012-11-23T09:33:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=401'
 permalink: /2012/11/23/poprawnosc-techniczna-wcag-2-0-sc-4-1-1-poziom-a/
 restapi_import_id:

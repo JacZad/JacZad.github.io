@@ -2,7 +2,6 @@
 id: 301
 title: 'Na niedzielę &#8211; filmy z audiodeskrypcją'
 date: '2012-10-07T10:10:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=301'
 permalink: /2012/10/07/na-niedziele-filmy-z-audiodeskrypcja/
 restapi_import_id:

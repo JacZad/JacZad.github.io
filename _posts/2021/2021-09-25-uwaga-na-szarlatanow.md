@@ -4,7 +4,6 @@ title: 'Uwaga na szarlatanów!'
 date: '2021-09-25T17:35:37+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Rzadko to robię, ale tym razem ostrzegam przed naciągaczami. Pstryk! I masz gotową i poprawną deklarację dostępności strony internetowej.'
-layout: post
 guid: 'https://informaton.blog/?p=2495'
 permalink: /2021/09/25/uwaga-na-szarlatanow/
 categories:

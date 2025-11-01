@@ -3,7 +3,6 @@ id: 2260
 title: 'Kilka łączy na piątek (3)'
 date: '2021-04-23T08:15:00+02:00'
 excerpt: 'Kolejna piątka na piątek. Tym razem narzędzia w przeglądarce Chrome.'
-layout: post
 guid: 'http://informaton.blog/?p=2260'
 permalink: /2021/04/23/kilka-aczy-na-piatek-3/
 timeline_notification:

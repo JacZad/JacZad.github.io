@@ -2,7 +2,6 @@
 id: 1839
 title: 'Siećpospolita w Pałacu Prezydenckim'
 date: '2012-06-13T18:55:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=11'
 permalink: /2012/06/13/siecpospolita-w-palacu-prezydenckim/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 283
 title: 'Nie tylko WCAG'
 date: '2012-10-02T08:04:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=283'
 permalink: /2012/10/02/nie-tylko-wcag/
 restapi_import_id:

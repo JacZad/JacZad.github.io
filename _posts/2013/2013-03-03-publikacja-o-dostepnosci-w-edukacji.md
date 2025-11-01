@@ -2,7 +2,6 @@
 id: 623
 title: 'Publikacja o dostępności w edukacji'
 date: '2013-03-03T18:45:30+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=623'
 permalink: /2013/03/03/publikacja-o-dostepnosci-w-edukacji/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 983
 title: 'Poradnik na temat tworzenia alternatywnych wersji dla grafiki'
 date: '2014-03-10T10:28:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=983'
 permalink: /2014/03/10/poradnik-na-temat-tworzenia-alternatywnych-wersji-dla-grafiki/
 restapi_import_id:

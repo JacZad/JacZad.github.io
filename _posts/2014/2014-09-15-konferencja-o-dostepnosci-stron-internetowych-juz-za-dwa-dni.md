@@ -2,7 +2,6 @@
 id: 1138
 title: 'Konferencja o dostępności stron internetowych już za dwa dni'
 date: '2014-09-15T20:48:43+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1138'
 permalink: /2014/09/15/konferencja-o-dostepnosci-stron-internetowych-juz-za-dwa-dni/
 restapi_import_id:

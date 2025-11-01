@@ -2,7 +2,6 @@
 id: 210
 title: 'Czas jest nieistotny (WCAG 2.0 SC 2.2.3, poziom AAA)'
 date: '2012-09-02T10:00:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=210'
 permalink: /2012/09/02/czas-jest-nieistotny-wcag-2-0-sc-2-2-3-poziom-aaa/
 restapi_import_id:

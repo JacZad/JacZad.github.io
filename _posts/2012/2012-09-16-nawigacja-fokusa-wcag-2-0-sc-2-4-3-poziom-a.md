@@ -2,7 +2,6 @@
 id: 247
 title: 'Nawigacja fokusa (WCAG 2.0 SC 2.4.3, poziom A)'
 date: '2012-09-16T08:52:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=247'
 permalink: /2012/09/16/nawigacja-fokusa-wcag-2-0-sc-2-4-3-poziom-a/
 restapi_import_id:

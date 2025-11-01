@@ -2,7 +2,6 @@
 id: 793
 title: 'Przeczytałem podręcznik &#8220;Dostępność serwisów internetowych&#8221; i zrobiło mi się smutno'
 date: '2013-09-02T08:18:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=793'
 permalink: /2013/09/02/przeczytalem-podrecznik-dostepnosc-serwisw-internetowych-i-zrobilo-mi-sie-smutno/
 restapi_import_id:

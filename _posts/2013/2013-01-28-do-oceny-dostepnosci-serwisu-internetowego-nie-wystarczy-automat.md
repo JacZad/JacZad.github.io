@@ -2,7 +2,6 @@
 id: 548
 title: 'Do oceny dostępności serwisu internetowego nie wystarczy automat'
 date: '2013-01-28T16:20:48+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=548'
 permalink: /2013/01/28/do-oceny-dostepnosci-serwisu-internetowego-nie-wystarczy-automat/
 restapi_import_id:

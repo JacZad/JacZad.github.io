@@ -3,7 +3,6 @@ id: 2099
 title: 'ARIA i naprawianie błędów programistycznych'
 date: '2021-02-23T17:42:57+01:00'
 excerpt: 'Jak naprawić stronę zepsutą przez #ARIA, chociaż przecież lepiej nie psuć.'
-layout: post
 guid: 'http://informaton.blog/?p=2099'
 permalink: /2021/02/23/aria-i-naprawianie-bedow-programistycznych/
 publicize_twitter_user:

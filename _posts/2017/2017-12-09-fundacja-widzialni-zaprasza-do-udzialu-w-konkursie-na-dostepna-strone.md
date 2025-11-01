@@ -2,7 +2,6 @@
 id: 1790
 title: 'Fundacja Widzialni zaprasza do udziału w konkursie na dostępną stronę'
 date: '2017-12-09T09:59:34+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1790'
 permalink: /2017/12/09/fundacja-widzialni-zaprasza-do-udzialu-w-konkursie-na-dostepna-strone/
 restapi_import_id:

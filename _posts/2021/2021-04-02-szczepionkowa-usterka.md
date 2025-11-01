@@ -4,7 +4,6 @@ title: 'Szczepionkowa usterka'
 date: '2021-04-02T19:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Historia o tym, jak na dzika chciałem się zaszczepić. Skorzystałem z błędu systemu i dostałem skierowanie. Teraz czekam, co z tego wyniknie.'
-layout: post
 guid: 'https://informaton.blog/?p=2470'
 permalink: /2021/04/02/szczepionkowa-usterka/
 categories:

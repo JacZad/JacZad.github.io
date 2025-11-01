@@ -1,7 +1,6 @@
 ---
 title: 'Kto się zajmuje cyfrową dostępnością w Polsce?'
 date: '2019-05-25T11:53:30+02:00'
-layout: post
 categories:
     - artykuły
 tags: [badania, 'Kuba Dębski', WCAG]

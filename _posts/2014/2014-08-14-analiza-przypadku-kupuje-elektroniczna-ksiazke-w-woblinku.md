@@ -2,7 +2,6 @@
 id: 1104
 title: 'Analiza przypadku &#8211; kupuję elektroniczną książkę w Woblinku'
 date: '2014-08-14T13:57:14+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1104'
 permalink: /2014/08/14/analiza-przypadku-kupuje-elektroniczna-ksiazke-w-woblinku/
 restapi_import_id:

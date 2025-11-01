@@ -2,7 +2,6 @@
 id: 206
 title: 'Daj użytkownikowi wystarczająco dużo czasu (WCAG 2.0 SC 2.2.1, poziom A)'
 date: '2012-08-31T09:13:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=206'
 permalink: /2012/08/31/daj-uzytkownikowi-wystarczajaco-duzo-czasu-wcag-2-0-sc-2-2-1-poziom-a/
 restapi_import_id:

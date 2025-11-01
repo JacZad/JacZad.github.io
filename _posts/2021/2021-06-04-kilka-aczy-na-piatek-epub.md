@@ -3,7 +3,7 @@ id: 2346
 title: 'Kilka łączy na piątek (EPUB)'
 date: '2021-06-04T10:32:30+02:00'
 excerpt: 'Piątkowe łącza traktują o publikacjach elektronicznych w formacie #EPUB. Specyfikacje, cyfrowa dostępność, narzędzia i krótka refleksja nad niechlujnością.'
-layout: post
+ 
 guid: 'http://informaton.blog/?p=2346'
 permalink: /2021/06/04/kilka-aczy-na-piatek-epub/
 timeline_notification:

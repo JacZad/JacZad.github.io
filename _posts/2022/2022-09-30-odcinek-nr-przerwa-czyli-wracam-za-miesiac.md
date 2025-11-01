@@ -2,7 +2,6 @@
 title: 'Odcinek bonusowy - Przerwa, czyli wracam za miesiąc'
 date: '2022-09-30T04:10:47+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: [podcast, prywatne, zabawne, "Jacek Zadrożny"]
 categories:
     - Podcast

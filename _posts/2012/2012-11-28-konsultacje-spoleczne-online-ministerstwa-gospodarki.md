@@ -2,7 +2,6 @@
 id: 409
 title: 'Konsultacje społeczne online Ministerstwa Gospodarki'
 date: '2012-11-28T09:46:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=409'
 permalink: /2012/11/28/konsultacje-spoleczne-online-ministerstwa-gospodarki/
 restapi_import_id:

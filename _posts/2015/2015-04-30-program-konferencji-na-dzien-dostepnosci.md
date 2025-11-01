@@ -1,7 +1,6 @@
 ---
 title: 'Program konferencji na dzień dostępności'
 date: '2015-04-30T09:51:06+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['AccessibilityCamp', audiodeskrypcja, audyt, 'Forum Dostępnej Cyberprzestrzeni', 'język migowy', prawo]

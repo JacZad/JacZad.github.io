@@ -2,7 +2,6 @@
 id: 1201
 title: 'Otym, jak smartfon może pomóc osobom niewidomym w poruszaniu się'
 date: '2014-12-13T15:09:12+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1201'
 permalink: /2014/12/13/otym-jak-smartfon-moze-pomoc-osobom-niewidomym-w-poruszaniu-sie/
 restapi_import_id:

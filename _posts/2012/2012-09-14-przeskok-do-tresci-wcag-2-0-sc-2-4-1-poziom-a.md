@@ -2,7 +2,6 @@
 id: 243
 title: 'Przeskok do treści (WCAG 2.0 SC 2.4.1, poziom A)'
 date: '2012-09-14T08:59:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=243'
 permalink: /2012/09/14/przeskok-do-tresci-wcag-2-0-sc-2-4-1-poziom-a/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1766
 title: 'Szminkowanie świni w kontekście dużych projektów informatycznych'
 date: '2017-10-12T12:19:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1766'
 permalink: /2017/10/12/szminkowanie-swini-w-kontekscie-duzych-projektow-informatycznych/
 restapi_import_id:

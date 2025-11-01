@@ -3,7 +3,6 @@ id: 2294
 title: 'Mity cyfrowej dostępności &#8211; tabele'
 date: '2021-05-05T16:31:14+02:00'
 excerpt: 'Czy tabela może służyć do prezentacji układu graficznego strony internetowej? Moim zdaniem - tak!'
-layout: post
 guid: 'http://informaton.blog/?p=2294'
 permalink: /2021/05/05/mity-cyfrowej-dostepnosci-tabele/
 timeline_notification:

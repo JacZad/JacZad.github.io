@@ -2,7 +2,6 @@
 id: 1878
 title: 'Krótka historia mojej porażki'
 date: '2018-11-28T20:54:59+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1878'
 permalink: /2018/11/28/krotka-historia-mojej-porazki/
 restapi_import_id:

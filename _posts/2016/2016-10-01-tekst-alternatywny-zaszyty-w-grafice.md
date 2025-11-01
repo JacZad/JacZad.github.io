@@ -1,7 +1,6 @@
     ---
 title: 'Tekst alternatywny zaszyty w grafice'
 date: '2016-10-01T19:06:52+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['GIF', grafika, PNG, JPEG]

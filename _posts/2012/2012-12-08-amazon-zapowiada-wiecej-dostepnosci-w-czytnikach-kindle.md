@@ -2,7 +2,6 @@
 id: 422
 title: 'Amazon zapowiada więcej dostępności w tabletach Kindle'
 date: '2012-12-08T15:38:41+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=422'
 permalink: /2012/12/08/amazon-zapowiada-wiecej-dostepnosci-w-czytnikach-kindle/
 restapi_import_id:

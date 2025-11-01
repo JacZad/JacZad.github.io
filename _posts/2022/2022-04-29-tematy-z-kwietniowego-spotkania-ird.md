@@ -2,7 +2,6 @@
 title: 'Tematy z kwietniowego spotkania IRD'
 date: '2022-04-29T12:02:57+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

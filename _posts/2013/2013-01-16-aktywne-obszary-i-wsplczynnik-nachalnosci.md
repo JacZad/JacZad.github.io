@@ -2,7 +2,6 @@
 id: 499
 title: 'Aktywne obszary i współczynnik nachalności'
 date: '2013-01-16T09:36:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=499'
 permalink: /2013/01/16/aktywne-obszary-i-wsplczynnik-nachalnosci/
 restapi_import_id:

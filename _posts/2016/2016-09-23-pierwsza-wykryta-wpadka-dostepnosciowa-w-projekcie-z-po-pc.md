@@ -2,7 +2,6 @@
 id: 1541
 title: 'Pierwsza wykryta wpadka dostępnościowa w projekcie z PO PC'
 date: '2016-09-23T16:25:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1541'
 permalink: /2016/09/23/pierwsza-wykryta-wpadka-dostepnosciowa-w-projekcie-z-po-pc/
 restapi_import_id:

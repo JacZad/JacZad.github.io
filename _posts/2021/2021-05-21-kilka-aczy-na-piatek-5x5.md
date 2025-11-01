@@ -3,7 +3,6 @@ id: 2331
 title: 'Kilka łączy na piątek (5&#215;5)'
 date: '2021-05-21T18:51:00+02:00'
 excerpt: 'Na zakończenie tegorocznego #GAAD 5x5 łączy -4. Może pomożecie uzupełnić...'
-layout: post
 guid: 'http://informaton.blog/?p=2331'
 permalink: /2021/05/21/kilka-aczy-na-piatek-5x5/
 publicize_twitter_user:

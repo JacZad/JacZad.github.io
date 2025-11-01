@@ -1,7 +1,6 @@
 ---
 title: 'Program Dostępność Plus &#8211; miły prezent urodzinowy'
 date: '2018-03-14T12:55:45+01:00'
-layout: post
 categories:
     - artykuły
 tags: ['Dostępność Plus', 'konsultacje publiczne', 'prawo']

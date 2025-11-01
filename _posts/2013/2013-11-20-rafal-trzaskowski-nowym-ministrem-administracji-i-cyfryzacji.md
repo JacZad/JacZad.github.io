@@ -1,7 +1,6 @@
 ---
 title: 'Rafał Trzaskowski nowym ministrem administracji i cyfryzacji'
 date: '2013-11-20T17:19:29+01:00'
-layout: post
 categories:
     - artykuły
 tags:

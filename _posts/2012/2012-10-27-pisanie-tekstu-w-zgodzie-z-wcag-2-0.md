@@ -2,7 +2,6 @@
 id: 330
 title: 'Pisanie tekstu w zgodzie z WCAG 2.0'
 date: '2012-10-27T15:54:03+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=330'
 permalink: /2012/10/27/pisanie-tekstu-w-zgodzie-z-wcag-2-0/
 restapi_import_id:

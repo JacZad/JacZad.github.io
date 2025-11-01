@@ -2,7 +2,6 @@
 id: 725
 title: 'Wytyczne dla mobilnej dostępności od BBC'
 date: '2013-06-19T20:44:42+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=725'
 permalink: /2013/06/19/wytyczne-dla-mobilnej-dostepnosci-od-bbc/
 restapi_import_id:

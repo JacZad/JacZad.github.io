@@ -2,7 +2,6 @@
 id: 1788
 title: 'Czytanieobrazow.pl &#8211; sztuka bez barier!'
 date: '2017-12-08T20:32:10+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1788'
 permalink: /2017/12/08/czytanieobrazow-pl-sztuka-bez-barier/
 restapi_import_id:

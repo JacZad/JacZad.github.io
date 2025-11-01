@@ -2,7 +2,6 @@
 id: 999
 title: 'Czy ktoś jeszcze lubi kody CAPTCHA?'
 date: '2014-04-02T10:24:16+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=999'
 permalink: /2014/04/02/czy-ktos-jeszcze-lubi-kody-captcha/
 restapi_import_id:

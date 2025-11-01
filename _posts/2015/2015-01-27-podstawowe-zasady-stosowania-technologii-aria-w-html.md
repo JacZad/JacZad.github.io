@@ -2,7 +2,6 @@
 id: 1246
 title: 'Podstawowe zasady stosowania technologii ARIA w HTML'
 date: '2015-01-27T12:22:07+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1246'
 permalink: /2015/01/27/podstawowe-zasady-stosowania-technologii-aria-w-html/
 restapi_import_id:

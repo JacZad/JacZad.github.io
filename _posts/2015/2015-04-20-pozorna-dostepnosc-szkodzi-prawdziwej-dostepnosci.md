@@ -2,7 +2,6 @@
 id: 1308
 title: 'Pozorna dostępność szkodzi prawdziwej dostępności'
 date: '2015-04-20T08:33:14+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1308'
 permalink: /2015/04/20/pozorna-dostepnosc-szkodzi-prawdziwej-dostepnosci/
 restapi_import_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Rozwijanie skrótów w tekstach'
 date: '2013-01-04T09:10:00+01:00'
-layout: post
 categories:
     - artykuły
 tags:

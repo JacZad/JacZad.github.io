@@ -2,7 +2,6 @@
 id: 1587
 title: 'Na dzień osób z niepełnosprawnościami &#8211; kilka refleksji na temat przepisów o dostępności'
 date: '2016-12-03T08:00:06+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1587'
 permalink: /2016/12/03/na-dzien-osob-z-niepelnosprawnosciami-kilka-refleksji-na-temat-przepisow-o-dostepnosci/
 restapi_import_id:

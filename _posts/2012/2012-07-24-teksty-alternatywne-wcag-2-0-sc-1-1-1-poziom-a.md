@@ -2,7 +2,6 @@
 id: 19
 title: 'Teksty alternatywne (WCAG 2.0 SC 1.1.1, poziom A)'
 date: '2012-07-24T13:09:27+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=19'
 permalink: /2012/07/24/teksty-alternatywne-wcag-2-0-sc-1-1-1-poziom-a/
 restapi_import_id:

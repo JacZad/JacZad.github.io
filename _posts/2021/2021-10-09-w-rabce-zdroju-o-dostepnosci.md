@@ -4,7 +4,7 @@ title: 'W Rabce-Zdroju o dostępności'
 date: '2021-10-09T20:52:09+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Zgadnijcie, z kim został przeprowadzony wywiad. Tak jest! Ze mną. Opowiadam o dostępności w różnych smakach, wrażliwości na niewidoczne grupy i zmianach na lepsze. Film przygotowany przez Fundację Kinematograf.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2532'
 permalink: /2021/10/09/w-rabce-zdroju-o-dostepnosci/
 categories:

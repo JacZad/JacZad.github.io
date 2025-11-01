@@ -2,7 +2,6 @@
 title: 'Kilka słów o Pegazie'
 date: '2021-12-23T14:31:12+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - Zapiski
 tags:

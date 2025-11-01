@@ -1,7 +1,6 @@
 ---
 title: 'Dostępny bank internetowy &#8211; na co zwrócić szczególną uwagę?'
 date: '2014-08-28T14:54:32+02:00'
-layout: post
 categories:
     - artykuły
 tags:

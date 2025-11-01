@@ -2,7 +2,6 @@
 id: 1630
 title: 'Automatyczne walidatory dostępności działają za słabo, by na nich polegać'
 date: '2017-03-02T12:42:36+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1630'
 permalink: /2017/03/02/automatyczne-walidatory-dostepnosci-dzialaja-za-slabo-by-na-nich-polegac/
 restapi_import_id:

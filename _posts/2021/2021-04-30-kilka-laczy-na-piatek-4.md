@@ -2,7 +2,6 @@
 id: 2266
 title: 'Kilka łączy na piątek (4)'
 date: '2021-04-30T08:20:00+02:00'
-layout: post
 guid: 'https://informaton.blog/?p=2266'
 permalink: /2021/04/30/kilka-laczy-na-piatek-4/
 publicize_twitter_user:

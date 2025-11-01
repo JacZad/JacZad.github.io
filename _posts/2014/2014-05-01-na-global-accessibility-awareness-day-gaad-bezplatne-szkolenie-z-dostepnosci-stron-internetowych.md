@@ -2,7 +2,6 @@
 id: 1037
 title: 'Na Global Accessibility Awareness Day (GAAD) &#8211; bezpłatne szkolenie z dostępności stron internetowych'
 date: '2014-05-01T11:05:29+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1037'
 permalink: /2014/05/01/na-global-accessibility-awareness-day-gaad-bezplatne-szkolenie-z-dostepnosci-stron-internetowych/
 restapi_import_id:

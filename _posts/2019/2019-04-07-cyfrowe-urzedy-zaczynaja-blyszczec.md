@@ -2,7 +2,6 @@
 id: 1928
 title: 'Cyfrowe urzędy zaczynają błyszczeć'
 date: '2019-04-07T15:20:07+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=1928'
 permalink: /2019/04/07/cyfrowe-urzedy-zaczynaja-blyszczec/
 timeline_notification:

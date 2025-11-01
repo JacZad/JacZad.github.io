@@ -2,7 +2,6 @@
 id: 33
 title: 'Napisy w nagraniach dźwiękowych (WCAG 2.0 SC 1.2.2, poziom A)'
 date: '2012-07-27T12:21:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=33'
 permalink: /2012/07/27/napisy-w-nagraniach-dzwiekowych-wcag-2-0-sc-1-2-2-poziom-a/
 restapi_import_id:

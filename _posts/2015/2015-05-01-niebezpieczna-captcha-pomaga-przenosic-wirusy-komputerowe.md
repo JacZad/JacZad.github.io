@@ -2,7 +2,6 @@
 title: 'Niebezpieczna CAPTCHA pomaga przenosić wirusy komputerowe'
 date: '2015-05-01T10:26:18+02:00'
 Author: 'Jacek Zadrożny'
-layout: post
 category: artykuły
 tags: [bezpieczeństwo, CAPTCHA, wirusy]
 ---

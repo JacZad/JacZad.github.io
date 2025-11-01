@@ -2,7 +2,6 @@
 id: 1771
 title: 'Konferencja Naukowa „AZON – platforma informacyjna również dla niepełnosprawnych”'
 date: '2017-10-23T14:33:56+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1771'
 permalink: /2017/10/23/konferencja-naukowa-azon-platforma-informacyjna-rowniez-dla-niepelnosprawnych/
 restapi_import_id:

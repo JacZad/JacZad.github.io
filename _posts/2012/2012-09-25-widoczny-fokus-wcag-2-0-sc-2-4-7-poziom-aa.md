@@ -2,7 +2,6 @@
 id: 269
 title: 'Widoczny fokus (WCAG 2.0 SC 2.4.7, poziom AA)'
 date: '2012-09-25T08:14:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=269'
 permalink: /2012/09/25/widoczny-fokus-wcag-2-0-sc-2-4-7-poziom-aa/
 restapi_import_id:

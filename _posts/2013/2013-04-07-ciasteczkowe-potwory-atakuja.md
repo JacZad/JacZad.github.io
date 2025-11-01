@@ -2,7 +2,6 @@
 id: 666
 title: 'Ciasteczkowe potwory atakują!'
 date: '2013-04-07T06:59:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=666'
 permalink: /2013/04/07/ciasteczkowe-potwory-atakuja/
 restapi_import_id:

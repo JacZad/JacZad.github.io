@@ -3,7 +3,6 @@ id: 2148
 title: 'Nakładki poprawiające dostępność stron internetowych &#8211; nie wierzcie w to'
 date: '2021-03-29T07:55:35+02:00'
 excerpt: 'Specjaliści dostępności cyfrowej idą na wojnę z nakładkami poprawiającymi dostępność stron internetowych.'
-layout: post
 guid: 'http://informaton.blog/?p=2148'
 permalink: /2021/03/29/nakadki-poprawiajace-dostepnosc-stron-internetowych-nie-wierzcie-w-to/
 timeline_notification:

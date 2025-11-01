@@ -2,7 +2,6 @@
 id: 736
 title: 'Seksmisja z audiodeskrypcją na YouTube'
 date: '2013-06-26T08:33:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=736'
 permalink: /2013/06/26/seksmisja-z-audiodeskrypcja-na-youtube/
 restapi_import_id:

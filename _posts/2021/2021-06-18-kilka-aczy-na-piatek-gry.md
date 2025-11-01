@@ -3,7 +3,7 @@ id: 2370
 title: 'Kilka łączy na piątek (gry)'
 date: '2021-06-18T11:40:20+02:00'
 excerpt: 'Dzisiejsze łącza dotyczą gier i ich dostępności. Wybór subiektywny. Zamierzałem jednak pokazać, że jak się chce, to się da.'
-layout: post
+ 
 guid: 'http://informaton.blog/?p=2370'
 permalink: /2021/06/18/kilka-aczy-na-piatek-gry/
 timeline_notification:

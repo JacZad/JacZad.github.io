@@ -2,7 +2,6 @@
 id: 1316
 title: 'Kiedy stosować napisy, a kiedy język migowy, czyli o udostępnianiu informacji osobom głuchym i słabosłyszącym'
 date: '2015-04-24T07:52:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1316'
 permalink: /2015/04/24/kiedy-stosowac-napisy-a-kiedy-jezyk-migowy-czyli-o-udostepnianiu-informacji-osobom-gluchym-i-slaboslyszacym/
 restapi_import_id:

@@ -3,7 +3,6 @@ id: 2157
 title: 'Kilka łączy na piątek (1)'
 date: '2021-04-09T14:06:23+02:00'
 excerpt: '5 linków na piątek. Mam nadzieję uczynić to nową świecką tradycją tego bloga.'
-layout: post
 guid: 'http://informaton.blog/?p=2157'
 permalink: /2021/04/09/kilka-aczy-na-piatek-1/
 publicize_twitter_user:

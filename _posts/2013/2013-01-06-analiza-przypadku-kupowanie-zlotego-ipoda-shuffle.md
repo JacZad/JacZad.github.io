@@ -2,7 +2,6 @@
 id: 479
 title: 'Analiza przypadku &#8211; kupowanie złotego iPoda Shuffle'
 date: '2013-01-06T19:49:43+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=479'
 permalink: /2013/01/06/analiza-przypadku-kupowanie-zlotego-ipoda-shuffle/
 restapi_import_id:

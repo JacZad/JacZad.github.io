@@ -2,7 +2,6 @@
 id: 805
 title: 'W rocznicę ratyfikowania Konwencji o prawach osób niepełnosprawnych o komunikowaniu się'
 date: '2013-09-06T07:17:56+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=805'
 permalink: /2013/09/06/w-rocznice-ratyfikowania-konwencji-o-prawach-osb-niepelnosprawnych-o-komunikowaniu-sie/
 restapi_import_id:

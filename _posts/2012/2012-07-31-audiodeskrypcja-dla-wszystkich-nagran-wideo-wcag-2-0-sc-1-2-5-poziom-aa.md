@@ -2,7 +2,6 @@
 id: 52
 title: 'Audiodeskrypcja dla wszystkich nagrań wideo (WCAG 2.0 SC 1.2.5, poziom AA)'
 date: '2012-07-31T10:00:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=52'
 permalink: /2012/07/31/audiodeskrypcja-dla-wszystkich-nagran-wideo-wcag-2-0-sc-1-2-5-poziom-aa/
 restapi_import_id:

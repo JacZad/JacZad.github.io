@@ -2,7 +2,6 @@
 id: 337
 title: 'Kolorowa niedziela'
 date: '2012-11-04T09:54:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=337'
 permalink: /2012/11/04/kolorowa-niedziela/
 restapi_import_id:

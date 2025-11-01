@@ -2,7 +2,6 @@
 id: 1359
 title: 'Unlimited! Zaproszenie na międzynarodową konferencję o dostępności wydarzeń'
 date: '2015-06-26T13:07:17+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1359'
 permalink: /2015/06/26/unlimited-zaproszenie-na-miedzynarodowa-konferencja-o-dostepnosci-wydarzen/
 restapi_import_id:

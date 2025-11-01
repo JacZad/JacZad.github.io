@@ -2,7 +2,6 @@
 id: 2077
 title: 'Sztuczna inteligencja i opisywanie grafik &#8211; podejście racjonalne'
 date: '2021-02-03T10:20:35+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2077'
 permalink: /2021/02/03/sztuczna-inteligencja-i-opisywanie-grafik-podejscie-racjonalne/
 timeline_notification:

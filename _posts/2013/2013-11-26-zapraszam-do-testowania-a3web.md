@@ -1,7 +1,6 @@
 ---
 title: 'Zapraszam do testowania A3Web'
 date: '2013-11-26T14:28:09+01:00'
-layout: post
 categories:
     - artykuły
 tags:

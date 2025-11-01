@@ -2,7 +2,6 @@
 id: 313
 title: 'Prosty kalkulator kontrastu'
 date: '2012-10-14T11:59:06+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=313'
 permalink: /2012/10/14/prosty-kalkulator-kontrastu/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 123
 title: 'Dźwięk automatyczny (WCAG 2.0 SC 1.4.2, poziom A)'
 date: '2012-08-14T12:39:10+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=123'
 permalink: /2012/08/14/dzwiek-automatyczny-wcag-2-0-sc-1-4-2-poziom-a/
 restapi_import_id:

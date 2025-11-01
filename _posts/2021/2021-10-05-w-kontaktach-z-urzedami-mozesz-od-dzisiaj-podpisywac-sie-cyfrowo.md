@@ -4,7 +4,6 @@ title: 'W kontaktach z urzędami możesz od dzisiaj podpisywać się cyfrowo'
 date: '2021-10-05T14:18:06+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Od dzisiaj urzędy mają obowiązek przyjmowania pism w postaci dokumentów elektronicznych podpisanych dowolnym z podpisów: kwalifikowanym, osobistym i zaufanym.'
-layout: post
 guid: 'https://informaton.blog/?p=2524'
 permalink: /2021/10/05/w-kontaktach-z-urzedami-mozesz-od-dzisiaj-podpisywac-sie-cyfrowo/
 advanced_seo_description:

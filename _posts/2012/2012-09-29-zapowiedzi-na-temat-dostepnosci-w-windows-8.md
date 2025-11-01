@@ -2,7 +2,6 @@
 id: 279
 title: 'Zapowiedzi na temat dostępności w Windows 8'
 date: '2012-09-29T08:56:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=279'
 permalink: /2012/09/29/zapowiedzi-na-temat-dostepnosci-w-windows-8/
 restapi_import_id:

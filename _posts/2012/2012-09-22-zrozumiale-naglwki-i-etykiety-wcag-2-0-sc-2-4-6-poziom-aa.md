@@ -2,7 +2,6 @@
 id: 262
 title: 'Zrozumiałe nagłówki i etykiety (WCAG 2.0 SC 2.4.6, poziom AA)'
 date: '2012-09-22T08:42:23+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=262'
 permalink: /2012/09/22/zrozumiale-naglwki-i-etykiety-wcag-2-0-sc-2-4-6-poziom-aa/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1022
 title: 'Nowy konkurs dotacyjny Ministerstwa Administracji i Cyfryzacji'
 date: '2014-04-18T08:02:38+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1022'
 permalink: /2014/04/18/nowy-konkurs-dotacyjny-ministerstwa-administracji-i-cyfryzacji/
 restapi_import_id:

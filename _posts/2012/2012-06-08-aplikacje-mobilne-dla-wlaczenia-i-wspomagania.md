@@ -1,7 +1,6 @@
 ---
 title: 'Aplikacje mobilne dla włączenia i wspomagania'
 date: '2012-06-08T11:27:13+02:00'
-layout: post
 tags: ["aplikacje mobilme", "Android", "Symbian", "iOS", "Blackberry", "Windows Phone"]
 categories:
     - artykuły

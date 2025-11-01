@@ -2,7 +2,6 @@
 id: 814
 title: 'Jak poradzić sobie ze spamem bez używania kodów CAPTCHA?'
 date: '2013-09-11T16:59:21+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=814'
 permalink: /2013/09/11/jak-poradzic-sobie-ze-spamem-bez-uzywania-kodw-captcha/
 restapi_import_id:

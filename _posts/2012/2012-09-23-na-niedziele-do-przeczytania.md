@@ -2,7 +2,6 @@
 id: 264
 title: 'Na niedzielę do przeczytania'
 date: '2012-09-23T08:10:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=264'
 permalink: /2012/09/23/na-niedziele-do-przeczytania/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 2031
 title: 'Alternatywy tekstowe o podwyższonej odpowiedzialności'
 date: '2019-08-10T12:09:05+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2031'
 permalink: /2019/08/10/alternatywy-tekstowe-o-podwyzszonej-odpowiedzialnosci/
 timeline_notification:

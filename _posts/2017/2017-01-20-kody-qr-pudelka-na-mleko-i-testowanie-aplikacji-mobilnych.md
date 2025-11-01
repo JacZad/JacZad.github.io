@@ -2,7 +2,6 @@
 id: 1604
 title: 'Kody QR, pudełka na mleko i testowanie aplikacji mobilnych'
 date: '2017-01-20T15:22:49+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1604'
 permalink: /2017/01/20/kody-qr-pudelka-na-mleko-i-testowanie-aplikacji-mobilnych/
 restapi_import_id:

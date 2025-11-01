@@ -2,7 +2,6 @@
 id: 333
 title: 'Windows Phone 8 jednak bez Narratora'
 date: '2012-10-30T20:04:18+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=333'
 permalink: /2012/10/30/windows-phone-8-jednak-bez-narratora/
 restapi_import_id:

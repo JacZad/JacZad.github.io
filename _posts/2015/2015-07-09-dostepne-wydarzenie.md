@@ -2,7 +2,6 @@
 id: 1379
 title: 'Pierwszy poradnik, jak zorganizować dostępne wydarzenie'
 date: '2015-07-09T09:40:35+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1379'
 permalink: /2015/07/09/dostepne-wydarzenie/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1718
 title: 'Dostępność a zgodność z WCAG 2.0, czyli nie jestem dostępnościowym dżihadystą'
 date: '2017-08-21T12:50:23+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1718'
 permalink: /2017/08/21/dostepnosc-a-zgodnosc-z-wcag-2-0-czyli-nie-jestem-dostepnosciowym-dzihadysta/
 restapi_import_id:

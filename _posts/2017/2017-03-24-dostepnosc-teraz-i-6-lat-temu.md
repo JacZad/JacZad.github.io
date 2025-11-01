@@ -2,7 +2,6 @@
 id: 1636
 title: 'Dostępność teraz i 6 lat temu'
 date: '2017-03-24T09:45:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1636'
 permalink: /2017/03/24/dostepnosc-teraz-i-6-lat-temu/
 restapi_import_id:

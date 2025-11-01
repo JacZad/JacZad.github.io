@@ -1,7 +1,6 @@
 ---
 title: 'Polski Walidator Dostępności, czyli pieniądze wyrzucone w błoto'
 date: '2015-11-03T10:35:13+01:00'
-layout: post
 categories:
     - artykuły
 tags:

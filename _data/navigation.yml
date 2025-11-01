@@ -1,0 +1,9 @@
+main:
+  - title: "Współpraca"
+    url: /wspolpraca/
+  - title: "Projekty"
+    url: /projekty/
+  - title: "Blog"
+    url: /blog/
+  - title: "O mnie"
+    url: /aboutme/

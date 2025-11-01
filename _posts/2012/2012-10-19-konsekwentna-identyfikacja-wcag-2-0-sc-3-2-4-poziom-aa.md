@@ -2,7 +2,6 @@
 id: 325
 title: 'Konsekwentna identyfikacja (WCAG 2.0 SC 3.2.4, poziom AA)'
 date: '2012-10-19T08:30:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=325'
 permalink: /2012/10/19/konsekwentna-identyfikacja-wcag-2-0-sc-3-2-4-poziom-aa/
 restapi_import_id:

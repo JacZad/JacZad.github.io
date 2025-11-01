@@ -2,7 +2,6 @@
 title: 'GAAD 2022 &#8211; rozbudowany generator deklaracji dostępności'
 date: '2022-04-30T12:04:00+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

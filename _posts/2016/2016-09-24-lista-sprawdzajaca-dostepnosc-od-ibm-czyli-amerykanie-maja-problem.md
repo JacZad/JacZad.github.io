@@ -2,7 +2,6 @@
 id: 1543
 title: 'Lista sprawdzająca dostępność od IBM, czyli Amerykanie mają problem'
 date: '2016-09-24T14:53:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1543'
 permalink: /2016/09/24/lista-sprawdzajaca-dostepnosc-od-ibm-czyli-amerykanie-maja-problem/
 restapi_import_id:

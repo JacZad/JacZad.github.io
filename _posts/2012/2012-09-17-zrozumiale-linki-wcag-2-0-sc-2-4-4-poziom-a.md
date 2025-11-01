@@ -2,7 +2,6 @@
 id: 251
 title: 'Zrozumiałe linki (WCAG 2.0 SC 2.4.4, poziom A)'
 date: '2012-09-17T19:03:29+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=251'
 permalink: /2012/09/17/zrozumiale-linki-wcag-2-0-sc-2-4-4-poziom-a/
 restapi_import_id:

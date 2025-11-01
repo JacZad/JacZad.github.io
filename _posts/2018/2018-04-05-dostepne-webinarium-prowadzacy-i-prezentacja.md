@@ -1,7 +1,6 @@
 ---
 title: 'Dostępne webinarium: prowadzący i prezentacja'
 date: '2018-04-05T13:41:39+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['napisy na żywo', 'prezentacja', 'tutorial', 'webinarium']

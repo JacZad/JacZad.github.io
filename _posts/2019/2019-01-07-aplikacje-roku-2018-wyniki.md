@@ -1,7 +1,6 @@
 ---
 title: 'Aplikacje roku 2018 &#8211; wyniki'
 date: '2019-01-07T08:37:57+01:00'
-layout: post
 categories:
     - artykuły
 tags: ['aplikacje mobilne', 'Apple']

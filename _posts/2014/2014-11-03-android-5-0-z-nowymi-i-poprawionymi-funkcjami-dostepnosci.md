@@ -2,7 +2,6 @@
 id: 1156
 title: 'Android 5.0 z nowymi i poprawionymi funkcjami dostępności'
 date: '2014-11-03T10:24:10+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1156'
 permalink: /2014/11/03/android-5-0-z-nowymi-i-poprawionymi-funkcjami-dostepnosci/
 restapi_import_id:

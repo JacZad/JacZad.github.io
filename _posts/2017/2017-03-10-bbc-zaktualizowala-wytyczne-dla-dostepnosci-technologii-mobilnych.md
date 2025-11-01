@@ -2,7 +2,6 @@
 id: 1634
 title: 'BBC zaktualizowała wytyczne dla dostępności technologii mobilnych'
 date: '2017-03-10T08:41:13+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1634'
 permalink: /2017/03/10/bbc-zaktualizowala-wytyczne-dla-dostepnosci-technologii-mobilnych/
 restapi_import_id:

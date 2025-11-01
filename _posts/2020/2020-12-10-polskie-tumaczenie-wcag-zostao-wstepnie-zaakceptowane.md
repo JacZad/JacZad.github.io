@@ -2,7 +2,6 @@
 id: 2052
 title: 'Polskie tłumaczenie WCAG zostało wstępnie zaakceptowane'
 date: '2020-12-10T15:51:26+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2052'
 permalink: /2020/12/10/polskie-tumaczenie-wcag-zostao-wstepnie-zaakceptowane/
 timeline_notification:

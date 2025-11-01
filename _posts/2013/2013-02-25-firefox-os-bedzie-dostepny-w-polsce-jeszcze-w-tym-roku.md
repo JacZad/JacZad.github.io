@@ -2,7 +2,6 @@
 id: 619
 title: 'Firefox OS będzie dostępny w Polsce jeszcze w tym roku'
 date: '2013-02-25T14:41:01+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=619'
 permalink: /2013/02/25/firefox-os-bedzie-dostepny-w-polsce-jeszcze-w-tym-roku/
 enclosure:

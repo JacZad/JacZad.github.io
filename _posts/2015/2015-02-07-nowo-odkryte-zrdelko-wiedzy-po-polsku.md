@@ -2,7 +2,6 @@
 id: 1253
 title: 'Nowo odkryte źródełko wiedzy po polsku'
 date: '2015-02-07T16:33:42+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1253'
 permalink: /2015/02/07/nowo-odkryte-zrdelko-wiedzy-po-polsku/
 restapi_import_id:

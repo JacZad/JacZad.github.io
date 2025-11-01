@@ -2,7 +2,6 @@
 id: 734
 title: 'Popraw swoją stronę internetową, a seniorzy wydadzą więcej pieniędzy'
 date: '2013-06-25T07:43:42+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=734'
 permalink: /2013/06/25/popraw-swoja-strone-internetowa-a-seniorzy-wydadza-wiecej-pieniedzy/
 restapi_import_id:

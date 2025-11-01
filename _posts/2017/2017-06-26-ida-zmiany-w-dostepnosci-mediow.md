@@ -2,7 +2,6 @@
 id: 1703
 title: 'Idą zmiany w dostępności mediów'
 date: '2017-06-26T15:44:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1703'
 permalink: /2017/06/26/ida-zmiany-w-dostepnosci-mediow/
 restapi_import_id:

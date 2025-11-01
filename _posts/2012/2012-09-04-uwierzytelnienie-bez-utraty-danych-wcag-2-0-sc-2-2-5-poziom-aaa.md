@@ -2,7 +2,6 @@
 id: 215
 title: 'Uwierzytelnienie bez utraty danych (WCAG 2.0 SC 2.2.5, poziom AAA)'
 date: '2012-09-04T09:18:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=215'
 permalink: /2012/09/04/uwierzytelnienie-bez-utraty-danych-wcag-2-0-sc-2-2-5-poziom-aaa/
 restapi_import_id:

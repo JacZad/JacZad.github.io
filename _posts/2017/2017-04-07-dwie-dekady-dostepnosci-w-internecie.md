@@ -2,7 +2,6 @@
 id: 1647
 title: 'Dwie dekady dostępności w internecie'
 date: '2017-04-07T16:32:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1647'
 permalink: /2017/04/07/dwie-dekady-dostepnosci-w-internecie/
 restapi_import_id:

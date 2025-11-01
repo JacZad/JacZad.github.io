@@ -2,7 +2,6 @@
 id: 643
 title: 'Konsultacje społeczne unijnego prawa o dostępności stron internetowych'
 date: '2013-03-20T10:42:10+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=643'
 permalink: /2013/03/20/konsultacje-spoleczne-unijnego-prawa-o-dostepnosci-stron-internetowych/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 726
 title: 'Nowi autorzy na Informaton.pl'
 date: '2013-06-24T13:44:28+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=726'
 permalink: /2013/06/24/nowi-autorzy-na-informaton-pl/
 restapi_import_id:

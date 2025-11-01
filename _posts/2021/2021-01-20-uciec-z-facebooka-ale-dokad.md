@@ -1,7 +1,6 @@
 ---
 title: 'Uciec z Facebooka, ale dokąd?'
 date: '2021-01-20T17:28:40+01:00'
-layout: post
 categories:
     - artykuły
 tags:

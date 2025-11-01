@@ -2,7 +2,6 @@
 id: 1343
 title: 'Dwa rozszerzenia do Chrome poprawiające dostępność stron internetowych'
 date: '2015-05-25T10:11:02+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1343'
 permalink: /2015/05/25/dwa-rozszerzenia-do-chrome-poprawiajace-dostepnosc-stron-internetowych/
 restapi_import_id:

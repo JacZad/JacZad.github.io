@@ -2,7 +2,6 @@
 id: 1759
 title: 'Kolejne badanie użytkowników czytników ekranu'
 date: '2017-09-30T15:23:27+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1759'
 permalink: /2017/09/30/kolejne-badanie-uzytkownikow-czytnikow-ekranu/
 restapi_import_id:

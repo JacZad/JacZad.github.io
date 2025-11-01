@@ -2,7 +2,6 @@
 title: 'Masz prawo do cyfrowej dostępności'
 date: '2021-01-29T18:45:57+01:00'
 excerpt: 'Krótki poradnik, co zrobić napotykając brak dostępności cyfrowej na stronach podmiotów publicznych.'
-layout: post
 categories:
     - artykuły
 tags: [prawo, skarga, 'ustawa o dostępności cyfrowej', 'żądanie']

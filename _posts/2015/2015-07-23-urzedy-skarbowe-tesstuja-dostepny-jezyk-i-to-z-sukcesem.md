@@ -2,7 +2,6 @@
 id: 1402
 title: 'Urzędy skarbowe testują dostępny język i to z sukcesem'
 date: '2015-07-23T09:04:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1402'
 permalink: /2015/07/23/urzedy-skarbowe-tesstuja-dostepny-jezyk-i-to-z-sukcesem/
 restapi_import_id:

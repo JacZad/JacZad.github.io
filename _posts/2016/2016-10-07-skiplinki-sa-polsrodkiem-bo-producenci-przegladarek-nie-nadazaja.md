@@ -2,7 +2,6 @@
 id: 1564
 title: 'skiplinki są półśrodkiem, bo producenci przeglądarek nie nadążają'
 date: '2016-10-07T12:06:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1564'
 permalink: /2016/10/07/skiplinki-sa-polsrodkiem-bo-producenci-przegladarek-nie-nadazaja/
 restapi_import_id:

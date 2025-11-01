@@ -4,7 +4,6 @@ title: 'Wyniki ankiety bankowej'
 date: '2021-10-01T16:08:01+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Podsumowałem ankietę na temat niewidomych klientów banków. Części rzeczy się spodziewałem, a inne mnie zaskoczyły. Dobrze jest sprawdzać hipotezy.'
-layout: post
 guid: 'https://informaton.blog/?p=2512'
 permalink: /2021/10/01/wyniki-ankiety-bankowej/
 categories:

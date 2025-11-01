@@ -2,7 +2,6 @@
 id: 450
 title: 'Dostępność stron internetowych w systemach prawnych innych krajów'
 date: '2012-12-20T13:00:52+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=450'
 permalink: /2012/12/20/dostepnosc-stron-internetowych-w-systemach-prawnych-innych-krajw/
 restapi_import_id:

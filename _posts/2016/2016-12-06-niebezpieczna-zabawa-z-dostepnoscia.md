@@ -2,7 +2,6 @@
 id: 1592
 title: 'Niebezpieczna zabawa z dostępnością'
 date: '2016-12-06T09:28:28+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1592'
 permalink: /2016/12/06/niebezpieczna-zabawa-z-dostepnoscia/
 restapi_import_id:

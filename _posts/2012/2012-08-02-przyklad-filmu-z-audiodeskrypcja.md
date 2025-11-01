@@ -2,7 +2,6 @@
 id: 60
 title: 'Przykład filmu z audiodeskrypcją'
 date: '2012-08-02T08:06:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=60'
 permalink: /2012/08/02/przyklad-filmu-z-audiodeskrypcja/
 restapi_import_id:

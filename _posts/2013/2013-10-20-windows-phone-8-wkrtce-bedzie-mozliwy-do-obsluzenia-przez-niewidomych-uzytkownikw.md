@@ -2,7 +2,6 @@
 id: 875
 title: 'Windows Phone 8 wkrótce będzie możliwy do obsłużenia przez niewidomych użytkowników'
 date: '2013-10-20T14:39:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=875'
 permalink: /2013/10/20/windows-phone-8-wkrtce-bedzie-mozliwy-do-obsluzenia-przez-niewidomych-uzytkownikw/
 restapi_import_id:

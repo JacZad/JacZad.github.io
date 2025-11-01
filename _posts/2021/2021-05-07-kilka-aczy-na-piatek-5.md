@@ -3,7 +3,6 @@ id: 2298
 title: 'Kilka łączy na piątek (5)'
 date: '2021-05-07T14:22:56+02:00'
 excerpt: '5 blogów na piątek i ten szósty.'
-layout: post
 guid: 'http://informaton.blog/?p=2298'
 permalink: /2021/05/07/kilka-aczy-na-piatek-5/
 timeline_notification:

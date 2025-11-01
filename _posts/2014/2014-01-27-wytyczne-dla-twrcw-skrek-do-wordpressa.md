@@ -2,7 +2,6 @@
 id: 947
 title: 'Wytyczne dla twórców skórek do WordPressa'
 date: '2014-01-27T10:11:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=947'
 permalink: /2014/01/27/wytyczne-dla-twrcw-skrek-do-wordpressa/
 restapi_import_id:

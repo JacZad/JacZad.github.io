@@ -2,7 +2,6 @@
 id: 2014
 title: 'WCAG 2.1: rewolucja czy ewolucja?'
 date: '2019-05-19T21:06:08+02:00'
-layout: post
 guid: 'https://informaton531488923.wordpress.com/?p=2014'
 permalink: /2019/05/19/wcag-21-rewolucja-czy-ewolucja-2/
 timeline_notification:

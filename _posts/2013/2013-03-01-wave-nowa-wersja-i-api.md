@@ -2,7 +2,6 @@
 id: 622
 title: 'WAVE &#8211; nowa wersja i API'
 date: '2013-03-01T13:03:16+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=622'
 permalink: /2013/03/01/wave-nowa-wersja-i-api/
 restapi_import_id:

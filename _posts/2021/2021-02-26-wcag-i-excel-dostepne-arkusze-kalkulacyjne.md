@@ -3,7 +3,6 @@ id: 2101
 title: 'WCAG i Excel &#8211; dostępne arkusze kalkulacyjne'
 date: '2021-02-26T14:45:43+01:00'
 excerpt: 'Na specjalne zamówienie - przymiarka do wytycznych dla dostępnego arkusza kalkulacyjnego'
-layout: post
 guid: 'http://informaton.blog/?p=2101'
 permalink: /2021/02/26/wcag-i-excel-dostepne-arkusze-kalkulacyjne/
 timeline_notification:

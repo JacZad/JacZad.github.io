@@ -2,7 +2,6 @@
 id: 1475
 title: 'IPad w szkole? To może zadziałać!'
 date: '2015-12-10T14:26:25+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1475'
 permalink: /2015/12/10/ipad-w-szkole-to-moze-zadzialac/
 restapi_import_id:

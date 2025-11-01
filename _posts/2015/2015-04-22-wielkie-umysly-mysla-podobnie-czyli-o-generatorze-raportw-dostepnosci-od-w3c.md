@@ -2,7 +2,6 @@
 id: 1310
 title: 'Wielkie umysły myślą podobnie, czyli o generatorze raportów dostępności od W3C'
 date: '2015-04-22T10:01:16+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1310'
 permalink: /2015/04/22/wielkie-umysly-mysla-podobnie-czyli-o-generatorze-raportw-dostepnosci-od-w3c/
 restapi_import_id:

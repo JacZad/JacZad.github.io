@@ -2,7 +2,6 @@
 id: 217
 title: 'PDF Accessibility Checker'
 date: '2012-09-05T07:56:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=217'
 permalink: /2012/09/05/pdf-accessibility-checker/
 restapi_import_id:

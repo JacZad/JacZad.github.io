@@ -2,7 +2,6 @@
 id: 420
 title: 'Analiza przypadku &#8211; zakupy na Ceneo'
 date: '2012-12-07T16:07:02+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=420'
 permalink: /2012/12/07/analiza-przypadku-zakupy-na-ceneo/
 restapi_import_id:

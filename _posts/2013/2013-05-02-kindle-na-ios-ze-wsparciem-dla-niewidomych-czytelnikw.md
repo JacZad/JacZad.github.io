@@ -2,7 +2,6 @@
 id: 693
 title: 'Kindle na iOS ze wsparciem dla niewidomych czytelników'
 date: '2013-05-02T10:20:26+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=693'
 permalink: /2013/05/02/kindle-na-ios-ze-wsparciem-dla-niewidomych-czytelnikw/
 restapi_import_id:

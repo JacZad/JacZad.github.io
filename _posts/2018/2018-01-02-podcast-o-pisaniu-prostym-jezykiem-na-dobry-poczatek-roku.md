@@ -2,7 +2,6 @@
 id: 1802
 title: 'Podcast o pisaniu prostym językiem na dobry początek roku'
 date: '2018-01-02T11:09:01+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1802'
 permalink: /2018/01/02/podcast-o-pisaniu-prostym-jezykiem-na-dobry-poczatek-roku/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 474
 title: 'Zasady tworzenia audiodeskrypcji i napisów dla osób niesłyszących'
 date: '2013-01-03T11:03:17+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=474'
 permalink: /2013/01/03/zasady-tworzenia-audiodeskrypcji-i-napisw-dla-osb-nieslyszacych/
 restapi_import_id:

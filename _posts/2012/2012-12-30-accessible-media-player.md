@@ -2,7 +2,6 @@
 id: 458
 title: 'Accessible Media Player'
 date: '2012-12-30T18:55:28+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=458'
 permalink: /2012/12/30/accessible-media-player/
 restapi_import_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Projekt stanowiska polskiego rządu w sprawie dyrektywy o dostępności'
 date: '2012-12-17T09:41:46+01:00'
-layout: post
 categories:
     - artykuły
 tags:

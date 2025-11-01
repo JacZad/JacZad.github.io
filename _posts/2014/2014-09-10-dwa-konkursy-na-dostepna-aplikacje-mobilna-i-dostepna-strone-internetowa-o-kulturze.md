@@ -2,7 +2,6 @@
 id: 1135
 title: 'Dwa konkursy: na dostępną aplikację mobilną i dostępną stronę internetową o kulturze'
 date: '2014-09-10T20:53:38+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1135'
 permalink: /2014/09/10/dwa-konkursy-na-dostepna-aplikacje-mobilna-i-dostepna-strone-internetowa-o-kulturze/
 restapi_import_id:

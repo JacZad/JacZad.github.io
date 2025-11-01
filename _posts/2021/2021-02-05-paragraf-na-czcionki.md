@@ -2,7 +2,6 @@
 id: 2082
 title: 'Paragraf na czcionki'
 date: '2021-02-05T10:34:36+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2082'
 permalink: /2021/02/05/paragraf-na-czcionki/
 timeline_notification:

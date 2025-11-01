@@ -2,7 +2,6 @@
 id: 1545
 title: 'Adapter dostał nagrodę od Państwowego Instytutu Sztuki Filmowej i bardzo słusznie'
 date: '2016-09-26T08:46:15+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1545'
 permalink: /2016/09/26/adapter-dostal-nagrode-od-panstwowego-instytutu-sztuki-filmowej-i-bardzo-slusznie/
 restapi_import_id:

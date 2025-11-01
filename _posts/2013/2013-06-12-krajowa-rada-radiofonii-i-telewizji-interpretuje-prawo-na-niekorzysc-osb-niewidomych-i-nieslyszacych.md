@@ -2,7 +2,6 @@
 id: 712
 title: 'Krajowa Rada Radiofonii i Telewizji interpretuje prawo na niekorzyść osób niewidomych i niesłyszących'
 date: '2013-06-12T10:59:30+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=712'
 permalink: /2013/06/12/krajowa-rada-radiofonii-i-telewizji-interpretuje-prawo-na-niekorzysc-osb-niewidomych-i-nieslyszacych/
 restapi_import_id:

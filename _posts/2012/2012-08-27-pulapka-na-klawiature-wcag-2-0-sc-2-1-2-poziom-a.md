@@ -2,7 +2,6 @@
 id: 188
 title: 'Pułapka na klawiaturę (WCAG 2.0 SC 2.1.2, poziom A)'
 date: '2012-08-27T09:21:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=188'
 permalink: /2012/08/27/pulapka-na-klawiature-wcag-2-0-sc-2-1-2-poziom-a/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 822
 title: 'Prezentacja na temat ułatwień dostępu w Androidzie 4.3'
 date: '2013-09-13T09:36:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=822'
 permalink: /2013/09/13/prezentacja-na-temat-ulatwien-dostepu-w-androidzie-4-3/
 restapi_import_id:

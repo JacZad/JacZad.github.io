@@ -2,7 +2,6 @@
 id: 399
 title: 'Zapobieganie błędom (WCAG 2.0 SC 3.3.6, poziom AAA)'
 date: '2012-11-22T12:55:21+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=399'
 permalink: /2012/11/22/zapobieganie-bledom-wcag-2-0-sc-3-3-6-poziom-aaa/
 restapi_import_id:

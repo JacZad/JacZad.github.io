@@ -2,7 +2,6 @@
 id: 1574
 title: 'Bezpłatny kurs dostępnego projektowania aplikacji webowych od Google'
 date: '2016-11-30T14:07:05+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1574'
 permalink: /2016/11/30/bezplatny-kurs-dostepnego-projektowania-aplikacji-webowych-od-google/
 restapi_import_id:

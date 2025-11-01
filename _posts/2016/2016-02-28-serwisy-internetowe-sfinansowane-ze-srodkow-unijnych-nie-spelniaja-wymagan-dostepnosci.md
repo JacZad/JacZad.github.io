@@ -2,7 +2,6 @@
 id: 1511
 title: 'Serwisy internetowe sfinansowane ze środków unijnych nie spełniają wymagań dostępności'
 date: '2016-02-28T17:38:34+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1511'
 permalink: /2016/02/28/serwisy-internetowe-sfinansowane-ze-srodkow-unijnych-nie-spelniaja-wymagan-dostepnosci/
 restapi_import_id:

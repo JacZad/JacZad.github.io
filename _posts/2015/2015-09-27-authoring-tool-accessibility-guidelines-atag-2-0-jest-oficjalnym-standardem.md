@@ -1,7 +1,6 @@
 ---
 title: 'Authoring Tool Accessibility Guidelines (ATAG) 2.0 jest oficjalnym standardem'
 date: '2015-09-27T10:01:01+02:00'
-layout: post
 categories:
     - artykuły
 tags:

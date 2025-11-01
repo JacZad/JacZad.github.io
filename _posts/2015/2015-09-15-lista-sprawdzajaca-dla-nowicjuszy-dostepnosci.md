@@ -2,7 +2,6 @@
 id: 1434
 title: 'Lista sprawdzająca dla nowicjuszy dostępności'
 date: '2015-09-15T07:33:59+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1434'
 permalink: /2015/09/15/lista-sprawdzajaca-dla-nowicjuszy-dostepnosci/
 restapi_import_id:

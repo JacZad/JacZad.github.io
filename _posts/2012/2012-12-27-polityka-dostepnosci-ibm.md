@@ -2,7 +2,6 @@
 id: 454
 title: 'Polityka dostępności &#8211; IBM'
 date: '2012-12-27T12:34:44+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=454'
 permalink: /2012/12/27/polityka-dostepnosci-ibm/
 restapi_import_id:

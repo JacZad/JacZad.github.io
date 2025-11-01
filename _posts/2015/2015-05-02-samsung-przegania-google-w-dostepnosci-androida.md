@@ -2,7 +2,6 @@
 id: 1329
 title: 'Samsung przegania Google w dostępności Androida'
 date: '2015-05-02T08:18:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1329'
 permalink: /2015/05/02/samsung-przegania-google-w-dostepnosci-androida/
 restapi_import_id:

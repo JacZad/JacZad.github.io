@@ -2,7 +2,6 @@
 id: 744
 title: 'Opamiętajcie się i przestańcie używać formatu PDF bez potrzeby!'
 date: '2013-07-18T14:38:35+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=744'
 permalink: /2013/07/18/opamietajcie-sie-i-przestancie-uzywac-formatu-pdf-bez-potrzeby/
 restapi_import_id:

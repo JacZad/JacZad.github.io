@@ -3,7 +3,6 @@ id: 2590
 title: 'Dostępne treści w mediach społecznościowych (po angielsku)'
 date: '2021-12-02T12:48:57+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 guid: 'https://informaton.blog/?p=2590'
 permalink: /2021/12/02/dostepne-tresci-w-mediach-spolecznosciowych-po-angielsku/
 categories:

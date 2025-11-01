@@ -2,7 +2,6 @@
 id: 1864
 title: 'Bardzo pobieżny przegląd aktualizacji WCAG do wersji 2.1'
 date: '2018-08-18T14:48:17+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1864'
 permalink: /2018/08/18/bardzo-pobiezny-przeglad-aktualizacji-wcag-do-wersji-2-1/
 restapi_import_id:

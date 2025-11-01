@@ -1,7 +1,6 @@
 ---
 title: 'O dostępności usług bankowych w Poznaniu'
 date: '2012-09-19T22:04:00+02:00'
-layout: post
 categories:
     - artykuły
 tags:

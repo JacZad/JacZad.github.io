@@ -2,7 +2,6 @@
 id: 825
 title: 'Warszawa pokazała, jak nie robić cyfrowego włączenia'
 date: '2013-09-17T13:06:56+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=825'
 permalink: /2013/09/17/warszawa-pokazala-jak-nie-robic-cyfrowego-wlaczenia/
 restapi_import_id:

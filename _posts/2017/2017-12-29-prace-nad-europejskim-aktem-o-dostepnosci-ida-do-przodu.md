@@ -2,7 +2,6 @@
 id: 1797
 title: 'Prace nad Europejskim Aktem o Dostępności idą do przodu'
 date: '2017-12-29T11:22:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1797'
 permalink: /2017/12/29/prace-nad-europejskim-aktem-o-dostepnosci-ida-do-przodu/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 603
 title: 'Obcy przy agorze'
 date: '2013-02-13T21:20:02+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=603'
 permalink: /2013/02/13/obcy-przy-agorze/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 662
 title: 'W Sejmie o dostępności dóbr kultury dla osób niepełnosprawnych'
 date: '2013-04-03T12:37:55+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=662'
 permalink: /2013/04/03/w-sejmie-o-dostepnosci-dbr-kultury-dla-osb-niepelnosprawnych/
 restapi_import_id:

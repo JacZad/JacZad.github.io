@@ -1,7 +1,6 @@
 ---
 title: 'Droga ku światłości'
 date: '2013-02-15T19:31:26+01:00'
-layout: post
 categories:
     - artykuły
 tags:

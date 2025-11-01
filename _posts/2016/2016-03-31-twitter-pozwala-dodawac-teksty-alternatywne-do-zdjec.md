@@ -2,7 +2,6 @@
 id: 1514
 title: 'Twitter pozwala dodawać teksty alternatywne do zdjęć'
 date: '2016-03-31T18:45:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1514'
 permalink: /2016/03/31/twitter-pozwala-dodawac-teksty-alternatywne-do-zdjec/
 restapi_import_id:

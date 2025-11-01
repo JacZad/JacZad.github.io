@@ -2,7 +2,6 @@
 id: 1376
 title: 'Szóste badanie użytkowników czytników ekranu'
 date: '2015-07-09T07:42:54+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1376'
 permalink: /2015/07/09/szste-badanie-uzytkownikw-czytnikw-ekranu/
 restapi_import_id:

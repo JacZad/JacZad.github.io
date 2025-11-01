@@ -2,7 +2,6 @@
 id: 739
 title: 'Nowa Zelandia opublikowała standardy dostępności i użyteczności publicznych stron internetowych'
 date: '2013-07-02T11:28:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=739'
 permalink: /2013/07/02/nowa-zelandia-opublikowala-standardy-dostepnosci-i-uzytecznosci-publicznych-stron-internetowych/
 restapi_import_id:

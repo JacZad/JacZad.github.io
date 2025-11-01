@@ -2,7 +2,6 @@
 id: 1070
 title: 'Technologie mobilne używane przez osoby z niepełnosprawnością wzroku 2014'
 date: '2014-07-03T13:27:40+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1070'
 permalink: /2014/07/03/technologie-mobilne-uzywane-przez-osoby-z-niepelnosprawnoscia-wzroku-2014/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1439
 title: 'Druga część podcastu z Dominikiem Paszkiewiczem'
 date: '2015-09-26T14:34:53+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1439'
 permalink: /2015/09/26/druga-czesc-podcastu-z-dominikiem-paszkiewiczem/
 restapi_import_id:

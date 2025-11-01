@@ -2,7 +2,6 @@
 title: "Odcinek 16: Prosto, czyli jak komunikować się efektywnie, z szacunkiem i dostępnie"
 date: 2022-12-05
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - podcast
 tags: ['Beata Strzelczyk', 'prosty język', 'komunikacja', 'tekst']

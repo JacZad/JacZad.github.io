@@ -2,7 +2,6 @@
 id: 1472
 title: 'Komisja Europejska wraca do jednolitego aktu o dostępności'
 date: '2015-12-03T19:20:19+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1472'
 permalink: /2015/12/03/komisja-europejska-wraca-do-jednolitego-aktu-o-dostepnosci/
 restapi_import_id:

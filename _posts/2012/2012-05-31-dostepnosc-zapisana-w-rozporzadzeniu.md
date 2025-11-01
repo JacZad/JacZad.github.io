@@ -2,7 +2,6 @@
 title: 'Dostępność zapisana w rozporządzeniu'
 date: '2012-05-31T14:30:00+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Rozporządzenie KRI", prawo, WCAG, "WCAG 2.0"]
 categories:
     - artykuły

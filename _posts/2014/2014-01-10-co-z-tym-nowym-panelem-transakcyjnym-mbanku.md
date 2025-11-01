@@ -2,7 +2,6 @@
 id: 916
 title: 'Co z tym nowym panelem transakcyjnym mBanku?'
 date: '2014-01-10T13:05:51+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=916'
 permalink: /2014/01/10/co-z-tym-nowym-panelem-transakcyjnym-mbanku/
 restapi_import_id:

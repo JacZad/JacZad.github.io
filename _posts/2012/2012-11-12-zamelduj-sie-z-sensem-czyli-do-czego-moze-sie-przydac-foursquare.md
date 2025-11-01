@@ -2,7 +2,6 @@
 id: 366
 title: 'Zamelduj się z sensem, czyli do czego może się przydać Foursquare'
 date: '2012-11-12T09:12:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=366'
 permalink: /2012/11/12/zamelduj-sie-z-sensem-czyli-do-czego-moze-sie-przydac-foursquare/
 restapi_import_id:

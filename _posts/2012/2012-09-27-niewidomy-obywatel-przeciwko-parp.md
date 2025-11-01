@@ -2,7 +2,6 @@
 id: 275
 title: 'Niewidomy obywatel przeciwko PARP'
 date: '2012-09-27T11:19:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=275'
 permalink: /2012/09/27/niewidomy-obywatel-przeciwko-parp/
 restapi_import_id:

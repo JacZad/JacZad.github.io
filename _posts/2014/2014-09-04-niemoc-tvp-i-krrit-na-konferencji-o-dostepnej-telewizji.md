@@ -2,7 +2,6 @@
 id: 1122
 title: 'Niemoc TVP i KRRiT na konferencji o dostępnej telewizji'
 date: '2014-09-04T08:44:56+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1122'
 permalink: /2014/09/04/niemoc-tvp-i-krrit-na-konferencji-o-dostepnej-telewizji/
 restapi_import_id:

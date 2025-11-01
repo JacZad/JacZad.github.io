@@ -1,10 +1,8 @@
----
 id: 2484
 title: 'Kilka łączy na piątek (quizy #2)'
 date: '2021-09-24T11:44:13+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Dzisiaj 5 quizów: język migowy, napisy, HTML, zatrudnianie i dokumenty tekstowe. Wybierz ten, który da Ci najwięcej satysfakcji lub sprawdź, czego jeszcze nie wiesz.'
-layout: post
 guid: 'https://informaton.blog/?p=2484'
 permalink: /2021/09/24/kilka-aczy-na-piatek-quizy-2/
 categories:
@@ -16,7 +14,6 @@ tags:
     - praca
     - quizy
     - Word
----
 
 Rozwój platformy Quizally idzie do przodu. Można już zakładać konta, a wkrótce wydzielone sekcje dla konkretnych obszarów, szkoleń, organizacji. Idzie nam dobrze, ale czym byłaby ta platforma bez quizów?
 

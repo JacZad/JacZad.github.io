@@ -2,7 +2,6 @@
 id: 1867
 title: 'Twitter i dodawanie tekstów alternatywnych do grafiki'
 date: '2018-08-27T18:49:38+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1867'
 permalink: /2018/08/27/twitter-i-dodawanie-tekstow-alternatywnych-do-grafiki/
 restapi_import_id:

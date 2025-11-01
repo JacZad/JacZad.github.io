@@ -3,7 +3,6 @@ id: 2404
 title: 'Kilka łączy na piątek (refleksje)'
 date: '2021-07-16T12:24:26+02:00'
 excerpt: 'Kilka tekstów o metadostępności. Sam wymyśliłem to pojęcie, więc może być mało adekwatne. Teksty o przyszłości dostępności.'
-layout: post
 guid: 'http://informaton.blog/?p=2404'
 permalink: /2021/07/16/kilka-aczy-na-piatek-refleksje/
 publicize_twitter_user:

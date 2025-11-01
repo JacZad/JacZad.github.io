@@ -2,7 +2,6 @@
 id: 1371
 title: 'Dostępne szablony serwisów internetowych za darmo od FDC'
 date: '2015-07-03T13:44:51+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1371'
 permalink: /2015/07/03/dostepne-szablony-serwisw-internetowych-za-darmo-od-fdc/
 restapi_import_id:

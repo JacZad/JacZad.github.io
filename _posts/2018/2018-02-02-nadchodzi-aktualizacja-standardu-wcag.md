@@ -2,7 +2,6 @@
 id: 1811
 title: 'Nadchodzi aktualizacja standardu WCAG'
 date: '2018-02-02T11:34:10+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1811'
 permalink: /2018/02/02/nadchodzi-aktualizacja-standardu-wcag/
 restapi_import_id:

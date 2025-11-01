@@ -2,7 +2,6 @@
 title: 'Odcinek nr 8: Kinematograf, czyli 17 lat dojrzewania do dostępności'
 date: '2022-08-19T08:00:52+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Anna Czapnik", "Janusz Olszyński", "Kinematograf", "dostępna kultura"]
 categories:
     - Podcast

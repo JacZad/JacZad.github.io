@@ -2,7 +2,6 @@
 id: 1478
 title: 'Sklepy internetowe nie chcą naszych pieniędzy! Jak nie, to nie!'
 date: '2015-12-16T17:49:20+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1478'
 permalink: /2015/12/16/sklepy-internetowe-nie-chca-naszych-pieniedzy-jak-nie-to-nie/
 restapi_import_id:

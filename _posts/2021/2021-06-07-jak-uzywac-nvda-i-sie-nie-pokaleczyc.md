@@ -3,7 +3,7 @@ id: 2352
 title: 'Jak używać NVDA i się nie pokaleczyć?'
 date: '2021-06-07T10:20:24+02:00'
 excerpt: 'Zapraszam na webinar, w którym opowiem o tym, jak używać NVDA i się nie pokaleczyć.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2352'
 permalink: /2021/06/07/jak-uzywac-nvda-i-sie-nie-pokaleczyc/
 timeline_notification:

@@ -2,7 +2,6 @@
 id: 1303
 title: 'Formularz niedostępny, że aż boli.'
 date: '2015-04-17T10:22:23+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1303'
 permalink: /2015/04/17/formularz-niedostepny-ze-az-boli/
 restapi_import_id:

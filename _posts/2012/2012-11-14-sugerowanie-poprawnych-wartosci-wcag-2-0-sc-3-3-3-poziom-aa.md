@@ -2,7 +2,6 @@
 id: 371
 title: 'Sugerowanie poprawnych wartości (WCAG 2.0 SC 3.3.3, poziom AA)'
 date: '2012-11-14T09:36:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=371'
 permalink: /2012/11/14/sugerowanie-poprawnych-wartosci-wcag-2-0-sc-3-3-3-poziom-aa/
 restapi_import_id:

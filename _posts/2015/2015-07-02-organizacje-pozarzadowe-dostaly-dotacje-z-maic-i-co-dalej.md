@@ -2,7 +2,6 @@
 id: 1369
 title: 'Organizacje pozarządowe dostały dotacje z MAiC i co dalej?'
 date: '2015-07-02T09:29:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1369'
 permalink: /2015/07/02/organizacje-pozarzadowe-dostaly-dotacje-z-maic-i-co-dalej/
 restapi_import_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Wszystkie projekty finansowane ze środków unijnych muszą być dostępne'
 date: '2015-05-19T07:41:47+02:00'
-layout: post
 categories:
     - artykuły
 tags:

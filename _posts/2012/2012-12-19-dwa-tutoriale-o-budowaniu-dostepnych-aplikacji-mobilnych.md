@@ -2,7 +2,6 @@
 id: 449
 title: 'Dwa tutoriale o budowaniu dostępnych aplikacji mobilnych'
 date: '2012-12-19T17:06:13+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=449'
 permalink: /2012/12/19/dwa-tutoriale-o-budowaniu-dostepnych-aplikacji-mobilnych/
 restapi_import_id:

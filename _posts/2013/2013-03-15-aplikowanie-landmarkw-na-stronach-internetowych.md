@@ -2,7 +2,6 @@
 id: 634
 title: 'Aplikowanie landmarków na stronach internetowych'
 date: '2013-03-15T13:18:11+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=634'
 permalink: /2013/03/15/aplikowanie-landmarkw-na-stronach-internetowych/
 restapi_import_id:

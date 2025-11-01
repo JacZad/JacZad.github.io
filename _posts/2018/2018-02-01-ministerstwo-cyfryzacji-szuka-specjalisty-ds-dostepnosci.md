@@ -2,7 +2,6 @@
 id: 1809
 title: 'Ministerstwo Cyfryzacji szuka specjalisty ds dostępności'
 date: '2018-02-01T08:54:41+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1809'
 permalink: /2018/02/01/ministerstwo-cyfryzacji-szuka-specjalisty-ds-dostepnosci/
 restapi_import_id:

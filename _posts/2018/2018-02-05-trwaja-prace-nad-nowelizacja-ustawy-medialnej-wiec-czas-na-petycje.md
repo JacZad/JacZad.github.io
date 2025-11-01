@@ -2,7 +2,6 @@
 id: 1813
 title: 'Trwają prace nad nowelizacją ustawy medialnej, więc czas na petycję'
 date: '2018-02-05T10:52:48+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1813'
 permalink: /2018/02/05/trwaja-prace-nad-nowelizacja-ustawy-medialnej-wiec-czas-na-petycje/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 140
 title: 'Powiększanie tekstu (WCAG 2.0 SC 1.4.4, poziom AA)'
 date: '2012-08-17T10:33:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=140'
 permalink: /2012/08/17/powiekszanie-tekstu-wcag-2-0-sc-1-4-4-poziom-aa/
 restapi_import_id:

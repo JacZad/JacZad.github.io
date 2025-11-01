@@ -2,7 +2,6 @@
 id: 1046
 title: 'Rozszerzona audiodeskrypcja w spocie wyborczym'
 date: '2014-05-17T14:35:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1046'
 permalink: /2014/05/17/rozszerzona-audiodeskrypcja-w-spocie-wyborczym/
 restapi_import_id:

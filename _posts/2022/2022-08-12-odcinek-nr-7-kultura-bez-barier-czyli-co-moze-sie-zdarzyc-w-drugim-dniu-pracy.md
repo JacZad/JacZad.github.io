@@ -2,7 +2,6 @@
 title: 'Odcinek nr 7: Kultura bez barier, czyli co może się zdarzyć w drugim dniu pracy'
 date: '2022-08-12T05:09:56+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Anna Żórawska", "FKBB", "dostępna kultura", "festiwal"]
 categories:
     - Podcast

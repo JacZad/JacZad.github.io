@@ -2,7 +2,6 @@
 id: 2025
 title: 'Pismo jest fundamentem dostępności cyfrowej, który się chwieje'
 date: '2019-07-18T10:14:52+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2025'
 permalink: /2019/07/18/pismo-jest-fundamentem-dostepnosci-cyfrowej/
 timeline_notification:

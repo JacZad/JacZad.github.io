@@ -2,7 +2,6 @@
 id: 1087
 title: 'Zaproszenie na konferencję poświęconą dostępności stron internetowych'
 date: '2014-07-30T11:55:52+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1087'
 permalink: /2014/07/30/zaproszenie-na-konferencje-poswiecona-dostepnosci-stron-internetowych/
 restapi_import_id:

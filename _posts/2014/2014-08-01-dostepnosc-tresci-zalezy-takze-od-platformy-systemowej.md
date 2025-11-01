@@ -2,7 +2,6 @@
 id: 1089
 title: 'Dostępność treści zależy także od platformy systemowej'
 date: '2014-08-01T11:53:05+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1089'
 permalink: /2014/08/01/dostepnosc-tresci-zalezy-takze-od-platformy-systemowej/
 restapi_import_id:

@@ -3,7 +3,6 @@ id: 2144
 title: 'GUS nie radzi sobie z dostępnością cyfrową i popełnia kolejne wtopy'
 date: '2021-03-27T11:14:48+01:00'
 excerpt: 'GUS popełnia wtopę za wtopą i raczej nie ma co liczyć na poprawę. Dzisiaj o dwóch bardzo na czasie.'
-layout: post
 guid: 'http://informaton.blog/?p=2144'
 permalink: /2021/03/27/gus-nie-radzi-sobie-z-dostepnoscia-cyfrowa-i-popenia-kolejne-wtopy/
 timeline_notification:

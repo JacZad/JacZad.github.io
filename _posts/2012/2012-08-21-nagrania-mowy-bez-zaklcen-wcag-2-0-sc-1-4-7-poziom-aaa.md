@@ -2,7 +2,6 @@
 id: 157
 title: 'Nagrania mowy bez zakłóceń (WCAG 2.0 SC 1.4.7, poziom AAA)'
 date: '2012-08-21T09:00:26+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=157'
 permalink: /2012/08/21/nagrania-mowy-bez-zaklcen-wcag-2-0-sc-1-4-7-poziom-aaa/
 restapi_import_id:

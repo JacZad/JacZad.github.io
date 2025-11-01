@@ -2,7 +2,6 @@
 id: 379
 title: 'Dostępne skórki dla WordPressa'
 date: '2012-11-18T10:56:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=379'
 permalink: /2012/11/18/dostepne-skrki-dla-wordpressa/
 restapi_import_id:

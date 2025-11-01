@@ -1,7 +1,6 @@
 ---
 title: 'Dostępność w 2013 roku &#8211; czas podsumowań'
 date: '2014-01-01T00:35:00+01:00'
-layout: post
 categories:
     - artykuły
 tags:

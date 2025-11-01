@@ -1,7 +1,6 @@
 ---
 title: 'Mały poradnik o tworzeniu dostępnych książek elektronicznych'
 date: '2019-01-11T19:36:55+01:00'
-layout: post
 categories:
     - artykuły
 tags:

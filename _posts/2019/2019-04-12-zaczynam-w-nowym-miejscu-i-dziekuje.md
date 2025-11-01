@@ -2,7 +2,6 @@
 id: 1991
 title: 'Zaczynam w nowym miejscu i dziękuję'
 date: '2019-04-12T17:59:17+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=1991'
 permalink: /2019/04/12/zaczynam-w-nowym-miejscu-i-dziekuje/
 timeline_notification:

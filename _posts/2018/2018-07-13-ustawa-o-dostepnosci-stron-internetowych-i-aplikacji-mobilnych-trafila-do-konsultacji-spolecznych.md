@@ -2,7 +2,6 @@
 id: 1860
 title: 'Ustawa o dostępności stron internetowych i aplikacji mobilnych trafiła do konsultacji społecznych'
 date: '2018-07-13T08:24:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1860'
 permalink: /2018/07/13/ustawa-o-dostepnosci-stron-internetowych-i-aplikacji-mobilnych-trafila-do-konsultacji-spolecznych/
 restapi_import_id:

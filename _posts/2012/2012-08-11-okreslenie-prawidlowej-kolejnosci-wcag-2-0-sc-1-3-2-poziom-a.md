@@ -2,7 +2,6 @@
 id: 113
 title: 'Określenie prawidłowej kolejności (WCAG 2.0 SC 1.3.2, poziom A)'
 date: '2012-08-11T11:38:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=113'
 permalink: /2012/08/11/okreslenie-prawidlowej-kolejnosci-wcag-2-0-sc-1-3-2-poziom-a/
 restapi_import_id:

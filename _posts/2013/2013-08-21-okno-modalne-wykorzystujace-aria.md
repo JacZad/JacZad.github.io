@@ -2,7 +2,6 @@
 id: 773
 title: 'Okno modalne wykorzystujące ARIA'
 date: '2013-08-21T12:03:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=773'
 permalink: /2013/08/21/okno-modalne-wykorzystujace-aria/
 restapi_import_id:

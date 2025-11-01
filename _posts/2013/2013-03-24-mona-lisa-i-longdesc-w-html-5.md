@@ -2,7 +2,6 @@
 id: 611
 title: 'Mona Lisa i LONGDESC w HTML 5'
 date: '2013-03-24T05:45:13+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=611'
 permalink: /2013/03/24/mona-lisa-i-longdesc-w-html-5/
 restapi_import_id:

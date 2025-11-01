@@ -2,7 +2,6 @@
 id: 1319
 title: 'Forum Dostępnej Cyberprzestrzeni po raz czwarty przyznało swoje nagrody'
 date: '2015-04-27T17:17:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1319'
 permalink: /2015/04/27/forum-dostepnej-cyberprzestrzeni-po-raz-czwarty-przyznalo-swoje-nagrody/
 restapi_import_id:

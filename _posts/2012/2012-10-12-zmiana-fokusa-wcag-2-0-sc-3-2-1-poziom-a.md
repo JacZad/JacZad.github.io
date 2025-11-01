@@ -2,7 +2,6 @@
 id: 309
 title: 'Zmiana fokusa (WCAG 2.0 SC 3.2.1, poziom A)'
 date: '2012-10-12T08:34:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=309'
 permalink: /2012/10/12/zmiana-fokusa-wcag-2-0-sc-3-2-1-poziom-a/
 restapi_import_id:

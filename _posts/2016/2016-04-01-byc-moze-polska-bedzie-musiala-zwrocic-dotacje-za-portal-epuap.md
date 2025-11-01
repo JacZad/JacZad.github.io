@@ -2,7 +2,6 @@
 id: 1516
 title: 'Być może Polska będzie musiała zwrócić dotację za portal EPUAP'
 date: '2016-04-01T09:08:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1516'
 permalink: /2016/04/01/byc-moze-polska-bedzie-musiala-zwrocic-dotacje-za-portal-epuap/
 restapi_import_id:

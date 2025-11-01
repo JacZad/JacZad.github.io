@@ -2,7 +2,6 @@
 id: 594
 title: 'WordPress znowu mnie zaskoczył &#8211; edytor wpisów jest dostępny dla czytnika ekranu'
 date: '2013-02-11T17:37:57+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=594'
 permalink: /2013/02/11/wordpress-znowu-mnie-zaskoczyl-edytor-wpisow-jest-dostepny-dla-czytnika-ekranu/
 restapi_import_id:

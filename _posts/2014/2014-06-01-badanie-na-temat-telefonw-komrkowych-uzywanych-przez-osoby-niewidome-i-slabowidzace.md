@@ -2,7 +2,6 @@
 id: 1063
 title: 'Badanie na temat telefonów komórkowych używanych przez osoby niewidome i słabowidzące'
 date: '2014-06-01T00:03:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1063'
 permalink: /2014/06/01/badanie-na-temat-telefonw-komrkowych-uzywanych-przez-osoby-niewidome-i-slabowidzace/
 restapi_import_id:

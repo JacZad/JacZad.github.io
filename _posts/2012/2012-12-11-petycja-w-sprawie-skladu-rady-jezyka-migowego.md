@@ -2,7 +2,6 @@
 id: 427
 title: 'Petycja w sprawie składu Rady Języka Migowego'
 date: '2012-12-11T11:49:14+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=427'
 permalink: /2012/12/11/petycja-w-sprawie-skladu-rady-jezyka-migowego/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 2005
 title: 'Dostępność a sztuczna inteligencja i uczenie maszynowe'
 date: '2019-04-23T13:09:43+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2005'
 permalink: /2019/04/23/dostepnosc-a-sztuczna-inteligencja-i-uczenie-maszynowe/
 timeline_notification:

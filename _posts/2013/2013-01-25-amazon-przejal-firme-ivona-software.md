@@ -2,7 +2,6 @@
 id: 533
 title: 'Amazon przejął firmę IVONA Software'
 date: '2013-01-25T11:33:37+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=533'
 permalink: /2013/01/25/amazon-przejal-firme-ivona-software/
 restapi_import_id:

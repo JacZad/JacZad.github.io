@@ -2,7 +2,6 @@
 id: 296
 title: 'Nietypowe słownictwo (WCAG 2.0 SC 3.1.3, poziom AAA)'
 date: '2012-10-08T08:42:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=296'
 permalink: /2012/10/08/nietypowe-slownictwo-wcag-2-0-sc-3-1-3-poziom-aaa/
 restapi_import_id:

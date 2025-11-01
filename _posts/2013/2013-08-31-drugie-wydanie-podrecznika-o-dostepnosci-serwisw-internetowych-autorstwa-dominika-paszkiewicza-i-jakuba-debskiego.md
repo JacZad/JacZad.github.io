@@ -2,7 +2,6 @@
 id: 782
 title: 'Drugie wydanie podręcznika o dostępności serwisów internetowych autorstwa Dominika Paszkiewicza i Jakuba Dębskiego'
 date: '2013-08-31T09:26:15+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=782'
 permalink: /2013/08/31/drugie-wydanie-podrecznika-o-dostepnosci-serwisw-internetowych-autorstwa-dominika-paszkiewicza-i-jakuba-debskiego/
 restapi_import_id:

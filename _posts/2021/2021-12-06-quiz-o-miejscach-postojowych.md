@@ -3,7 +3,6 @@ id: 2607
 title: 'Quiz o miejscach postojowych'
 date: '2021-12-06T08:16:31+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 guid: 'https://informaton.blog/?p=2607'
 permalink: /2021/12/06/quiz-o-miejscach-postojowych/
 categories:

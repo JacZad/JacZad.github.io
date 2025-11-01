@@ -2,7 +2,6 @@
 id: 1746
 title: 'Dostępne wykresy w formacie SVG'
 date: '2017-09-16T11:00:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1746'
 permalink: /2017/09/16/dostepne-wykresy-w-formacie-svg/
 restapi_import_id:

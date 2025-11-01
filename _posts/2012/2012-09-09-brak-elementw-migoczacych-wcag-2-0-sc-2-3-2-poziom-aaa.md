@@ -2,7 +2,6 @@
 id: 231
 title: 'Brak elementów migoczących (WCAG 2.0 SC 2.3.2, poziom AAA)'
 date: '2012-09-09T05:51:53+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=231'
 permalink: /2012/09/09/brak-elementw-migoczacych-wcag-2-0-sc-2-3-2-poziom-aaa/
 restapi_import_id:

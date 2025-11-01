@@ -2,7 +2,6 @@
 id: 741
 title: 'Podręcznik o tworzeniu dostępnych zasobów edukacyjnych.'
 date: '2013-07-04T07:41:21+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=741'
 permalink: /2013/07/04/podrecznik-o-tworzeniu-dostepnych-zasobw-edukacyjnych/
 restapi_import_id:

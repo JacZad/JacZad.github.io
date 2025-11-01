@@ -2,7 +2,6 @@
 id: 93
 title: 'Tworzenie opisów alternatywnych grafiki na stronach internetowych (2) dla redaktorów'
 date: '2012-08-07T11:35:48+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=93'
 permalink: /2012/08/07/tworzenie-opisw-alternatywnych-grafiki-na-stronach-internetowych-2/
 restapi_import_id:

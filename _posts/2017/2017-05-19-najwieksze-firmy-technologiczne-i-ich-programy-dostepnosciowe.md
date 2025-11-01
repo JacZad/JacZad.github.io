@@ -2,7 +2,6 @@
 id: 1671
 title: 'Największe firmy technologiczne i ich programy dostępnościowe'
 date: '2017-05-19T18:04:35+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1671'
 permalink: /2017/05/19/najwieksze-firmy-technologiczne-i-ich-programy-dostepnosciowe/
 restapi_import_id:

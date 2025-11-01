@@ -2,7 +2,6 @@
 id: 1012
 title: 'Filmowy pies przewodnik'
 date: '2014-04-09T09:23:40+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1012'
 permalink: /2014/04/09/filmowy-pies-przewodnik/
 restapi_import_id:

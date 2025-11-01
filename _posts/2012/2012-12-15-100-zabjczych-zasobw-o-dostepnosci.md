@@ -2,7 +2,6 @@
 id: 445
 title: '100 zabójczych zasobów o dostępności'
 date: '2012-12-15T13:52:59+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=445'
 permalink: /2012/12/15/100-zabjczych-zasobw-o-dostepnosci/
 restapi_import_id:

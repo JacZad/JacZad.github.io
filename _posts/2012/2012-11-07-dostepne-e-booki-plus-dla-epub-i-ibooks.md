@@ -2,7 +2,6 @@
 id: 359
 title: 'Dostępne e-booki &#8211; plus dla EPUB i iBooks'
 date: '2012-11-07T09:45:52+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=359'
 permalink: /2012/11/07/dostepne-e-booki-plus-dla-epub-i-ibooks/
 restapi_import_id:

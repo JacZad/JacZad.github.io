@@ -2,7 +2,6 @@
 id: 912
 title: 'Zaproszenie do kolejnego już badania użytkowników czytników ekranu'
 date: '2014-01-02T20:27:14+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=912'
 permalink: /2014/01/02/zaproszenie-do-kolejnego-juz-badania-uzytkownikw-czytnikw-ekranu/
 restapi_import_id:

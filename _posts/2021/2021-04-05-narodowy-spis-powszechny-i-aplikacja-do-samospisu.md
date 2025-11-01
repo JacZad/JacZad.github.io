@@ -4,7 +4,6 @@ title: 'Narodowy Spis Powszechny i aplikacja do samospisu'
 date: '2021-04-05T20:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Złożyłem żądanie zapewnienia cyfrowej dostępności aplikacji do samodzielnego spisywania się. GUS o tym jakoś zapomniał. Namówiłem też trochę innych osób niewidomych. Na końcu kilka refleksji pobocznych.'
-layout: post
 guid: 'https://informaton.blog/?p=2478'
 permalink: /2021/04/05/narodowy-spis-powszechny-i-aplikacja-do-samospisu/
 categories:

@@ -2,7 +2,6 @@
 id: 1098
 title: 'Zaproszenie na konferencję o dostępnej telewizji'
 date: '2014-08-07T08:14:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1098'
 permalink: /2014/08/07/zaproszenie-na-konferencje-o-dostepnej-telewizji/
 restapi_import_id:

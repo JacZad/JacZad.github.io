@@ -2,7 +2,6 @@
 id: 1220
 title: 'Monitor dostępności dla WordPressa'
 date: '2015-01-11T09:25:35+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1220'
 permalink: /2015/01/11/monitor-dostepnosci-dla-wordpressa/
 restapi_import_id:

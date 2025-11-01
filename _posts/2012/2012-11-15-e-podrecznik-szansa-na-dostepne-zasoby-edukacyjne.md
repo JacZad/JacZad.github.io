@@ -2,7 +2,6 @@
 id: 373
 title: 'E-podręcznik &#8211; szansa na dostępne zasoby edukacyjne'
 date: '2012-11-15T10:12:57+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=373'
 permalink: /2012/11/15/e-podrecznik-szansa-na-dostepne-zasoby-edukacyjne/
 restapi_import_id:

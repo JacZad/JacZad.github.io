@@ -2,7 +2,6 @@
 id: 42
 title: 'Napisy w transmisjach na żywo (WCAG 2.0 SC 1.2.4, poziom AA)'
 date: '2012-07-30T12:51:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=42'
 permalink: /2012/07/30/napisy-w-transmisjach-na-zywo-wcag-2-0-sc-1-2-4-poziom-aa/
 restapi_import_id:

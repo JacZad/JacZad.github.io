@@ -2,7 +2,6 @@
 id: 2091
 title: 'Awatar miga w PJM'
 date: '2021-02-11T18:34:09+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2091'
 permalink: /2021/02/11/awatar-miga-w-pjm/
 publicize_linkedin_url:

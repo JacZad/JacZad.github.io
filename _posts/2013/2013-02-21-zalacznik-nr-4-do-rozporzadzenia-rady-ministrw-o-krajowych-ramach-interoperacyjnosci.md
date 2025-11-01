@@ -2,7 +2,6 @@
 id: 614
 title: 'Załącznik nr 4 do rozporządzenia Rady Ministrów o Krajowych Ramach Interoperacyjności&#8230;'
 date: '2013-02-21T12:32:05+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=614'
 permalink: /2013/02/21/zalacznik-nr-4-do-rozporzadzenia-rady-ministrw-o-krajowych-ramach-interoperacyjnosci/
 restapi_import_id:

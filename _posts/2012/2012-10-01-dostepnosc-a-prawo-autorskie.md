@@ -2,7 +2,6 @@
 id: 281
 title: 'Dostępność a prawo autorskie'
 date: '2012-10-01T12:49:45+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=281'
 permalink: /2012/10/01/dostepnosc-a-prawo-autorskie/
 restapi_import_id:

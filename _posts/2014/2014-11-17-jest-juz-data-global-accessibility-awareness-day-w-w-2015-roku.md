@@ -1,7 +1,6 @@
 ---
 title: 'Jest już data Global Accessibility Awareness Day w 2015 roku'
 date: '2014-11-17T10:53:07+01:00'
-layout: post
 categories:
     - artykuły
 tags:

@@ -3,7 +3,6 @@ id: 2065
 title: 'Jeszcze nie ogarnęliśmy WCAG 2.1, a tu WCAG 3.0 się zbliża'
 date: '2021-01-25T20:39:26+01:00'
 excerpt: 'Na horyzoncie, ale coraz bliżej, rewolucja w standardzie WCAG'
-layout: post
 guid: 'http://informaton.blog/?p=2065'
 permalink: /2021/01/25/jeszcze-nie-ogarnelismy-wcag-21-a-tu-wcag-30-sie-zbliza/
 timeline_notification:

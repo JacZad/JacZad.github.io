@@ -4,7 +4,6 @@ title: 'Logowanie do Indywidualnego Konta Pacjenta (IKP)'
 date: '2021-05-16T15:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Logowanie się do systemu IKP pokazuje, jak można utrudnić coś prostego. Tym prostym jest logowanie się, co robię właściwie codziennie. Tylko Librus przebija poziomem trudności, bo dochodzi jeszcze problem marnej dostępności strony Librus. IKP jest dostępne, ale dociera się do niego długo.'
-layout: post
 guid: 'https://informaton.blog/?p=2480'
 permalink: /2021/05/16/logowanie-do-indywidualnego-konta-pacjenta-ikp/
 categories:

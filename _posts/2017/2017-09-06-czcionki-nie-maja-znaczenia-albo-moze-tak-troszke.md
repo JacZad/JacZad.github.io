@@ -2,7 +2,6 @@
 id: 1726
 title: 'Czcionki nie mają znaczenia, albo może tak troszkę&#8230;'
 date: '2017-09-06T15:40:11+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1726'
 permalink: /2017/09/06/czcionki-nie-maja-znaczenia-albo-moze-tak-troszke/
 restapi_import_id:

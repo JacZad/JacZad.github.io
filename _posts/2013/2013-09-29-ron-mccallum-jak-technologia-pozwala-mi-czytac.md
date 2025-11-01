@@ -2,7 +2,6 @@
 id: 857
 title: 'Ron McCallum: jak technologia pozwala mi czytać'
 date: '2013-09-29T10:59:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=857'
 permalink: /2013/09/29/ron-mccallum-jak-technologia-pozwala-mi-czytac/
 restapi_import_id:

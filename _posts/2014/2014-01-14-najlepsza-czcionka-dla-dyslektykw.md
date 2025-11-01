@@ -2,7 +2,6 @@
 id: 922
 title: 'Najlepsza czcionka dla dyslektyków'
 date: '2014-01-14T10:58:45+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=922'
 permalink: /2014/01/14/najlepsza-czcionka-dla-dyslektykw/
 restapi_import_id:

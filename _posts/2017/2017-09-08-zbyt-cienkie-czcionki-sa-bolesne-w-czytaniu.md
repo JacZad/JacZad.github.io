@@ -2,7 +2,6 @@
 id: 1737
 title: 'Zbyt cienkie czcionki są bolesne w czytaniu'
 date: '2017-09-08T10:08:26+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1737'
 permalink: /2017/09/08/zbyt-cienkie-czcionki-sa-bolesne-w-czytaniu/
 restapi_import_id:

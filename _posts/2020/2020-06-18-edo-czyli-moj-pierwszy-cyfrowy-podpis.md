@@ -2,7 +2,6 @@
 id: 2045
 title: 'eDO, czyli mój pierwszy cyfrowy podpis'
 date: '2020-06-18T19:25:24+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2045'
 permalink: /2020/06/18/edo-czyli-moj-pierwszy-cyfrowy-podpis/
 publicize_twitter_user:

@@ -2,7 +2,6 @@
 id: 1582
 title: 'Placeholder &#8211; same problemy z użytecznością'
 date: '2016-12-02T09:26:26+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1582'
 permalink: /2016/12/02/placeholder-same-problemy-z-uzytecznoscia/
 restapi_import_id:

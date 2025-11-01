@@ -3,7 +3,6 @@ id: 2614
 title: 'Kto potrzebuje planów tyflograficznych?'
 date: '2021-12-10T17:50:21+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 guid: 'https://informaton.blog/?p=2614'
 permalink: /2021/12/10/kto-potrzebuje-planow-tyflograficznych/
 categories:

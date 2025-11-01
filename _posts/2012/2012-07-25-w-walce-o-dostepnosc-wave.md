@@ -2,7 +2,6 @@
 id: 21
 title: 'WAVE &#8211; narzędzie do walidacji i prezentacji'
 date: '2012-07-25T09:26:55+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=21'
 permalink: /2012/07/25/w-walce-o-dostepnosc-wave/
 restapi_import_id:

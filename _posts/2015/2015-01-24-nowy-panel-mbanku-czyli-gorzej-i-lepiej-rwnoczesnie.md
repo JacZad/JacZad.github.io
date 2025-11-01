@@ -2,7 +2,7 @@
 id: 1241
 title: 'Nowy panel mBanku, czyli gorzej i lepiej równocześnie'
 date: '2015-01-24T09:08:00+01:00'
-layout: post
+
 guid: 'http://informaton.pl/?p=1241'
 permalink: /2015/01/24/nowy-panel-mbanku-czyli-gorzej-i-lepiej-rwnoczesnie/
 restapi_import_id:

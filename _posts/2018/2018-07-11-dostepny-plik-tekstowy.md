@@ -2,7 +2,6 @@
 id: 1854
 title: 'Dostępny plik tekstowy'
 date: '2018-07-11T08:10:14+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1854'
 permalink: /2018/07/11/dostepny-plik-tekstowy/
 restapi_import_id:

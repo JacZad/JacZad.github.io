@@ -2,7 +2,6 @@
 id: 1305
 title: 'WordPress 4.2 zacznie do nas mówić'
 date: '2015-04-18T09:51:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1305'
 permalink: /2015/04/18/wordpress-4-2-zacznie-do-nas-mwic/
 restapi_import_id:

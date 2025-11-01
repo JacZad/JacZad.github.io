@@ -2,7 +2,6 @@
 id: 498
 title: 'Tajni kulturalni i dostępność treści w Internecie'
 date: '2013-01-15T12:43:47+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=498'
 permalink: /2013/01/15/tajni-kulturalni-i-dostepnosc-tresci-w-internecie/
 restapi_import_id:

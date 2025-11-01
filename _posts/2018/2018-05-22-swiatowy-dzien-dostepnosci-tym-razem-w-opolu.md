@@ -2,7 +2,6 @@
 id: 1846
 title: 'Światowy dzień dostępności tym razem w Opolu'
 date: '2018-05-22T12:54:32+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1846'
 permalink: /2018/05/22/swiatowy-dzien-dostepnosci-tym-razem-w-opolu/
 restapi_import_id:

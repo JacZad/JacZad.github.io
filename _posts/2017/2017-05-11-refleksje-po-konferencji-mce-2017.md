@@ -2,7 +2,6 @@
 id: 1653
 title: 'Refleksje po konferencji MCE 2017'
 date: '2017-05-11T10:19:17+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1653'
 permalink: /2017/05/11/refleksje-po-konferencji-mce-2017/
 restapi_import_id:

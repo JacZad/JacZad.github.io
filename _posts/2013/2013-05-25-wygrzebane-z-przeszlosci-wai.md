@@ -2,7 +2,6 @@
 id: 711
 title: 'Wygrzebane z przeszłości WAI'
 date: '2013-05-25T13:28:45+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=711'
 permalink: /2013/05/25/wygrzebane-z-przeszlosci-wai/
 restapi_import_id:

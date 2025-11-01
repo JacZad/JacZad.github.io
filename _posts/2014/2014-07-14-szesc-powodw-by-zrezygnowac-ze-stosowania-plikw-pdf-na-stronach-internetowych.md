@@ -2,7 +2,6 @@
 id: 1085
 title: 'Sześć powodów, by zrezygnować ze stosowania plików PDF na stronach internetowych'
 date: '2014-07-14T14:18:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1085'
 permalink: /2014/07/14/szesc-powodw-by-zrezygnowac-ze-stosowania-plikw-pdf-na-stronach-internetowych/
 restapi_import_id:

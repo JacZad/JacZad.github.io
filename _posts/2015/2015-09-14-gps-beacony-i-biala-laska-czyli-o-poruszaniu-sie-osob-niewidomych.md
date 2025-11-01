@@ -2,7 +2,6 @@
 id: 1430
 title: 'GPS, beacony i biała laska &#8211; czyli o poruszaniu się osób niewidomych'
 date: '2015-09-14T15:43:03+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1430'
 permalink: /2015/09/14/gps-beacony-i-biala-laska-czyli-o-poruszaniu-sie-osob-niewidomych/
 restapi_import_id:

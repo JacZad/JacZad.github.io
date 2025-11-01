@@ -1,8 +1,5 @@
----
 Title: ‚Przygoda w teatrze’
-date: 2023-01-15
-author: "Jacek Zadrożny"
-layout: post
+ 
 categories: artykuły
 tags: [‚teatr’, ‚matematyka’]
 excerpt: Czasem trzeba zrezygnować z przyzwyczajeń, by podnieść dostępność. Problemy poznawcze może czasem mieć każdy, o czym przekonałem się podczas wizyty w teatrze.

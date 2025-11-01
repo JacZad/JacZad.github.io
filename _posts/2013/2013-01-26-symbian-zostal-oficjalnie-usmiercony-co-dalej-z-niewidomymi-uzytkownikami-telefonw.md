@@ -2,7 +2,6 @@
 id: 535
 title: 'Symbian został oficjalnie uśmiercony. Co dalej z niewidomymi użytkownikami telefonów?'
 date: '2013-01-26T09:31:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=535'
 permalink: /2013/01/26/symbian-zostal-oficjalnie-usmiercony-co-dalej-z-niewidomymi-uzytkownikami-telefonw/
 restapi_import_id:

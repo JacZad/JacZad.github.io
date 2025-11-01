@@ -2,7 +2,6 @@
 id: 411
 title: 'Nazwa, rola i wartość (WCAG 2.0 SC 4.1.2, poziom A)'
 date: '2012-11-29T13:15:23+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=411'
 permalink: /2012/11/29/nazwa-rola-i-wartosc-wcag-2-0-sc-4-1-2-poziom-a/
 restapi_import_id:

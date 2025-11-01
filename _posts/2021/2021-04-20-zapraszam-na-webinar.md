@@ -2,7 +2,6 @@
 id: 2252
 title: 'Zapraszam na webinar'
 date: '2021-04-20T13:47:44+02:00'
-layout: post
 guid: 'https://informaton.blog/?p=2252'
 permalink: /2021/04/20/zapraszam-na-webinar/
 timeline_notification:

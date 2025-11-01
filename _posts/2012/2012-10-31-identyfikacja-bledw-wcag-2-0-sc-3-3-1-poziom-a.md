@@ -2,7 +2,6 @@
 id: 335
 title: 'Identyfikacja błędów (WCAG 2.0 SC 3.3.1, poziom A)'
 date: '2012-10-31T12:28:54+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=335'
 permalink: /2012/10/31/identyfikacja-bledw-wcag-2-0-sc-3-3-1-poziom-a/
 restapi_import_id:

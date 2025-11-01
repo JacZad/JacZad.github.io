@@ -2,7 +2,6 @@
 id: 939
 title: 'Kurs dostępności od Google'
 date: '2014-01-24T15:43:38+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=939'
 permalink: /2014/01/24/kurs-dostepnosci-od-google/
 restapi_import_id:

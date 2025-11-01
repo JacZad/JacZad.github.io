@@ -2,7 +2,6 @@
 title: 'Odcinek nr 2: Detektory przeszkód, czyli jak nie wpaść na słup'
 date: '2022-07-08T05:24:30+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Rafał Charłampowicz", "orientacja w przestrzeni", "detektory przeszkód", "osoby niewidome"]
 categories:
     - Podcast

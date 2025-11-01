@@ -3,7 +3,7 @@ id: 2441
 title: 'Czy fanpage podmiotu publicznego to strona internetowa?'
 date: '2021-08-31T18:43:12+02:00'
 excerpt: 'Rzucając przepisami z ustawy o dostępności cyfrowej, staram się wykazać, że fanpage to strona internetowa i trzeba na niej publikować deklarację dostępności. Lincz wisi w powietrzu.'
-layout: post
+ 
 guid: 'http://informaton.blog/?p=2441'
 permalink: /2021/08/31/czy-fanpage-podmiotu-publicznego-to-strona-internetowa/
 timeline_notification:

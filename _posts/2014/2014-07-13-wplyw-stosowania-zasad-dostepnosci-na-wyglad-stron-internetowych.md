@@ -2,7 +2,6 @@
 id: 1083
 title: 'Wpływ stosowania zasad dostępności na wygląd stron internetowych'
 date: '2014-07-13T10:57:47+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1083'
 permalink: /2014/07/13/wplyw-stosowania-zasad-dostepnosci-na-wyglad-stron-internetowych/
 restapi_import_id:

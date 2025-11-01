@@ -2,7 +2,6 @@
 id: 920
 title: 'Nowy walidator kodu od W3C'
 date: '2014-01-13T18:02:09+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=920'
 permalink: /2014/01/13/nowy-walidator-kodu-od-w3c/
 restapi_import_id:

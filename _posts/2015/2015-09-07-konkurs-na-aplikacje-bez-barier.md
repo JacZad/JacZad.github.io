@@ -2,7 +2,6 @@
 id: 1426
 title: 'Konkurs na aplikację bez barier'
 date: '2015-09-07T09:36:28+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1426'
 permalink: /2015/09/07/konkurs-na-aplikacje-bez-barier/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1691
 title: 'Sprawdzaj dostępność produkowanych treści w czasie rzeczywistym'
 date: '2017-06-14T07:50:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1691'
 permalink: /2017/06/14/sprawdzaj-dostepnosc-produkowanych-tresci-w-czasie-rzeczywistym/
 restapi_import_id:

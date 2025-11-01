@@ -2,7 +2,6 @@
 id: 1533
 title: 'Nie potrzebuję platformy udostępniającej książki'
 date: '2016-07-23T11:35:51+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1533'
 permalink: /2016/07/23/nie-potrzebuje-platformy-udostepniajacej-ksiazki/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1257
 title: 'Brak dostępności może szkodzić demokracji'
 date: '2015-02-14T12:11:36+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1257'
 permalink: /2015/02/14/brak-dostepnosci-moze-szkodzic-demokracji/
 restapi_import_id:

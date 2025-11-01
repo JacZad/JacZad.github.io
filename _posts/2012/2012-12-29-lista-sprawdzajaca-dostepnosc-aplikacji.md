@@ -2,7 +2,6 @@
 id: 456
 title: 'Lista sprawdzająca dostępność aplikacji'
 date: '2012-12-29T14:33:14+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=456'
 permalink: /2012/12/29/lista-sprawdzajaca-dostepnosc-aplikacji/
 restapi_import_id:

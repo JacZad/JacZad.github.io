@@ -2,7 +2,6 @@
 id: 568
 title: 'Zatrudnienie osób niepełnosprawnych i nowoczesne technologie na konferencji u RPO'
 date: '2013-01-31T08:38:51+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=568'
 permalink: /2013/01/31/zatrudnienie-osb-niepelnosprawnych-i-nowoczesne-technologie-na-konferencji-u-rpo/
 restapi_import_id:

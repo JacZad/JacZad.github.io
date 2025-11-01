@@ -2,7 +2,6 @@
 id: 1580
 title: 'ARIA w krótkich, acz kompetentnych słowach'
 date: '2016-12-01T09:04:32+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1580'
 permalink: /2016/12/01/aria-w-krotkich-acz-kompetentnych-slowach/
 restapi_import_id:

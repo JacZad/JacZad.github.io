@@ -2,7 +2,6 @@
 id: 574
 title: 'Analiza przypadku &#8211; elektroniczna faktura UPC'
 date: '2013-02-03T17:40:42+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=574'
 permalink: /2013/02/03/analiza-przypadku-elektroniczna-faktura-upc/
 restapi_import_id:

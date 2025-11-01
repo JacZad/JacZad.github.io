@@ -3,7 +3,6 @@ id: 2603
 title: 'Czy też mierzysz węża linijką?'
 date: '2021-12-03T17:52:48+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 guid: 'https://informaton.blog/?p=2603'
 permalink: /2021/12/03/czy-tez-mierzysz-weza-linijka/
 categories:

@@ -1,7 +1,6 @@
 ---
 title: 'Stało się. Pierwsza oficjalna propozycja aktualizacji WCAG 2.1'
 date: '2017-02-28T18:29:15+01:00'
-layout: post
 categories:
     - artykuły
 tags:

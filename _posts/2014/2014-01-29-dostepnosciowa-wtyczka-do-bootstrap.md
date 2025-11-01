@@ -2,7 +2,6 @@
 id: 949
 title: 'Dostępnościowa wtyczka do Bootstrap'
 date: '2014-01-29T10:25:08+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=949'
 permalink: /2014/01/29/dostepnosciowa-wtyczka-do-bootstrap/
 restapi_import_id:

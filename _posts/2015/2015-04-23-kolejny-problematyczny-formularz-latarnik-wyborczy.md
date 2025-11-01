@@ -2,7 +2,6 @@
 id: 1314
 title: 'Kolejny problematyczny formularz &#8211; Latarnik wyborczy'
 date: '2015-04-23T15:35:22+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1314'
 permalink: /2015/04/23/kolejny-problematyczny-formularz-latarnik-wyborczy/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 64
 title: 'Rozszerzona audiodeskrypcja (WCAG 2.0 SC 1.2.7, poziom AAA)'
 date: '2012-08-03T16:06:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=64'
 permalink: /2012/08/03/rozszerzona-audiodeskrypcja-wcag-2-0-sc-1-2-7-poziom-aaa/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 2202
 title: 'Raport z płytkiego monitoringu cyfrowej dostępności stron internetowych podmiotów publicznych'
 date: '2021-04-14T13:25:28+02:00'
-layout: post
 guid: 'https://informaton.blog/?p=2202'
 permalink: /2021/04/14/raport-z-plytkiego-monitoringu-cyfrowej-dostepnosci-stron-internetowych-podmiotow-publicznych/
 publicize_twitter_user:

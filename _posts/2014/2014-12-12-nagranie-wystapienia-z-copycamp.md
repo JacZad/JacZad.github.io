@@ -1,7 +1,6 @@
 ---
 title: 'Nagranie wystąpienia z Copycamp'
 date: '2014-12-12T18:57:51+01:00'
-layout: post
 categories:
     - artykuły
 tags:

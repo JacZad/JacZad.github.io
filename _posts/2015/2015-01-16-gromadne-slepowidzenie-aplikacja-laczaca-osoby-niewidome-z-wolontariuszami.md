@@ -2,7 +2,6 @@
 id: 1231
 title: 'Gromadne ślepowidzenie &#8211; aplikacja łącząca osoby niewidome z wolontariuszami'
 date: '2015-01-16T09:46:37+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1231'
 permalink: /2015/01/16/gromadne-slepowidzenie-aplikacja-laczaca-osoby-niewidome-z-wolontariuszami/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 349
 title: 'Napisy otwarte i zamknięte'
 date: '2012-11-02T10:55:30+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=349'
 permalink: /2012/11/02/napisy-otwarte-i-zamkniete/
 restapi_import_id:

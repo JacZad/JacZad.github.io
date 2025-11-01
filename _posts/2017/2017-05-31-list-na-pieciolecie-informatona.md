@@ -2,7 +2,6 @@
 id: 1683
 title: 'List na pięciolecie Informatona'
 date: '2017-05-31T13:53:19+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1683'
 permalink: /2017/05/31/list-na-pieciolecie-informatona/
 restapi_import_id:

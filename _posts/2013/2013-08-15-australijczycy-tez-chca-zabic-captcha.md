@@ -2,7 +2,6 @@
 id: 768
 title: 'Australijczycy też chcą zabić CAPTCHA'
 date: '2013-08-15T10:23:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=768'
 permalink: /2013/08/15/australijczycy-tez-chca-zabic-captcha/
 restapi_import_id:

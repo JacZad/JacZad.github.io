@@ -3,7 +3,7 @@ id: 2377
 title: 'Nadszedł czas aplikacji mobilnych'
 date: '2021-06-23T19:52:16+02:00'
 excerpt: 'Od dzisiaj aplikacje mobilne podlegają ustawie o dostępności cyfrowej. Czas zacząć działać.'
-layout: post
+ 
 guid: 'http://informaton.blog/?p=2377'
 permalink: /2021/06/23/nadszed-czas-aplikacji-mobilnych/
 timeline_notification:

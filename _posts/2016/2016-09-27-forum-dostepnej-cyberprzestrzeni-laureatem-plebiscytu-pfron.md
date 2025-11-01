@@ -1,7 +1,6 @@
 ---
 title: 'Forum Dostępnej Cyberprzestrzeni laureatem plebiscytu PFRON'
 date: '2016-09-27T09:33:30+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['Forum Dostępnej Cyberprzestrzeni', nagroda, PFRON]

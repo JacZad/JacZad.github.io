@@ -2,7 +2,6 @@
 id: 235
 title: 'Jak pisać, żeby ludzie chcieli czytać'
 date: '2012-09-12T18:02:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=235'
 permalink: /2012/09/12/jak-pisac-zeby-ludzie-chcieli-czytac/
 restapi_import_id:

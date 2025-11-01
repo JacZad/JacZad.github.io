@@ -2,7 +2,6 @@
 id: 1446
 title: 'Dwie strony medalu – wdrażanie standardu WCAG od kuchni'
 date: '2015-09-28T12:10:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1446'
 permalink: /2015/09/28/dwie-strony-medalu-wdrazanie-standardu-wcag-od-kuchni/
 restapi_import_id:

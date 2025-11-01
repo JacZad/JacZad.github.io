@@ -2,7 +2,6 @@
 id: 971
 title: 'TinyMCE 4.0 &#8211; trochę zachwytu i trochę rozczarowania'
 date: '2014-03-07T11:27:53+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=971'
 permalink: /2014/03/07/tinymce-4-0-troche-zachwytu-i-troche-rozczarowania/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1215
 title: 'Pierwszy konkurs na dofinansowanie projektów informatycznych z Programu Operacyjnego Cyfrowa Polska'
 date: '2015-01-10T13:37:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1215'
 permalink: /2015/01/10/pierwszy-konkurs-na-dofinansowanie-projektow-informatycznych-z-programu-operacyjnego-cyfrowa-polska/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 687
 title: 'Web Content Accessibility Guidelines (WCAG) 2.0 &#8211; zasady i wytyczne nieco inaczej'
 date: '2013-04-29T10:15:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=687'
 permalink: /2013/04/29/web-content-accessibility-guidelines-wcag-2-0-zasady-i-wytyczne-nieco-inaczej/
 restapi_import_id:

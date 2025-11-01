@@ -2,7 +2,6 @@
 title: 'Fonty, czcionki, kroje &#8211; to jak jest z tymi literkami?'
 date: '2022-06-12T21:09:23+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

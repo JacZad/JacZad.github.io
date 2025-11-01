@@ -2,7 +2,6 @@
 id: 290
 title: 'Stosowanie nagłówków (WCAG 2.0 SC 2.4.10, poziom AAA)'
 date: '2012-10-04T08:11:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=290'
 permalink: /2012/10/04/stosowanie-naglwkw-wcag-2-0-sc-2-4-10-poziom-aaa/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1010
 title: 'Norwegia wprowadza dostępność w sektorze prywatnym'
 date: '2014-04-08T21:41:45+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1010'
 permalink: /2014/04/08/norwegia-wprowadza-dostepnosc-w-sektorze-prywatnym/
 restapi_import_id:

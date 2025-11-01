@@ -2,7 +2,6 @@
 title: 'Navilens - magiczne kwadraty'
 date: '2022-03-09T18:54:39+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - podcast
 tags:

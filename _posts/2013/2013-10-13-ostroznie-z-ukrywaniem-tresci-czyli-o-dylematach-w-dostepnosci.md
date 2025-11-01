@@ -2,7 +2,6 @@
 id: 862
 title: 'Ostrożnie z ukrywaniem treści, czyli o dylematach w dostępności'
 date: '2013-10-13T11:10:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=862'
 permalink: /2013/10/13/ostroznie-z-ukrywaniem-tresci-czyli-o-dylematach-w-dostepnosci/
 restapi_import_id:

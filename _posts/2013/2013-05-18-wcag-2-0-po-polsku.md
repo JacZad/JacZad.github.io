@@ -2,7 +2,6 @@
 id: 703
 title: 'WCAG 2.0 po polsku'
 date: '2013-05-18T09:20:35+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=703'
 permalink: /2013/05/18/wcag-2-0-po-polsku/
 restapi_import_id:

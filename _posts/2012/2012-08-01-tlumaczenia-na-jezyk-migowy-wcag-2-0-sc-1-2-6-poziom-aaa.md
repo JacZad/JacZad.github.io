@@ -2,7 +2,6 @@
 id: 56
 title: 'Tłumaczenia na język migowy (WCAG 2.0 SC 1.2.6, poziom AAA)'
 date: '2012-08-01T10:54:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=56'
 permalink: /2012/08/01/tlumaczenia-na-jezyk-migowy-wcag-2-0-sc-1-2-6-poziom-aaa/
 restapi_import_id:

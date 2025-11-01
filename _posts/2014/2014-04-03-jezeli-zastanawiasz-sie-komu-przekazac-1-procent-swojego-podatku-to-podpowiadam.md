@@ -2,7 +2,6 @@
 id: 1002
 title: 'Jeżeli zastanawiasz się, komu przekazać 1 procent swojego podatku, to podpowiadam'
 date: '2014-04-03T10:18:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1002'
 permalink: /2014/04/03/jezeli-zastanawiasz-sie-komu-przekazac-1-procent-swojego-podatku-to-podpowiadam/
 enclosure:

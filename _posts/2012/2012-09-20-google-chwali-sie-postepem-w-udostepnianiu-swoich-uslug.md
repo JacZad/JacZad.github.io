@@ -1,7 +1,6 @@
 ---
 title: 'Google chwali się postępem w udostępnianiu swoich usług'
 date: '2012-09-20T12:06:40+02:00'
-layout: post
 categories:
     - artykuły
 tags:

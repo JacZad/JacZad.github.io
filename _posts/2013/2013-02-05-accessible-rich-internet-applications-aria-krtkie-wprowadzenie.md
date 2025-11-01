@@ -2,7 +2,6 @@
 id: 579
 title: 'Accessible Rich Internet Applications (ARIA) &#8211; krótkie wprowadzenie'
 date: '2013-02-05T15:41:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=579'
 permalink: /2013/02/05/accessible-rich-internet-applications-aria-krtkie-wprowadzenie/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 670
 title: '48 wytycznych dla tworzenia dostępnych interfejsów mobilnych'
 date: '2013-04-13T08:38:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=670'
 permalink: /2013/04/13/48-wytycznych-dla-tworzenia-dostepnych-interfejsw-mobilnych/
 restapi_import_id:

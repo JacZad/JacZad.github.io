@@ -2,7 +2,6 @@
 id: 2308
 title: 'Kilka łączy na piątek (GAAD)'
 date: '2021-05-14T11:26:38+02:00'
-layout: post
 guid: 'https://informaton.blog/?p=2308'
 permalink: /2021/05/14/kilka-laczy-na-piatek-gaad/
 timeline_notification:

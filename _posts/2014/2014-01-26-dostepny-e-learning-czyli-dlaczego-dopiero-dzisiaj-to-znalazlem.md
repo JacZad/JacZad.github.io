@@ -2,7 +2,6 @@
 id: 945
 title: 'Dostępny e-learning, czyli dlaczego dopiero dzisiaj to znalazłem?..'
 date: '2014-01-26T10:17:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=945'
 permalink: /2014/01/26/dostepny-e-learning-czyli-dlaczego-dopiero-dzisiaj-to-znalazlem/
 restapi_import_id:

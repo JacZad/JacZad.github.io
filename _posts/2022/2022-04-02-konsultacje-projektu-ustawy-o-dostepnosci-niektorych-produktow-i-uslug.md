@@ -2,7 +2,6 @@
 title: 'Konsultacje projektu ustawy o dostępności niektórych produktów i usług'
 date: '2022-04-02T11:11:17+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

@@ -1,7 +1,6 @@
 ---
 title: 'Dostaliśmy nagrodę Forum Dostępnej Cyberprzestrzeni'
 date: '2013-10-17T15:56:22+02:00'
-layout: post
 category: artykuły
 tags: ['Forum Dostępnej Cyberprzestrzeni', 'nagroda', 'Informaton']
 ---

@@ -2,7 +2,6 @@
 id: 1356
 title: 'MAiC rozstrzygnęło nareszcie konkurs związany z dostępnością'
 date: '2015-06-26T09:03:20+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1356'
 permalink: /2015/06/26/maic-rozstrzygnelo-nareszcie-konkurs-zwiazany-z-dostepnoscia/
 restapi_import_id:

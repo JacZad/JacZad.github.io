@@ -14,7 +14,7 @@ locale: "pl" # See available languages in _data/ui-text.yml
 
 # Site settings
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
+search: false
 breadcrumbs: true
 
 # Social media and author info
@@ -23,11 +23,17 @@ author:
   bio: "Ekspert dostępności cyfrowej"
   location: "Polska"
   email: "Jacekzadrozny@dostepnik.com.pl"
+  avatar: assets/img/jz-profilowe.png
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:Jacekzadrozny@dostepnik.com.pl"
-
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin"
+        url: "https://www.linkedin.com/in/jaczad"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/jaczad"
+      - label: "Hugging Face"
+        icon: "fas fa-fw fa-face-smile"
+        url: "https://huggingface.co/jaczad" 
 # Footer settings
 footer:
   links:
@@ -51,3 +57,34 @@ paginate_path: /page:num/
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# Navigation
+include:
+  - _data
+
+# Site navigation
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/

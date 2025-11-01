@@ -2,7 +2,6 @@
 id: 1508
 title: 'Różnica pomiędzy serwisami EPUAP i NjuMobile jest bardzo wyraźna'
 date: '2016-03-16T12:34:51+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1508'
 permalink: /2016/03/16/roznica-pomiedzy-serwisami-epuap-i-njumobile-jest-bardzo-wyrazna/
 restapi_import_id:

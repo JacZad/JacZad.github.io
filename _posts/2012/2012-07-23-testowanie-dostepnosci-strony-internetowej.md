@@ -2,7 +2,6 @@
 id: 17
 title: 'Testowanie dostępności strony internetowej'
 date: '2012-07-23T10:30:40+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=17'
 permalink: /2012/07/23/testowanie-dostepnosci-strony-internetowej/
 restapi_import_id:

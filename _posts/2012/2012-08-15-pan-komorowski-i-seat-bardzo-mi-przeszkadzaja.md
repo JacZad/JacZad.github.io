@@ -2,7 +2,6 @@
 id: 126
 title: 'Pan Komorowski i Seat bardzo mi przeszkadzają'
 date: '2012-08-15T10:19:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=126'
 permalink: /2012/08/15/pan-komorowski-i-seat-bardzo-mi-przeszkadzaja/
 restapi_import_id:

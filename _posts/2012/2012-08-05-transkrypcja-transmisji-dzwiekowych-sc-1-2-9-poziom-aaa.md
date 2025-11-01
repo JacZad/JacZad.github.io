@@ -2,7 +2,6 @@
 id: 83
 title: 'Transkrypcja transmisji dźwiękowych (SC 1.2.9, poziom AAA)'
 date: '2012-08-05T09:53:46+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=83'
 permalink: /2012/08/05/transkrypcja-transmisji-dzwiekowych-sc-1-2-9-poziom-aaa/
 restapi_import_id:

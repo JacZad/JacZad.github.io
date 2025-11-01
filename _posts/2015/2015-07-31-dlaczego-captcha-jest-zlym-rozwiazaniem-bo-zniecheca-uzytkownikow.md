@@ -2,7 +2,6 @@
 id: 1415
 title: 'Dlaczego CAPTCHA jest złym rozwiązaniem? Bo zniechęca użytkowników.'
 date: '2015-07-31T16:11:06+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1415'
 permalink: /2015/07/31/dlaczego-captcha-jest-zlym-rozwiazaniem-bo-zniecheca-uzytkownikow/
 restapi_import_id:

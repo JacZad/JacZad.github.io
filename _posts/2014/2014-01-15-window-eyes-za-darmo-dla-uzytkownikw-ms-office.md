@@ -2,7 +2,6 @@
 id: 925
 title: 'Window-Eyes za darmo dla użytkowników MS Office'
 date: '2014-01-15T11:58:49+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=925'
 permalink: /2014/01/15/window-eyes-za-darmo-dla-uzytkownikw-ms-office/
 restapi_import_id:

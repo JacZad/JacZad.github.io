@@ -2,7 +2,6 @@
 id: 354
 title: 'Wytyczne dla twórców gier, czyli grać może każdy'
 date: '2012-11-06T09:40:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=354'
 permalink: /2012/11/06/wytyczne-dla-twrcw-gier-czyli-grac-moze-kazdy/
 restapi_import_id:

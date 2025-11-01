@@ -2,7 +2,6 @@
 id: 1060
 title: 'Dostępność informacji dotyczy wszystkich, ale mało kto o tym pamięta'
 date: '2014-05-31T14:09:15+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1060'
 permalink: /2014/05/31/dostepnosc-informacji-dotyczy-wszystkich-ale-malo-kto-o-tym-pamieta/
 restapi_import_id:

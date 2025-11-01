@@ -2,7 +2,6 @@
 id: 1068
 title: 'Nominujemy do nagrody &#8220;Otwarta cyberprzestrzeń 2014&#8221;'
 date: '2014-06-09T09:36:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1068'
 permalink: /2014/06/09/nominujemy-do-nagrody-otwarta-cyberprzestrzen-2014/
 restapi_import_id:

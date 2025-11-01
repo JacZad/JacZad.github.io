@@ -1,7 +1,6 @@
 ---
 title: 'Dwa tygodnie na zgłoszenie się na Accessibility Camp 2013'
 date: '2013-04-23T08:25:00+02:00'
-layout: post
 categories:
     - artykuły
 tags:

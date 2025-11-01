@@ -2,7 +2,6 @@
 id: 323
 title: 'Konsekwentna nawigacja (WCAG 2.0 SC 3.2.3, poziom AA)'
 date: '2012-10-18T19:13:10+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=323'
 permalink: /2012/10/18/konsekwentna-nawigacja-wcag-2-0-sc-3-2-3-poziom-aa/
 restapi_import_id:

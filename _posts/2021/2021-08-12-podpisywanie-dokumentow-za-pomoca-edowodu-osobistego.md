@@ -1,10 +1,8 @@
----
 id: 2474
 title: 'Podpisywanie dokumentów za pomocą edowodu osobistego'
 date: '2021-08-12T19:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Trwało to dość długo, ale w końcu aplikacja do składania podpisu osobistego pod Windows jest trochę dostępna. To ogromny postęp, bo wcześniej była zupełnie niedostępna. Napisałem zatem tutorial, który pomoże w korzystaniu z tej aplikacji.'
-layout: post
 guid: 'https://informaton.blog/?p=2474'
 permalink: /2021/08/12/podpisywanie-dokumentow-za-pomoca-edowodu-osobistego/
 categories:
@@ -13,7 +11,6 @@ tags:
     - edowód
     - 'podpisy cyfrowe'
     - tutorial
----
 
 Dzisiaj przetestowałem zaktualizowaną wersję oprogramowania do podpisu osobistego. Dzielę się więc refleksjami i instrukcją obsługi dla niewidomych użytkowników.
 

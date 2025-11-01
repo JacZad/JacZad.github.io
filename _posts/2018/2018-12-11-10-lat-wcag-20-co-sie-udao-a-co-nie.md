@@ -2,7 +2,6 @@
 id: 1880
 title: '10 lat WCAG 2.0 &#8211; co się udało, a co nie'
 date: '2018-12-11T18:16:18+01:00'
-layout: post
 guid: 'https://informaton.pl/?p=1880'
 permalink: /2018/12/11/10-lat-wcag-20-co-sie-udao-a-co-nie/
 restapi_import_id:

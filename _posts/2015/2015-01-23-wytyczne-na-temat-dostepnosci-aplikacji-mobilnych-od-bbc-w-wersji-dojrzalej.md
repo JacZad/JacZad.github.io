@@ -2,7 +2,6 @@
 id: 1239
 title: 'Wytyczne na temat dostępności aplikacji mobilnych od BBC w wersji dojrzałej'
 date: '2015-01-23T09:45:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1239'
 permalink: /2015/01/23/wytyczne-na-temat-dostepnosci-aplikacji-mobilnych-od-bbc-w-wersji-dojrzalej/
 restapi_import_id:

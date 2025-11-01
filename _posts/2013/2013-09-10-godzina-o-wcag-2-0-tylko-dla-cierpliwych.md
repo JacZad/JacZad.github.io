@@ -2,7 +2,6 @@
 id: 809
 title: 'Godzina o WCAG 2.0 &#8211; tylko dla cierpliwych'
 date: '2013-09-10T14:55:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=809'
 permalink: /2013/09/10/godzina-o-wcag-2-0-tylko-dla-cierpliwych/
 enclosure:

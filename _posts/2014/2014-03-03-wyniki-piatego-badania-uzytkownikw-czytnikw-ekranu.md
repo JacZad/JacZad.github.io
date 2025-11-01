@@ -2,7 +2,6 @@
 id: 966
 title: 'Wyniki piątego badania użytkowników czytników ekranu'
 date: '2014-03-03T22:34:28+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=966'
 permalink: /2014/03/03/wyniki-piatego-badania-uzytkownikw-czytnikw-ekranu/
 restapi_import_id:

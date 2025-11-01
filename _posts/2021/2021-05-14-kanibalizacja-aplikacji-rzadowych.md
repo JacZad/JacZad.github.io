@@ -3,7 +3,6 @@ title: 'Kanibalizacja aplikacji rządowych'
 date: '2021-05-14T16:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Kilka akapitów mojego zdziwienia nad celowością tworzenia kolejnych aplikacji rządowych. Co ma IKP, czego nie ma mObywatel?'
-layout: post
 categories:
     - Zapiski
 tags: ['e-administracja', 'IKP', 'konkurencja', 'mObywatel']

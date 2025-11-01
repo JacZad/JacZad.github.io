@@ -2,7 +2,6 @@
 id: 273
 title: 'Lokalizacja w serwisie (WCAG 2.0 SC 2.4.8, poziom AAA)'
 date: '2012-09-26T08:51:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=273'
 permalink: /2012/09/26/lokalizacja-w-serwisie-wcag-2-0-sc-2-4-8-poziom-aaa/
 restapi_import_id:

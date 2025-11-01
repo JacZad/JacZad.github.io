@@ -3,7 +3,6 @@ id: 2111
 title: 'WCAG 2.1 po polsku'
 date: '2021-03-12T11:04:33+01:00'
 excerpt: 'Polskie tłumaczenie WCAG 2.1 zostało zaakceptowane i opublikowane przez W3C.'
-layout: post
 guid: 'http://informaton.blog/?p=2111'
 permalink: /2021/03/12/wcag-21-po-polsku/
 timeline_notification:

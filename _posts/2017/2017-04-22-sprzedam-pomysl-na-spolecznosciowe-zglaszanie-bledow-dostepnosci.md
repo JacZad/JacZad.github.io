@@ -2,7 +2,6 @@
 id: 1650
 title: 'Sprzedam pomysł na społecznościowe zgłaszanie błędów dostępności'
 date: '2017-04-22T14:19:26+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1650'
 permalink: /2017/04/22/sprzedam-pomysl-na-spolecznosciowe-zglaszanie-bledow-dostepnosci/
 restapi_import_id:

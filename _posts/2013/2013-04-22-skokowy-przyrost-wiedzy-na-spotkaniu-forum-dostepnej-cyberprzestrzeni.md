@@ -1,7 +1,6 @@
 ---
 title: 'Skokowy przyrost wiedzy na spotkaniu Forum Dostępnej Cyberprzestrzeni'
 date: '2013-04-22T11:10:13+02:00'
-layout: post
 category:  artykuły
 tags: ['Forum Dostępnej Cyberprzestrzeni', 'język migowy', klawiatura, myszka, napisy, 'pętla indukcyjna', 'niepełnosprawność ruchowa', 'WCAG', 'Maciej Kasperkowiak', 'Monika Zaniewska', 'Aleksandra Mumot']
 ---

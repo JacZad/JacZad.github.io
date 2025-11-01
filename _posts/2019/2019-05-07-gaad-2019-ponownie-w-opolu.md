@@ -2,7 +2,6 @@
 id: 2010
 title: 'GAAD 2019 &#8211; ponownie w Opolu'
 date: '2019-05-07T11:43:27+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2010'
 permalink: /2019/05/07/gaad-2019-ponownie-w-opolu/
 publicize_linkedin_url:

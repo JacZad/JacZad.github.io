@@ -2,7 +2,6 @@
 id: 1919
 title: 'Pierwszy tekst na nowej platformie na siódmą rocznicę bloga'
 date: '2019-04-06T17:32:34+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=1919'
 permalink: /2019/04/06/pierwszy-tekst-na-nowej-platformie-na-siodma-rocznice-bloga/
 timeline_notification:

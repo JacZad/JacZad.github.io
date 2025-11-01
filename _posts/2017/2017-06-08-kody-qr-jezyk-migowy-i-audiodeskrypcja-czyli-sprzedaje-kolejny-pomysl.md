@@ -2,7 +2,6 @@
 id: 1689
 title: 'Kody QR, język migowy i audiodeskrypcja &#8211; czyli sprzedaję kolejny pomysł'
 date: '2017-06-08T09:48:41+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1689'
 permalink: /2017/06/08/kody-qr-jezyk-migowy-i-audiodeskrypcja-czyli-sprzedaje-kolejny-pomysl/
 restapi_import_id:

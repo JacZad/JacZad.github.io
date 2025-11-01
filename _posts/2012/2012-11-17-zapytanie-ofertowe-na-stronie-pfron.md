@@ -2,7 +2,6 @@
 id: 377
 title: 'Zapytanie ofertowe na stronie PFRON'
 date: '2012-11-17T09:57:53+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=377'
 permalink: /2012/11/17/zapytanie-ofertowe-na-stronie-pfron/
 restapi_import_id:

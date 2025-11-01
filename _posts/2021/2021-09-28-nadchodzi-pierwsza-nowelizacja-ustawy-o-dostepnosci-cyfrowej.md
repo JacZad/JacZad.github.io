@@ -4,7 +4,7 @@ title: 'Nadchodzi pierwsza nowelizacja ustawy o dostępności cyfrowej'
 date: '2021-09-28T11:41:11+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'W wykazie prac legislacyjnych rządu pojawił się projekt ustawy o zmianie ustawy o dostępności cyfrowej stron internetowych i aplikacji mobilnych podmiotów publicznych. Póki co - jest to pierwszy projekt nowelizacji.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2497'
 permalink: /2021/09/28/nadchodzi-pierwsza-nowelizacja-ustawy-o-dostepnosci-cyfrowej/
 categories:

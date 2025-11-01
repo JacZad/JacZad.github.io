@@ -2,7 +2,6 @@
 id: 717
 title: 'Drugie badanie korzystania z technologii mobilnych przez osoby niewidome i słabowidzące'
 date: '2013-06-14T10:40:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=717'
 permalink: /2013/06/14/drugie-badanie-korzystania-z-technologii-mobilnych-przez-osoby-niewidome-i-slabowidzace/
 restapi_import_id:

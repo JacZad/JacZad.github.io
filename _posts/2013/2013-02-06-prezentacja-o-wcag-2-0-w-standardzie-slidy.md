@@ -2,7 +2,6 @@
 id: 508
 title: 'Prezentacja o WCAG 2.0 w standardzie Slidy'
 date: '2013-02-06T20:46:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=508'
 permalink: /2013/02/06/prezentacja-o-wcag-2-0-w-standardzie-slidy/
 restapi_import_id:

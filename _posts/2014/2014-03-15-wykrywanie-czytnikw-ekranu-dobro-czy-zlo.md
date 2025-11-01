@@ -2,7 +2,6 @@
 id: 988
 title: 'Wykrywanie czytników ekranu &#8211; dobro czy zło?'
 date: '2014-03-15T16:42:57+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=988'
 permalink: /2014/03/15/wykrywanie-czytnikw-ekranu-dobro-czy-zlo/
 restapi_import_id:

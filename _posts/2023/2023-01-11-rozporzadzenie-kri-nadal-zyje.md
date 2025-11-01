@@ -1,8 +1,4 @@
----
 title: "Jak ocalało rozporządzenie w sprawie Krajowych Ram Interoperacyjności"
-author: Jacek Zadrożny
-date: 2023-01-11
-layout: post
 categories: zapiski
 tags: ["ustawa o dostępności cyfrowej", "rozporządzenie KRI", "prawo"]
 excerpt: Czasem trudno nadążyć za zmianami prawa. Szczególnie gdy jedna ustawa nowelizuje inną, a ta z kolei zmienia jeszcze inną.

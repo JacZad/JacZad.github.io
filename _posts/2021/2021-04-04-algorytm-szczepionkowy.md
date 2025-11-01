@@ -4,7 +4,6 @@ title: 'Algorytm szczepionkowy'
 date: '2021-04-04T13:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Dalszy ciąg mojej przygody z wadliwym systemem rejestracji na szczepienia. W środku algorytm akceptowania lub odrzucania zgłoszeń na szczepienia.'
-layout: post
 guid: 'https://informaton.blog/?p=2476'
 permalink: /2021/04/04/algorytm-szczepionkowy/
 categories:

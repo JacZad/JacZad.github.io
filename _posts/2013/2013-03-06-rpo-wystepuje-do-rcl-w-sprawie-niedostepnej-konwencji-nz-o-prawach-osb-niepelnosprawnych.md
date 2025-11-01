@@ -2,7 +2,6 @@
 id: 626
 title: 'RPO występuje do RCL w sprawie niedostępnej Konwencji NZ o prawach osób niepełnosprawnych'
 date: '2013-03-06T15:35:06+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=626'
 permalink: /2013/03/06/rpo-wystepuje-do-rcl-w-sprawie-niedostepnej-konwencji-nz-o-prawach-osb-niepelnosprawnych/
 restapi_import_id:

@@ -3,7 +3,6 @@ id: 2443
 title: 'Nagranie webinaru na temat używania czytnika ekranu NVDA'
 date: '2021-09-08T08:59:46+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 guid: 'https://informaton531488923.wordpress.com/?p=2443'
 permalink: /2021/09/08/nagranie-webinaru-na-temat-uzywania-czytnika-ekranu-nvda/
 spay_email:

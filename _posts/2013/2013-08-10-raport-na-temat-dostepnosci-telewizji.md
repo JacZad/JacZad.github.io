@@ -2,7 +2,6 @@
 id: 756
 title: 'Raport na temat dostępności telewizji'
 date: '2013-08-10T10:26:23+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=756'
 permalink: /2013/08/10/raport-na-temat-dostepnosci-telewizji/
 restapi_import_id:

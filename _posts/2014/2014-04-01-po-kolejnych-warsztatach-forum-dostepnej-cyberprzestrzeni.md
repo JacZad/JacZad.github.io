@@ -2,7 +2,6 @@
 id: 997
 title: 'Po kolejnych warsztatach Forum Dostępnej Cyberprzestrzeni'
 date: '2014-04-01T21:29:38+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=997'
 permalink: /2014/04/01/po-kolejnych-warsztatach-forum-dostepnej-cyberprzestrzeni/
 restapi_import_id:

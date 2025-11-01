@@ -2,7 +2,6 @@
 title: 'GAAD 2022 - walka przedpołudnia między mną i PUE ZUS'
 date: '2022-04-19T15:29:33+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

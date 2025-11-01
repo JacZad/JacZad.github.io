@@ -2,7 +2,6 @@
 title: 'Odcinek nr 15: Audiodeskrypcja, czyli o Katarynce, Adapterze, meczach, Netfliksie i eksperymentach'
 date: '2022-11-18T07:00:00+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - Podcast
 tags: [podcast, audiodeskrypcja, Katarynka, "Justyna Mańkowska"]

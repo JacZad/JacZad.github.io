@@ -2,7 +2,6 @@
 id: 168
 title: 'Nigdy nie stosuj obrazu tekstu zamiast tekstu (WCAG 2.0 SC 1.4.9, poziom AAA)'
 date: '2012-08-24T08:28:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=168'
 permalink: /2012/08/24/nigdy-nie-stosuj-obrazu-tekstu-zamiast-tekstu-wcag-2-0-sc-1-4-9-poziom-aaa/
 restapi_import_id:

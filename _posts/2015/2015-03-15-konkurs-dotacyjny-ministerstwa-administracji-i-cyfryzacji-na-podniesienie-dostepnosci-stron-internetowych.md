@@ -2,7 +2,6 @@
 id: 1272
 title: 'Konkurs dotacyjny Ministerstwa Administracji i Cyfryzacji na podniesienie dostępności stron internetowych'
 date: '2015-03-15T12:31:18+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1272'
 permalink: /2015/03/15/konkurs-dotacyjny-ministerstwa-administracji-i-cyfryzacji-na-podniesienie-dostepnosci-stron-internetowych/
 restapi_import_id:

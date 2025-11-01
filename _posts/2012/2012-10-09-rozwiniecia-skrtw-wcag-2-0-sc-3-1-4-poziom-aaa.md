@@ -1,7 +1,6 @@
 ---
 title: 'Rozwinięcia skrótów (WCAG 2.0 SC 3.1.4, poziom AAA)'
 date: '2012-10-09T08:01:00+02:00'
-layout: post
 categories:
     - artykuły
 tags:

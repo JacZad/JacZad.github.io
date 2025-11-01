@@ -1,7 +1,6 @@
 ---
 title: 'Wojna Braille’a z karnawałem'
 date: '2019-06-04T19:27:00+02:00'
-layout: post
 categories:
     - artykuły
 ---

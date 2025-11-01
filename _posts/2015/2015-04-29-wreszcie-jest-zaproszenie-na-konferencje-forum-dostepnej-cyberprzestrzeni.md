@@ -1,7 +1,6 @@
 ---
 title: 'Wreszcie jest zaproszenie na konferencję Forum Dostępnej Cyberprzestrzeni'
 date: '2015-04-29T13:04:46+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['AccessibilityCamp', 'audyt', 'warsztaty', 'WCAG']

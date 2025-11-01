@@ -2,7 +2,6 @@
 id: 879
 title: 'Kody CAPTCHA z NJU.mobile'
 date: '2013-10-30T12:44:34+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=879'
 permalink: /2013/10/30/kody-captcha-z-nju-mobile/
 restapi_import_id:

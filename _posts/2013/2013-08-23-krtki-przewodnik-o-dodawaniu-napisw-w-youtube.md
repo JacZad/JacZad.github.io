@@ -2,7 +2,6 @@
 id: 775
 title: 'Krótki przewodnik o dodawaniu napisów w YouTube'
 date: '2013-08-23T07:38:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=775'
 permalink: /2013/08/23/krtki-przewodnik-o-dodawaniu-napisw-w-youtube/
 restapi_import_id:

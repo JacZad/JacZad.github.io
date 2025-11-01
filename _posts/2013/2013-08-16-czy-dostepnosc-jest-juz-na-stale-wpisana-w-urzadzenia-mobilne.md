@@ -2,7 +2,6 @@
 id: 770
 title: 'Czy dostępność jest już na stałe wpisana w urządzenia mobilne?'
 date: '2013-08-16T17:09:30+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=770'
 permalink: /2013/08/16/czy-dostepnosc-jest-juz-na-stale-wpisana-w-urzadzenia-mobilne/
 restapi_import_id:

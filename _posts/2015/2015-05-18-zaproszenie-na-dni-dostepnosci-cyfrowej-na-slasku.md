@@ -2,7 +2,6 @@
 id: 1336
 title: 'Zaproszenie na dni dostępności cyfrowej na Śląsku'
 date: '2015-05-18T16:42:29+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1336'
 permalink: /2015/05/18/zaproszenie-na-dni-dostepnosci-cyfrowej-na-slasku/
 restapi_import_id:

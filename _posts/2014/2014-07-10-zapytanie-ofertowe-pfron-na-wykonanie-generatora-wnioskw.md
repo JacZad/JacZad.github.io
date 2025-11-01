@@ -2,7 +2,6 @@
 id: 1081
 title: 'Zapytanie ofertowe PFRON na wykonanie generatora wniosków'
 date: '2014-07-10T09:20:03+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1081'
 permalink: /2014/07/10/zapytanie-ofertowe-pfron-na-wykonanie-generatora-wnioskw/
 restapi_import_id:

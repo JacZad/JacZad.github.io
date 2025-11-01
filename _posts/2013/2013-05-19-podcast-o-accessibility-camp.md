@@ -1,7 +1,6 @@
 ---
 title: 'Podcast o Accessibility Camp'
 date: '2013-05-19T16:40:25+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['AccessibilityCamp', 'podcast', 'WCAG']

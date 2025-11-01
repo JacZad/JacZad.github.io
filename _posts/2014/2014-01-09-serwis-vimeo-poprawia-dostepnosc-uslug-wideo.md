@@ -2,7 +2,6 @@
 id: 914
 title: 'Serwis Vimeo poprawia dostępność usług wideo'
 date: '2014-01-09T13:42:22+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=914'
 permalink: /2014/01/09/serwis-vimeo-poprawia-dostepnosc-uslug-wideo/
 restapi_import_id:

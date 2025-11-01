@@ -2,7 +2,6 @@
 id: 1229
 title: 'Chcesz korzystać z pieniędzy unijnych? Naucz się, co to jest WCAG 2.0'
 date: '2015-01-13T15:38:32+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1229'
 permalink: /2015/01/13/chcesz-korzystac-z-pieniedzy-unijnych-naucz-sie-co-to-jest-wcag-2-0/
 restapi_import_id:

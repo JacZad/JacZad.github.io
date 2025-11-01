@@ -2,7 +2,6 @@
 id: 352
 title: 'Testowanie serwisów internetowych przy pomocy czytnika ekranu'
 date: '2012-11-05T18:01:52+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=352'
 permalink: /2012/11/05/testowanie-serwisw-internetowych-przy-pomocy-czytnika-ekranu/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 397
 title: 'Pomoc kontekstowa (WCAG 2.0 SC 3.3.5, poziom AAA)'
 date: '2012-11-20T14:14:24+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=397'
 permalink: /2012/11/20/pomoc-kontekstowa-wcag-2-0-sc-3-3-5-poziom-aaa/
 restapi_import_id:

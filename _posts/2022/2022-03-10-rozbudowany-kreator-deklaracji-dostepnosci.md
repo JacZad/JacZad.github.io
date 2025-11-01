@@ -2,7 +2,6 @@
 title: 'Rozbudowany kreator deklaracji dostępności'
 date: '2022-03-10T12:46:48+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories: artykuły
 tags: ['deklaracja dostępności', 'architektura', 'narzędzia dla koordynatorów']
 excerpt: 'Jak przygotować dobrą deklarację dostępności? Można to robić ręcznie, bo odpowiednie materiały techniczne są znane. Można jednak skorzystać z generatora, który ułatwi tę pracę.'

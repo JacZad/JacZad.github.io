@@ -2,7 +2,6 @@
 id: 305
 title: 'Wymowa (WCAG 2.0 SC 3.1.6, poziom AAA)'
 date: '2012-10-11T08:30:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=305'
 permalink: /2012/10/11/wymowa-wcag-2-0-sc-3-1-6-poziom-aaa/
 restapi_import_id:

@@ -1,7 +1,6 @@
 ---
 title: 'Opinia EKES w sprawie dyrektywy o dostępności stron internetowych'
 date: '2013-07-18T06:44:00+02:00'
-layout: post
 categories:
     - artykuły
 tags:

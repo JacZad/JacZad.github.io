@@ -2,7 +2,6 @@
 id: 2028
 title: 'Portal Emp@tia mnie pokonał'
 date: '2019-07-26T14:05:22+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2028'
 permalink: /2019/07/26/portal-emptia-mnie-pokona/
 timeline_notification:

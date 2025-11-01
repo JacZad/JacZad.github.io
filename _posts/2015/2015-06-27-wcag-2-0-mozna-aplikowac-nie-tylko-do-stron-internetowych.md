@@ -2,7 +2,6 @@
 id: 1363
 title: 'WCAG 2.0 można aplikować nie tylko do stron internetowych'
 date: '2015-06-27T10:27:33+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1363'
 permalink: /2015/06/27/wcag-2-0-mozna-aplikowac-nie-tylko-do-stron-internetowych/
 restapi_import_id:

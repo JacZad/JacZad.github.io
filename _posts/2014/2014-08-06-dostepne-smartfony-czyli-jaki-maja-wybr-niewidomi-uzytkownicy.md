@@ -1,7 +1,6 @@
 ---
 title: 'Dostępne smartfony, czyli jaki mają wybór niewidomi użytkownicy'
 date: '2014-08-06T12:18:04+02:00'
-layout: post
 categories:
     - artykuły
 tags:

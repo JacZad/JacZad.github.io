@@ -2,7 +2,6 @@
 id: 1466
 title: 'Dzisiaj ręce mi opadły i coraz bardziej widzę potrzebę certyfikacji specjalistów dostępności.'
 date: '2015-11-26T14:50:49+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1466'
 permalink: /2015/11/26/dzisiaj-rece-mi-opadly-i-coraz-bardziej-widze-potrzebe-certyfikacji-specjalistow-dostepnosci/
 restapi_import_id:

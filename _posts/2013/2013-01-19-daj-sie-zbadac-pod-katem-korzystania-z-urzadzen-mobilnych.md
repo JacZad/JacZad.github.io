@@ -2,7 +2,6 @@
 id: 525
 title: 'Daj się zbadać pod kątem korzystania z urządzeń mobilnych'
 date: '2013-01-19T14:59:11+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=525'
 permalink: /2013/01/19/daj-sie-zbadac-pod-katem-korzystania-z-urzadzen-mobilnych/
 restapi_import_id:

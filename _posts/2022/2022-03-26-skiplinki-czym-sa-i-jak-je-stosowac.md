@@ -3,7 +3,6 @@ id: 2681
 title: 'Czym są skiplinki i jak je stosować?'
 date: '2022-03-26T14:25:00+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

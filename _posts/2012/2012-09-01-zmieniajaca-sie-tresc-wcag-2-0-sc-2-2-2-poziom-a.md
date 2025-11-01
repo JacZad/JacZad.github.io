@@ -2,7 +2,6 @@
 id: 208
 title: 'Zmieniająca się treść (WCAG 2.0, SC 2.2.2, poziom A)'
 date: '2012-09-01T09:35:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=208'
 permalink: /2012/09/01/zmieniajaca-sie-tresc-wcag-2-0-sc-2-2-2-poziom-a/
 restapi_import_id:

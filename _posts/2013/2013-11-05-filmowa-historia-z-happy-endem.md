@@ -2,7 +2,6 @@
 id: 893
 title: 'Filmowa historia z happy endem'
 date: '2013-11-05T10:38:22+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=893'
 permalink: /2013/11/05/filmowa-historia-z-happy-endem/
 restapi_import_id:

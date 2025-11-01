@@ -3,7 +3,6 @@ id: 2373
 title: 'Jestem rozczarowany oprogramowaniem do podpisu osobistego'
 date: '2021-06-20T10:15:00+02:00'
 excerpt: 'Niedługo cieszyłem się nowym gadżetem:( Czytnik kart działa, ale aplikacja od #PWPW jest zupełnie niedostępna.'
-layout: post
 guid: 'http://informaton.blog/?p=2373'
 permalink: /2021/06/20/jestem-rozczarowany-oprogramowaniem-do-podpisu-osobistego/
 timeline_notification:

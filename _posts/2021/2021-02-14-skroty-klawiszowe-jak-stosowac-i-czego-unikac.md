@@ -2,7 +2,6 @@
 id: 2093
 title: 'Skróty klawiszowe &#8211; jak stosować i czego unikać'
 date: '2021-02-14T11:16:55+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2093'
 permalink: /2021/02/14/skroty-klawiszowe-jak-stosowac-i-czego-unikac/
 timeline_notification:

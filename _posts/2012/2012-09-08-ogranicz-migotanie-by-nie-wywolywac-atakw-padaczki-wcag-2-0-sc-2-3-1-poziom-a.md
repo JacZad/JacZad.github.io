@@ -2,7 +2,6 @@
 id: 229
 title: 'Ogranicz migotanie, by nie wywoływać ataków padaczki (WCAG 2.0 SC 2.3.1, poziom A)'
 date: '2012-09-08T08:31:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=229'
 permalink: /2012/09/08/ogranicz-migotanie-by-nie-wywolywac-atakw-padaczki-wcag-2-0-sc-2-3-1-poziom-a/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1870
 title: 'Szklanka z kontrastami'
 date: '2018-10-17T09:27:01+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1870'
 permalink: /2018/10/17/szklanka-z-kontrastami/
 restapi_import_id:

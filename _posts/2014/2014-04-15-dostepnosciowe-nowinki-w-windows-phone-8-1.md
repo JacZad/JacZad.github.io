@@ -2,7 +2,6 @@
 id: 1018
 title: 'Dostępnościowe nowinki w Windows Phone 8.1'
 date: '2014-04-15T12:35:44+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1018'
 permalink: /2014/04/15/dostepnosciowe-nowinki-w-windows-phone-8-1/
 restapi_import_id:

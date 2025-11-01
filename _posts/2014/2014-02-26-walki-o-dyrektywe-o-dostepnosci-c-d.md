@@ -2,7 +2,6 @@
 id: 956
 title: 'Walki o dyrektywę o dostępności c.d.'
 date: '2014-02-26T23:21:15+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=956'
 permalink: /2014/02/26/walki-o-dyrektywe-o-dostepnosci-c-d/
 restapi_import_id:

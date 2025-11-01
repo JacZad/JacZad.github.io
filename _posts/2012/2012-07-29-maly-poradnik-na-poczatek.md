@@ -2,7 +2,6 @@
 id: 39
 title: 'Mały poradnik na początek'
 date: '2012-07-29T10:55:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=39'
 permalink: /2012/07/29/maly-poradnik-na-poczatek/
 restapi_import_id:

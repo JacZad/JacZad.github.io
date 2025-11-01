@@ -2,7 +2,6 @@
 id: 480
 title: 'Aplikowanie etykiet i instrukcji w formularzach'
 date: '2013-01-07T12:51:12+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=480'
 permalink: /2013/01/07/aplikowanie-etykiet-i-instrukcji-w-formularzach/
 restapi_import_id:

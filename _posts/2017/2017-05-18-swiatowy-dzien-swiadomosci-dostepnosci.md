@@ -2,7 +2,6 @@
 id: 1664
 title: 'Światowy dzień świadomości dostępności'
 date: '2017-05-18T08:05:28+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1664'
 permalink: /2017/05/18/swiatowy-dzien-swiadomosci-dostepnosci/
 restapi_import_id:

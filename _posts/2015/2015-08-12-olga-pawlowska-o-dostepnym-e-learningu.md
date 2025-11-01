@@ -2,7 +2,6 @@
 id: 1418
 title: 'Olga Pawłowska o dostępnym e-learningu'
 date: '2015-08-12T13:02:04+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1418'
 permalink: /2015/08/12/olga-pawlowska-o-dostepnym-e-learningu/
 restapi_import_id:

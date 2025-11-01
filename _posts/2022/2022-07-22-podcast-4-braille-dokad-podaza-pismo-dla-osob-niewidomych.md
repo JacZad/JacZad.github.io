@@ -2,7 +2,6 @@
 title: 'Odcinek nr  4: Braille &#8211; dokąd podąża pismo dla osób niewidomych'
 date: '2022-07-22T01:50:15+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - Podcast
 tags:

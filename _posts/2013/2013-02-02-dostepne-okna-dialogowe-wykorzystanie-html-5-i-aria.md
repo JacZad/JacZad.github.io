@@ -2,7 +2,6 @@
 id: 572
 title: 'Dostępne okna dialogowe &#8211; wykorzystanie HTML 5 i ARIA'
 date: '2013-02-02T21:13:30+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=572'
 permalink: /2013/02/02/dostepne-okna-dialogowe-wykorzystanie-html-5-i-aria/
 restapi_import_id:

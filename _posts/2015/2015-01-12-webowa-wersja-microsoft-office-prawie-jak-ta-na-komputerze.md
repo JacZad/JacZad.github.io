@@ -2,7 +2,6 @@
 id: 1227
 title: 'Webowa wersja Microsoft Office prawie jak ta na komputerze'
 date: '2015-01-12T09:23:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1227'
 permalink: /2015/01/12/webowa-wersja-microsoft-office-prawie-jak-ta-na-komputerze/
 restapi_import_id:

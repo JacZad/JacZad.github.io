@@ -2,7 +2,6 @@
 id: 1740
 title: 'Alternatywny tekst dla grafik umieszczanych w tle'
 date: '2017-09-11T08:08:32+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1740'
 permalink: /2017/09/11/alternatywny-tekst-dla-grafik-umieszczanych-w-tle/
 restapi_import_id:

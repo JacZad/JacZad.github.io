@@ -2,7 +2,6 @@
 id: 716
 title: 'Przyłącz się do komentowania polskiej wersji WCAG 2.0'
 date: '2013-06-13T11:28:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=716'
 permalink: /2013/06/13/przylacz-sie-do-komentowania-polskiej-wersji-wcag-2-0/
 restapi_import_id:

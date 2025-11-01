@@ -4,7 +4,6 @@ title: 'Emaile ministra Dworczyka &#8211; analiza przypadku'
 date: '2021-11-05T16:31:40+01:00'
 author: 'Jacek Zadrożny'
 excerpt: 'O mailach ministra Dworczyka w kontekście WCAG 2.1.'
-layout: post
 guid: 'https://informaton.blog/?p=2554'
 permalink: /2021/11/05/emaile-ministra-dworczyka-analiza-przypadku/
 categories:

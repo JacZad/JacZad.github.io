@@ -2,7 +2,6 @@
 id: 184
 title: 'Dostęp za pomocą klawiatury (WCAG 2.0 SC 2.1.1, poziom A)'
 date: '2012-08-26T08:53:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=184'
 permalink: /2012/08/26/dostep-za-pomoca-klawiatury-wcag-2-0-sc-2-1-1-poziom-a/
 restapi_import_id:

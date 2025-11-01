@@ -2,7 +2,6 @@
 id: 838
 title: 'Festiwal dostępnej kultury w Płocku'
 date: '2013-09-27T23:55:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=838'
 permalink: /2013/09/27/festiwal-dostepnej-kultury-w-plocku/
 restapi_import_id:

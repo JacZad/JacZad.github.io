@@ -2,7 +2,6 @@
 id: 497
 title: 'Korzyści ze stosowania nowych typów pól tekstowych'
 date: '2013-01-11T18:47:18+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=497'
 permalink: /2013/01/11/korzysci-ze-stosowania-nowych-typw-pl-tekstowych/
 restapi_import_id:

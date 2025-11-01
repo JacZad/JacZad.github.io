@@ -2,7 +2,6 @@
 title: 'Odcinek nr 6: Miasteczko galicyjskie'
 date: '2022-08-05T05:00:01+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Daniel Lachor", "dostępna kultura", "skansen", "architektura"]
 categories:
     - Podcast

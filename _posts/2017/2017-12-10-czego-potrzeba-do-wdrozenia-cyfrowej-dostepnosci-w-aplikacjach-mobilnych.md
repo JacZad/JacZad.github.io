@@ -2,7 +2,6 @@
 id: 1794
 title: 'Czego potrzeba do wdrożenia cyfrowej dostępności w aplikacjach mobilnych?'
 date: '2017-12-10T14:59:09+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1794'
 permalink: /2017/12/10/czego-potrzeba-do-wdrozenia-cyfrowej-dostepnosci-w-aplikacjach-mobilnych/
 restapi_import_id:

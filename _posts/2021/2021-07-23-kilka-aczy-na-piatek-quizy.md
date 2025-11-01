@@ -3,7 +3,7 @@ id: 2408
 title: 'Kilka łączy na piątek (quizy)'
 date: '2021-07-23T15:41:41+02:00'
 excerpt: 'Na dzisiaj 5 quizów o dostępności, przede wszystkim cyfrowej. Na końcu obietnica uznania za króla lub królową.'
-layout: post
+ 
 guid: 'http://informaton.blog/?p=2408'
 permalink: /2021/07/23/kilka-aczy-na-piatek-quizy/
 timeline_notification:

@@ -2,7 +2,6 @@
 id: 68
 title: 'Pełna transkrypcja multimediów (WCAG 2.0 SC 1.2.8, poziom AAA)'
 date: '2012-08-04T16:43:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=68'
 permalink: /2012/08/04/pelna-transkrypcja-multimediw-wcag-2-0-sc-1-2-8-poziom-aaa/
 restapi_import_id:

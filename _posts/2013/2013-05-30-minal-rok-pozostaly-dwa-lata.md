@@ -2,7 +2,6 @@
 id: 709
 title: 'Minął rok, pozostały dwa lata'
 date: '2013-05-30T08:37:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=709'
 permalink: /2013/05/30/minal-rok-pozostaly-dwa-lata/
 restapi_import_id:

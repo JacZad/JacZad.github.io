@@ -2,7 +2,6 @@
 id: 1130
 title: 'Wyniki badania przeprowadzonego wśród specjalistów od dostępności'
 date: '2014-09-06T19:03:30+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1130'
 permalink: /2014/09/06/wyniki-badania-przeprowadzonego-wsrd-specjalistw-od-dostepnosci/
 restapi_import_id:

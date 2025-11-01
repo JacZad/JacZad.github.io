@@ -1,7 +1,6 @@
 ---
 title: 'Refleksje po Accessibility Camp 2013'
 date: '2013-05-13T19:01:09+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['AccessibilityCamp', prawo, semantyka, 'WCAG']

@@ -2,7 +2,6 @@
 id: 163
 title: 'Prezentacja bloków tekstu (WCAG 2.0 SC 1.4.8, poziom AAA)'
 date: '2012-08-23T09:37:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=163'
 permalink: /2012/08/23/prezentacja-blokow-tekstu-wcag-2-0-sc-1-4-8-poziom-aaa/
 restapi_import_id:

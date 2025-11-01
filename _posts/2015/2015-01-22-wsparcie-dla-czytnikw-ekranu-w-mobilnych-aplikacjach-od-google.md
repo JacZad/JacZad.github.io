@@ -2,7 +2,7 @@
 id: 1237
 title: 'Wsparcie dla czytników ekranu w mobilnych aplikacjach od Google'
 date: '2015-01-22T17:18:02+01:00'
-layout: post
+
 guid: 'http://informaton.pl/?p=1237'
 permalink: /2015/01/22/wsparcie-dla-czytnikw-ekranu-w-mobilnych-aplikacjach-od-google/
 restapi_import_id:

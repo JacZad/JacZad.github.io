@@ -2,7 +2,6 @@
 title: 'Konferencja z okazji 10 lat prawa o cyfrowej dostępności'
 date: '2022-04-06T08:00:00+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

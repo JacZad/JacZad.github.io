@@ -2,7 +2,6 @@
 id: 973
 title: 'Za całkowitą darmochę profesjonalny audyt dostępności serwisu internetowego!'
 date: '2014-03-08T17:44:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=973'
 permalink: /2014/03/08/za-calkowita-darmoche-profesjonalny-audyt-dostepnosci-serwisu-internetowego/
 restapi_import_id:

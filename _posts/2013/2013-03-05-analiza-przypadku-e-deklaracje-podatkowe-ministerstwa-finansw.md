@@ -1,7 +1,6 @@
 ---
 title: 'Analiza przypadku &#8211; e-deklaracje podatkowe Ministerstwa Finansów'
 date: '2013-03-05T14:12:12+01:00'
-layout: post
 categories:
     - artykuły
 tags:

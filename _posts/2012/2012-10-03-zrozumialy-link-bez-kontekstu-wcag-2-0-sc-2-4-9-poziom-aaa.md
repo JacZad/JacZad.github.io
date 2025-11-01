@@ -2,7 +2,6 @@
 id: 286
 title: 'Zrozumiały link bez kontekstu (WCAG 2.0 SC 2.4.9, poziom AAA)'
 date: '2012-10-03T08:45:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=286'
 permalink: /2012/10/03/zrozumialy-link-bez-kontekstu-wcag-2-0-sc-2-4-9-poziom-aaa/
 restapi_import_id:

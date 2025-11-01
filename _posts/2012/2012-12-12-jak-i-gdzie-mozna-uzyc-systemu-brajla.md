@@ -2,7 +2,6 @@
 id: 436
 title: 'Jak i gdzie można użyć systemu brajla'
 date: '2012-12-12T18:56:24+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=436'
 permalink: /2012/12/12/jak-i-gdzie-mozna-uzyc-systemu-brajla/
 restapi_import_id:

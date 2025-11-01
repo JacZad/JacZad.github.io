@@ -2,7 +2,6 @@
 id: 455
 title: 'Polskie źródełka wiedzy 2012'
 date: '2012-12-31T08:31:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=455'
 permalink: /2012/12/31/polskie-zrdelka-wiedzy-2012/
 restapi_import_id:

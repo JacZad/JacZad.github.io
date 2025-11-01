@@ -2,7 +2,6 @@
 id: 867
 title: 'Fundacja Synapsis o alternatywnych i wspomagających metodach komunikowania się'
 date: '2013-10-14T10:33:42+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=867'
 permalink: /2013/10/14/fundacja-synapsis-o-alternatywnych-i-wspomagajacych-metodach-komunikowania-sie/
 restapi_import_id:

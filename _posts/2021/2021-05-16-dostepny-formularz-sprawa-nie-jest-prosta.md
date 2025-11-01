@@ -3,7 +3,6 @@ id: 2323
 title: 'Dostępny formularz &#8211; sprawa nie jest prosta'
 date: '2021-05-16T19:12:40+02:00'
 excerpt: 'Kilka podpowiedzi, jak podejść do kwestii dostępnych formularzy.'
-layout: post
 guid: 'http://informaton.blog/?p=2323'
 permalink: /2021/05/16/dostepny-formularz-sprawa-nie-jest-prosta/
 timeline_notification:

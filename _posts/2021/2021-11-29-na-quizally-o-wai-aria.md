@@ -4,7 +4,6 @@ title: 'Na Quizally o WAI ARIA'
 date: '2021-11-29T08:16:48+01:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Dzisiaj quiz o technologii ARIA - czasem bardzo niebezpiecznej dla cyfrowej dostępności.'
-layout: post
 guid: 'https://informaton.blog/?p=2588'
 permalink: /2021/11/29/na-quizally-o-wai-aria/
 categories:

@@ -2,7 +2,6 @@
 id: 1278
 title: 'Raport na temat dostępności publicznych stron internetowych'
 date: '2015-03-20T09:13:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1278'
 permalink: /2015/03/20/raport-na-temat-dostepnosci-publicznych-stron-internetowych/
 restapi_import_id:

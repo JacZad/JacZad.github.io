@@ -2,7 +2,6 @@
 id: 766
 title: 'MAiC ogłasza konkurs grantowy na cyfrowe włączenie'
 date: '2013-08-14T09:55:07+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=766'
 permalink: /2013/08/14/maic-oglasza-konkurs-grantowy-na-cyfrowe-wlaczenie/
 restapi_import_id:

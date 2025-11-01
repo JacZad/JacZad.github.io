@@ -1,7 +1,6 @@
 ---
 title: 'Następny skok cywilizacyjny może wypchnąć osoby niewidome za burtę'
 date: '2017-09-05T12:45:02+02:00'
-layout: post
 category: artykuły
 tags: [matematyka, 'osoby niewidome', przyszłość, tabele, wykresy]
 ---

@@ -2,7 +2,6 @@
 id: 1807
 title: 'Konsultacje społeczne standardów dostępności'
 date: '2018-01-31T09:41:25+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1807'
 permalink: /2018/01/31/konsultacje-spoleczne-standardow-dostepnosci/
 restapi_import_id:

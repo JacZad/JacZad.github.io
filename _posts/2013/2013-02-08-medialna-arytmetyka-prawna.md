@@ -2,7 +2,6 @@
 id: 587
 title: 'Medialna arytmetyka prawna'
 date: '2013-02-08T14:51:17+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=587'
 permalink: /2013/02/08/medialna-arytmetyka-prawna/
 restapi_import_id:

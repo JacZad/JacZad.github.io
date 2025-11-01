@@ -2,7 +2,6 @@
 title: 'Odcinek nr 9: Napisy na żywo, czyli sztuczna inteligencja wciąż potrzebuje człowieka'
 date: '2022-08-26T06:34:28+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: [napisy, "napisy na żywo", "sztuczna inteligencja", "Monika Szczygielska"]
 categories:
     - Podcast

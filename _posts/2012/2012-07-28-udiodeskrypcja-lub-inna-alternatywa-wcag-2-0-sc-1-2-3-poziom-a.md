@@ -2,7 +2,6 @@
 id: 36
 title: 'Audiodeskrypcja lub inna alternatywa (WCAG 2.0 SC 1.2.3, poziom A)'
 date: '2012-07-28T11:38:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=36'
 permalink: /2012/07/28/udiodeskrypcja-lub-inna-alternatywa-wcag-2-0-sc-1-2-3-poziom-a/
 restapi_import_id:

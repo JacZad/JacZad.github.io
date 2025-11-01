@@ -2,7 +2,6 @@
 id: 705
 title: 'Strona internetowa w antyramie'
 date: '2013-05-21T10:18:55+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=705'
 permalink: /2013/05/21/strona-tytulowa-w-antyramie/
 restapi_import_id:

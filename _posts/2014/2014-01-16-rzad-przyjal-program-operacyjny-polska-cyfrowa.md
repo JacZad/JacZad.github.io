@@ -2,7 +2,6 @@
 id: 927
 title: 'Rząd przyjął Program Operacyjny &#8220;Polska Cyfrowa&#8221;'
 date: '2014-01-16T11:38:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=927'
 permalink: /2014/01/16/rzad-przyjal-program-operacyjny-polska-cyfrowa/
 restapi_import_id:

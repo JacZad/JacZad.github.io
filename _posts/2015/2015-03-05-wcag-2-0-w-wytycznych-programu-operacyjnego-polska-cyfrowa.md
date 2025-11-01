@@ -2,7 +2,6 @@
 id: 1267
 title: 'WCAG 2.0 w wytycznych Programu Operacyjnego Polska Cyfrowa'
 date: '2015-03-05T17:58:14+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1267'
 permalink: /2015/03/05/wcag-2-0-w-wytycznych-programu-operacyjnego-polska-cyfrowa/
 restapi_import_id:

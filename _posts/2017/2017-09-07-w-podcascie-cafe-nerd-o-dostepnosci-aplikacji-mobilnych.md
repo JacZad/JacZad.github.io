@@ -2,7 +2,6 @@
 id: 1730
 title: 'W podcaście Cafe Nerd o dostępności aplikacji mobilnych'
 date: '2017-09-07T09:44:14+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1730'
 permalink: /2017/09/07/w-podcascie-cafe-nerd-o-dostepnosci-aplikacji-mobilnych/
 enclosure:

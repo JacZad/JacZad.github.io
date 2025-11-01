@@ -2,7 +2,7 @@
 title: 'Karteczka z zaklęciami do NVDA'
 date: '2021-06-15T15:21:25+02:00'
 excerpt: 'Jeżeli ktoś potrzebuje, to może skorzystać z żółtej karteczki ze skrótami do NVDA.'
-layout: post
+ 
 categories:
     - artykuły
 tags:

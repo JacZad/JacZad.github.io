@@ -2,7 +2,6 @@
 id: 1280
 title: 'Serwisy społecznościowe są coraz dostępniejsze, ale czy o taką dostępność chodzi?'
 date: '2015-03-21T13:28:14+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1280'
 permalink: /2015/03/21/serwisy-spolecznosciowe-sa-coraz-dostepniejsze-ale-czy-o-taka-dostepnosc-chodzi/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1555
 title: 'Automatycznie generowane teksty alternatywne to ściema'
 date: '2016-10-03T10:58:48+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1555'
 permalink: /2016/10/03/automatycznie-generowane-teksty-alternatywne-to-sciema/
 restapi_import_id:

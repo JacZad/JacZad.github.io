@@ -1,7 +1,6 @@
 ---
 title: 'Konsultacje społeczne rozporządzenia KRRiT o jak najmniejszym udziale audiodeskrypcji, napisów i języka migowego'
 date: '2013-04-15T09:15:19+02:00'
-layout: post
 categories:
     - artykuły
 tags: ['audiodeskrypcja', 'język migowy', 'KRRiT', 'multimedia', 'napisy', 'prawo', 'telewizja']

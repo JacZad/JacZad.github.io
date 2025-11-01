@@ -2,7 +2,6 @@
 id: 493
 title: 'Ja wiem, że marketing ma swoje prawa, ale powinien mieć także granice przyzwoitości'
 date: '2013-01-10T16:17:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=493'
 permalink: /2013/01/10/ja-wiem-ze-marketing-ma-swoje-prawa-ale-powinien-miec-takze-granice-przyzwoitosci/
 restapi_import_id:

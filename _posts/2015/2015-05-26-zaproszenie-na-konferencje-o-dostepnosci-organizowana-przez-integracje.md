@@ -2,7 +2,6 @@
 id: 1347
 title: 'Zaproszenie na konferencję o dostępności organizowaną przez Integrację'
 date: '2015-05-26T07:39:40+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1347'
 permalink: /2015/05/26/zaproszenie-na-konferencje-o-dostepnosci-organizowana-przez-integracje/
 restapi_import_id:

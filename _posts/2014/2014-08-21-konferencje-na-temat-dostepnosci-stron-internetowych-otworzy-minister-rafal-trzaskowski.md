@@ -2,7 +2,6 @@
 id: 1106
 title: 'Konferencję na temat dostępności stron internetowych otworzy minister Rafał Trzaskowski'
 date: '2014-08-21T21:08:56+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1106'
 permalink: /2014/08/21/konferencje-na-temat-dostepnosci-stron-internetowych-otworzy-minister-rafal-trzaskowski/
 restapi_import_id:

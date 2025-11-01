@@ -1,7 +1,6 @@
 ---
 title: 'Smartfon jako centrum zarządzania wszystkim'
 date: '2017-05-17T10:05:53+02:00'
-layout: post
 categories:
     - artykuły
 tags:

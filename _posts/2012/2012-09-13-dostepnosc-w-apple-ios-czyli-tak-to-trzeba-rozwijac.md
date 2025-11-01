@@ -2,7 +2,6 @@
 id: 239
 title: 'Dostępność w Apple iOS, czyli tak to trzeba rozwijać'
 date: '2012-09-13T12:44:09+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=239'
 permalink: /2012/09/13/dostepnosc-w-apple-ios-czyli-tak-to-trzeba-rozwijac/
 restapi_import_id:

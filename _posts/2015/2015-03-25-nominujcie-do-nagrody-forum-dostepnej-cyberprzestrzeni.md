@@ -2,7 +2,6 @@
 id: 1283
 title: 'Nominujcie do nagrody Forum Dostępnej Cyberprzestrzeni'
 date: '2015-03-25T14:09:58+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1283'
 permalink: /2015/03/25/nominujcie-do-nagrody-forum-dostepnej-cyberprzestrzeni/
 restapi_import_id:

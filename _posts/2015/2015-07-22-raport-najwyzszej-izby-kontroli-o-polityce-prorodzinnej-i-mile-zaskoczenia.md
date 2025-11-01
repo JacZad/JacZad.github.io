@@ -2,7 +2,6 @@
 id: 1400
 title: 'Raport Najwyższej Izby Kontroli o polityce prorodzinnej i miłe zaskoczenia'
 date: '2015-07-22T07:43:44+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1400'
 permalink: /2015/07/22/raport-najwyzszej-izby-kontroli-o-polityce-prorodzinnej-i-mile-zaskoczenia/
 restapi_import_id:

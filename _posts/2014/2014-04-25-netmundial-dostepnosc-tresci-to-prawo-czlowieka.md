@@ -2,7 +2,6 @@
 id: 1028
 title: 'NETMundial &#8211; dostępność treści to prawo człowieka'
 date: '2014-04-25T10:07:10+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1028'
 permalink: /2014/04/25/netmundial-dostepnosc-tresci-to-prawo-czlowieka/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1409
 title: 'MAiC ogłasza listę dofinansowań na dostosowanie stron do potrzeb osób niepełnosprawnych. W niedostępnym pliku PDF'
 date: '2015-07-27T16:28:09+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1409'
 permalink: /2015/07/27/maic-oglasza-liste-dofinansowan-na-dostosowanie-stron-do-potrzeb-osob-niepelnosprawnych-w-niedostepnym-pliku-pdf/
 restapi_import_id:

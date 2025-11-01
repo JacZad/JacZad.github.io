@@ -2,7 +2,6 @@
 id: 1421
 title: 'Powstaje grupa robocza dotycząca osób słabowidzących przy W3C'
 date: '2015-08-23T17:43:11+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1421'
 permalink: /2015/08/23/powstaje-grupa-robocza-dotyczaca-osob-slabowidzacych-przy-w3c/
 restapi_import_id:

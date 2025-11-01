@@ -4,7 +4,6 @@ title: 'Quiz o prostym języku'
 date: '2021-10-18T08:00:00+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Zmierz się z quizem o prostym języku. A wcześniej - przeczytaj i obejrzyj dołączone zasoby. Tyle ich jeszcze nie było!'
-layout: post
 guid: 'https://informaton.blog/?p=2541'
 permalink: /2021/10/18/quiz-o-prostym-jezyku/
 categories:

@@ -3,7 +3,6 @@ id: 2340
 title: 'GUS się w ogóle nie stara'
 date: '2021-06-01T20:14:38+02:00'
 excerpt: 'GUS naprawdę ma pod górkę ze swoimi narzędziami informatycznymi. Oczywiście z cyfrową dostępnością tych narzędzi. Znowu trzeba będzie pisać.'
-layout: post
 guid: 'http://informaton.blog/?p=2340'
 permalink: /2021/06/01/gus-sie-w-ogole-nie-stara/
 publicize_twitter_user:

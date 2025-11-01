@@ -2,7 +2,6 @@
 id: 669
 title: 'Analiza przypadku &#8211; załatwiam becikowe przez EPUAP'
 date: '2013-04-14T07:33:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=669'
 permalink: /2013/04/14/analiza-przypadku-zalatwiam-becikowe-przez-epuap/
 restapi_import_id:

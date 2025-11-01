@@ -2,7 +2,6 @@
 id: 1596
 title: 'Iteracyjne dochodzenie do dostępności, czyli nie bać się eksperymentowania'
 date: '2016-12-07T14:10:05+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1596'
 permalink: /2016/12/07/iteracyjne-dochodzenie-do-dostepnosci-czyli-nie-bac-sie-eksperymentowania/
 restapi_import_id:

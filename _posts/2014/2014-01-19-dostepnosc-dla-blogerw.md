@@ -2,7 +2,6 @@
 id: 931
 title: 'Dostępność dla blogerów'
 date: '2014-01-19T15:00:24+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=931'
 permalink: /2014/01/19/dostepnosc-dla-blogerw/
 restapi_import_id:

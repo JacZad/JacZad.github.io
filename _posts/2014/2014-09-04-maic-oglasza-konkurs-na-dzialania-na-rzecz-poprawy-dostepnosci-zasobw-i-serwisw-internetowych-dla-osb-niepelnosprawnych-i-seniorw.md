@@ -2,7 +2,6 @@
 id: 1124
 title: 'MAiC ogłasza konkurs na &#8220;Działania na rzecz poprawy dostępności zasobów i serwisów internetowych dla osób niepełnosprawnych i seniorów&#8221;'
 date: '2014-09-04T08:56:42+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1124'
 permalink: /2014/09/04/maic-oglasza-konkurs-na-dzialania-na-rzecz-poprawy-dostepnosci-zasobw-i-serwisw-internetowych-dla-osb-niepelnosprawnych-i-seniorw/
 restapi_import_id:

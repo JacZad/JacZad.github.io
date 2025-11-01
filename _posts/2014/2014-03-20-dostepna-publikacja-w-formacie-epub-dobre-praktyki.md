@@ -1,7 +1,6 @@
 ---
 title: 'Dostępna publikacja w formacie EPUB &#8211; dobre praktyki'
 date: '2014-03-20T14:28:52+01:00'
-layout: post
 categories:
     - artykuły
 tags: [e-booki, e-podręcznik, EPUB, semantyka]

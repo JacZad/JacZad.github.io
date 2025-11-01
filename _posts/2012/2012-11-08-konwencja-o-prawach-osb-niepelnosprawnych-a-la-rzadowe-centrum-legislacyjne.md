@@ -2,7 +2,6 @@
 id: 361
 title: 'Konwencja o prawach osób niepełnosprawnych a la Rządowe Centrum Legislacyjne'
 date: '2012-11-08T12:20:51+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=361'
 permalink: /2012/11/08/konwencja-o-prawach-osb-niepelnosprawnych-a-la-rzadowe-centrum-legislacyjne/
 restapi_import_id:

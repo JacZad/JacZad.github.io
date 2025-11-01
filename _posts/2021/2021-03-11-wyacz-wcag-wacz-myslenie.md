@@ -3,7 +3,6 @@ id: 2108
 title: 'Wyłącz WCAG, włącz myślenie'
 date: '2021-03-11T18:50:08+01:00'
 excerpt: 'Takie moje rozważania na temat dostępności i WCAG, a także odpowiedzialności audytorów.'
-layout: post
 guid: 'http://informaton.blog/?p=2108'
 permalink: /2021/03/11/wyacz-wcag-wacz-myslenie/
 publicize_linkedin_url:

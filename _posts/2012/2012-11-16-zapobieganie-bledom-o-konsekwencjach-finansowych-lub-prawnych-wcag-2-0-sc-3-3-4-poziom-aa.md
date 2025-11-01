@@ -2,7 +2,6 @@
 id: 375
 title: 'Zapobieganie błędom o konsekwencjach finansowych lub prawnych (WCAG 2.0 SC 3.3.4, poziom AA)'
 date: '2012-11-16T07:54:24+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=375'
 permalink: /2012/11/16/zapobieganie-bledom-o-konsekwencjach-finansowych-lub-prawnych-wcag-2-0-sc-3-3-4-poziom-aa/
 restapi_import_id:

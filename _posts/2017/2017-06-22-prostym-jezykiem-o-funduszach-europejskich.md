@@ -2,7 +2,6 @@
 id: 1701
 title: 'Prostym językiem o funduszach europejskich'
 date: '2017-06-22T12:11:41+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1701'
 permalink: /2017/06/22/prostym-jezykiem-o-funduszach-europejskich/
 restapi_import_id:

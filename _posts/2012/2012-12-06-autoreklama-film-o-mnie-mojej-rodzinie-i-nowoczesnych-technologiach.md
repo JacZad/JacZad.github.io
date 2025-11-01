@@ -2,7 +2,6 @@
 id: 417
 title: 'Autoreklama &#8211; film o mnie, mojej rodzinie i nowoczesnych technologiach'
 date: '2012-12-06T22:11:31+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=417'
 permalink: /2012/12/06/autoreklama-film-o-mnie-mojej-rodzinie-i-nowoczesnych-technologiach/
 restapi_import_id:

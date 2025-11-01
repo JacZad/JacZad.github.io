@@ -2,7 +2,6 @@
 id: 202
 title: 'Dostępne pliki w MS Word 2010'
 date: '2012-08-30T09:38:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=202'
 permalink: /2012/08/30/dostepne-pliki-w-ms-word-2010/
 restapi_import_id:

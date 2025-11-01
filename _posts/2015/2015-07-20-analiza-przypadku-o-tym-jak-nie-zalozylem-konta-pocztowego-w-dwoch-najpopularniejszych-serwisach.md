@@ -2,7 +2,6 @@
 id: 1398
 title: 'Analiza przypadku &#8211; o tym, jak nie założyłem konta pocztowego w dwóch najpopularniejszych serwisach'
 date: '2015-07-20T14:37:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1398'
 permalink: /2015/07/20/analiza-przypadku-o-tym-jak-nie-zalozylem-konta-pocztowego-w-dwoch-najpopularniejszych-serwisach/
 restapi_import_id:

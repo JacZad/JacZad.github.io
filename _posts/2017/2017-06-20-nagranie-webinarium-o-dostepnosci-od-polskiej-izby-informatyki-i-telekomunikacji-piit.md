@@ -2,7 +2,6 @@
 id: 1698
 title: 'Nagranie webinarium o dostępności od Polskiej Izby Informatyki i Telekomunikacji (PIiT)'
 date: '2017-06-20T10:34:30+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1698'
 permalink: /2017/06/20/nagranie-webinarium-o-dostepnosci-od-polskiej-izby-informatyki-i-telekomunikacji-piit/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 129
 title: 'Minimalny kontrast (WCAG 2.0 SC 1.4.3, poziom AA)'
 date: '2012-08-16T10:06:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=129'
 permalink: /2012/08/16/minimalny-kontrast-wcag-2-0-sc-1-4-3-poziom-aa/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1014
 title: 'Rozporządzenie MAiC dotyczące dostępności usług telekomunikacyjnych'
 date: '2014-04-10T12:01:30+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1014'
 permalink: /2014/04/10/rozporzadzenie-maic-dotyczace-dostepnosci-uslug-telekomunikacyjnych/
 restapi_import_id:

@@ -2,7 +2,6 @@
 title: 'GAAD 2022 &#8211; możesz zrobić z Accens co zechcesz'
 date: '2022-04-05T09:13:18+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

@@ -2,7 +2,6 @@
 id: 1851
 title: 'WCAG 2.1 stał się oficjalnym standardem i na razie nic z tego nie wynika'
 date: '2018-06-06T12:39:58+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1851'
 permalink: /2018/06/06/wcag-2-1-stal-sie-oficjalnym-standardem-i-na-razie-nic-z-tego-nie-wynika/
 restapi_import_id:

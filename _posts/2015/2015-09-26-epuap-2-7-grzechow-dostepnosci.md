@@ -2,7 +2,6 @@
 id: 1442
 title: 'ePUAP 2 &#8211; 7 grzechów dostępności'
 date: '2015-09-26T17:05:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1442'
 permalink: /2015/09/26/epuap-2-7-grzechow-dostepnosci/
 restapi_import_id:

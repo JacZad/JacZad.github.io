@@ -2,7 +2,6 @@
 id: 2042
 title: 'Cyfrowa dostępność nie ma szans w starciu z multimediami'
 date: '2020-05-29T13:11:00+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2042'
 permalink: /2020/05/29/cyfrowa-dostepnosc-nie-ma-szans-w-starciu-z-multimediami/
 publicize_linkedin_url:

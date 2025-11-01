@@ -1,7 +1,6 @@
 ---
 title: 'Czy potrzebny jest nam alfabet Braille’a?'
 date: '2019-01-05T12:40:23+01:00'
-layout: post
 categories:
     - artykuły
 tags: ['braille', 'synteza mowy', 'e-booki', 'osoby niewidome']

@@ -2,7 +2,6 @@
 id: 343
 title: 'Czcionka dla dyslektyków'
 date: '2012-11-01T12:58:13+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=343'
 permalink: /2012/11/01/czcionka-dla-dyslektykw/
 restapi_import_id:

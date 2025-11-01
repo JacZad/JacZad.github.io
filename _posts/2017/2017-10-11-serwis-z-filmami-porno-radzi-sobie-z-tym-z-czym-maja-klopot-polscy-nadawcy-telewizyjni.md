@@ -2,7 +2,6 @@
 id: 1762
 title: 'Serwis z filmami porno radzi sobie z tym, z czym mają kłopot polscy nadawcy telewizyjni'
 date: '2017-10-11T09:09:44+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1762'
 permalink: /2017/10/11/serwis-z-filmami-porno-radzi-sobie-z-tym-z-czym-maja-klopot-polscy-nadawcy-telewizyjni/
 restapi_import_id:

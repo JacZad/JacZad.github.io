@@ -2,7 +2,6 @@
 id: 1211
 title: 'Tajemniczy wskaźnik dostępności Utilitii, czyli o ograniczonym zaufaniu do automatów'
 date: '2015-01-09T14:26:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1211'
 permalink: /2015/01/09/tajemniczy-wskaznik-dostepnosci-utilitii-czyli-o-ograniczonym-zaufaniu-do-automatow/
 restapi_import_id:

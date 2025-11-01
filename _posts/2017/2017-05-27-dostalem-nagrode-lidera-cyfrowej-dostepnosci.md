@@ -2,7 +2,6 @@
 id: 1679
 title: 'Dostałem nagrodę Lidera Cyfrowej Dostępności'
 date: '2017-05-27T13:50:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1679'
 permalink: /2017/05/27/dostalem-nagrode-lidera-cyfrowej-dostepnosci/
 restapi_import_id:

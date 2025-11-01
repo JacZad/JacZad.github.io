@@ -2,7 +2,6 @@
 id: 1822
 title: 'Dostępna prezentacja w programie Powerpoint'
 date: '2018-04-04T11:38:27+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1822'
 permalink: /2018/04/04/dostepna-prezentacja-w-programie-powerpoint/
 restapi_import_id:

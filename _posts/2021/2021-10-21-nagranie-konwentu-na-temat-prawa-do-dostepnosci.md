@@ -4,7 +4,7 @@ title: 'Nagranie konwentu na temat prawa do dostępności'
 date: '2021-10-21T11:24:13+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Na YouTube opublikowałem nagranie z konwetnu tematycznego przed Kongresem Osób z Niepełnosprawnością. Dotyczy dostępności i dochodzenia do niej na ścieżce prawnej.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2544'
 permalink: /2021/10/21/nagranie-konwentu-na-temat-prawa-do-dostepnosci/
 advanced_seo_description:

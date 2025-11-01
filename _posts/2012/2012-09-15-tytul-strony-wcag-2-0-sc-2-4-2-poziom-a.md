@@ -2,7 +2,6 @@
 id: 245
 title: 'Tytuł strony (WCAG 2.0 SC 2.4.2, poziom A)'
 date: '2012-09-15T10:15:30+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=245'
 permalink: /2012/09/15/tytul-strony-wcag-2-0-sc-2-4-2-poziom-a/
 restapi_import_id:

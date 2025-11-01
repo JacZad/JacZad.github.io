@@ -1,7 +1,6 @@
 ---
 title: 'Zaproszenie na AccessibilityCamp 2013'
 date: '2013-01-08T11:06:06+01:00'
-layout: post
 categories:
     - artykuły
 tags:

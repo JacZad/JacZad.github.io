@@ -2,7 +2,6 @@
 id: 277
 title: 'Facebook powołał zespół do spraw dostępności'
 date: '2012-09-28T08:35:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=277'
 permalink: /2012/09/28/facebook-powolal-zespl-do-spraw-dostepnosci/
 restapi_import_id:

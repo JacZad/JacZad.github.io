@@ -2,7 +2,6 @@
 id: 1686
 title: 'Kolejne cegiełki do koncepcji polskiego Access Board'
 date: '2017-06-06T10:05:09+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1686'
 permalink: /2017/06/06/kolejne-cegielki-do-koncepcji-polskiego-access-board/
 restapi_import_id:

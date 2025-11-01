@@ -2,7 +2,6 @@
 id: 1804
 title: 'Rządowy program &#8220;Dostępność Plus&#8221; &#8211; pierwsza przymiarka'
 date: '2018-01-30T10:52:11+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1804'
 permalink: /2018/01/30/rzadowy-program-dostepnosc-plus-pierwsza-przymiarka/
 restapi_import_id:

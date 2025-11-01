@@ -2,7 +2,6 @@
 id: 1020
 title: 'Dostępne wykresy wykorzystujące ARIA'
 date: '2014-04-17T11:59:53+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1020'
 permalink: /2014/04/17/dostepne-wykresy-wykorzystujace-aria/
 enclosure:

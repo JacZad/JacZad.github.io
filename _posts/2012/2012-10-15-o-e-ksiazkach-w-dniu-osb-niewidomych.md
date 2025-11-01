@@ -2,7 +2,6 @@
 id: 316
 title: 'O e-książkach w dniu osób niewidomych'
 date: '2012-10-15T21:43:19+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=316'
 permalink: /2012/10/15/o-e-ksiazkach-w-dniu-osb-niewidomych/
 restapi_import_id:

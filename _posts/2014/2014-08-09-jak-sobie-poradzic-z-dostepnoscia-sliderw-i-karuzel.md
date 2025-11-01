@@ -2,7 +2,6 @@
 id: 1096
 title: 'Jak sobie poradzić z dostępnością sliderów i karuzel?'
 date: '2014-08-09T10:44:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1096'
 permalink: /2014/08/09/jak-sobie-poradzic-z-dostepnoscia-sliderw-i-karuzel/
 restapi_import_id:

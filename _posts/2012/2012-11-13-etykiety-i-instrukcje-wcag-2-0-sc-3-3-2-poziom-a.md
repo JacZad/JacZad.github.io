@@ -2,7 +2,6 @@
 id: 368
 title: 'Etykiety i instrukcje (WCAG 2.0 SC 3.3.2, poziom A)'
 date: '2012-11-13T08:56:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=368'
 permalink: /2012/11/13/etykiety-i-instrukcje-wcag-2-0-sc-3-3-2-poziom-a/
 restapi_import_id:

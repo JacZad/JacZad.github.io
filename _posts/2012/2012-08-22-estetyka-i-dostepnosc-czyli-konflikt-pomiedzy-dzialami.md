@@ -2,7 +2,6 @@
 id: 160
 title: 'Estetyka i dostępność, czyli konflikt pomiędzy działami'
 date: '2012-08-22T09:14:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=160'
 permalink: /2012/08/22/estetyka-i-dostepnosc-czyli-konflikt-pomiedzy-dzialami/
 restapi_import_id:

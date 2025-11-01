@@ -2,7 +2,6 @@
 id: 616
 title: 'Dostęp do elementów nieaktywnych za pomocą klawiatury'
 date: '2013-02-24T09:39:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=616'
 permalink: /2013/02/24/dostep-do-elementw-nieaktywnych-za-pomoca-klawiatury/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 341
 title: 'Do poczytania &#8211; instrukcja obsługi'
 date: '2012-11-11T10:03:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=341'
 permalink: /2012/11/11/do-poczytania-instrukcja-obslugi/
 restapi_import_id:

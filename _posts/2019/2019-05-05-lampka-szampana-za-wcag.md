@@ -2,7 +2,6 @@
 id: 2008
 title: 'Lampka szampana za WCAG'
 date: '2019-05-05T08:00:04+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2008'
 permalink: /2019/05/05/lampka-szampana-za-wcag/
 publicize_twitter_user:

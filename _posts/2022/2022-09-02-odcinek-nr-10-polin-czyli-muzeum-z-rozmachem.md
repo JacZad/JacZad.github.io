@@ -2,7 +2,6 @@
 title: 'Odcinek nr 10: Polin, czyli muzeum z rozmachem'
 date: '2022-09-02T05:23:35+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: [Polin, muzeum, "koordynator dostępności", "Wioleta Jóźwiak"]
 categories:
     - Podcast

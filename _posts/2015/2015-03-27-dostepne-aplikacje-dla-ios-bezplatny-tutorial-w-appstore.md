@@ -2,7 +2,6 @@
 id: 1286
 title: 'Dostępne aplikacje dla iOS &#8211; bezpłatny tutorial w AppStore'
 date: '2015-03-27T11:46:35+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1286'
 permalink: /2015/03/27/dostepne-aplikacje-dla-ios-bezplatny-tutorial-w-appstore/
 restapi_import_id:

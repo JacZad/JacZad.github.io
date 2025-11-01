@@ -3,7 +3,6 @@ id: 1050
 title: 'Spoty kandydatów &#8211; dostępne czy nie?'
 date: '2014-05-23T22:48:58+02:00'
 author: 'Monika Szczygielska'
-layout: post
 guid: 'http://informaton.pl/?p=1050'
 permalink: /2014/05/23/spoty-kandydatow-dostepne-czy-nie/
 restapi_import_id:

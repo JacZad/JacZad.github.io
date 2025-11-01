@@ -2,7 +2,6 @@
 title: 'GAAD 2022 - konferencja o uniwersalnym projektowaniu'
 date: '2022-04-28T08:52:21+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

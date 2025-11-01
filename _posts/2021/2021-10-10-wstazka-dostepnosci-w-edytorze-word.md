@@ -4,7 +4,7 @@ title: 'Wstążka dostępności w edytorze Word'
 date: '2021-10-10T18:21:34+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Twój pomocnik w tworzeniu dostępnych cyfrowo dokumentów: karta "Dostępność" na paska edytora od Microsoftu.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2535'
 permalink: /2021/10/10/wstazka-dostepnosci-w-edytorze-word/
 categories:

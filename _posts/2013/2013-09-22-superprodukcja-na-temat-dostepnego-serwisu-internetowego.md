@@ -2,7 +2,6 @@
 id: 830
 title: 'Superprodukcja na temat dostępnego serwisu internetowego'
 date: '2013-09-22T11:55:51+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=830'
 permalink: /2013/09/22/superprodukcja-na-temat-dostepnego-serwisu-internetowego/
 restapi_import_id:

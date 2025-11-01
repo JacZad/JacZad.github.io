@@ -2,7 +2,6 @@
 id: 303
 title: 'Uproszczony język (WCAG 2.0 SC 3.1.5, poziom AAA)'
 date: '2012-10-10T09:21:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=303'
 permalink: /2012/10/10/uproszczony-jezyk-wcag-2-0-sc-3-1-5-poziom-aaa/
 restapi_import_id:

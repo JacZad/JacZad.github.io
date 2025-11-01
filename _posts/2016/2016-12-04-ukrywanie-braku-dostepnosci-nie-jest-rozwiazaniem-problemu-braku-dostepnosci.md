@@ -2,7 +2,6 @@
 id: 1584
 title: 'Ukrywanie braku dostępności nie jest rozwiązaniem problemu braku dostępności'
 date: '2016-12-04T10:44:55+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1584'
 permalink: /2016/12/04/ukrywanie-braku-dostepnosci-nie-jest-rozwiazaniem-problemu-braku-dostepnosci/
 restapi_import_id:

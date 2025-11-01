@@ -2,7 +2,6 @@
 id: 491
 title: 'Cztery warunki brzegowe dostępności serwisów internetowych'
 date: '2013-01-09T12:53:39+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=491'
 permalink: /2013/01/09/cztery-warunki-brzegowe-dostepnosci-serwisw-internetowych/
 restapi_import_id:

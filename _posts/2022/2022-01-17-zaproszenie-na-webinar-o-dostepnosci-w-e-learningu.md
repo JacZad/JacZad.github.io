@@ -2,7 +2,6 @@
 title: 'Zaproszenie na webinar o dostępności w e-learningu'
 date: '2022-01-17T13:15:41+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

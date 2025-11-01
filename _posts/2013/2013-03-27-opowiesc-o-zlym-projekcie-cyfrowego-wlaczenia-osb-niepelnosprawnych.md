@@ -2,7 +2,6 @@
 id: 654
 title: 'Opowieść o złym projekcie cyfrowego włączenia osób niepełnosprawnych'
 date: '2013-03-27T20:16:55+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=654'
 permalink: /2013/03/27/opowiesc-o-zlym-projekcie-cyfrowego-wlaczenia-osb-niepelnosprawnych/
 restapi_import_id:

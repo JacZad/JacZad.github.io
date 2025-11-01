@@ -2,7 +2,6 @@
 id: 1349
 title: 'Skończyły się żarty'
 date: '2015-05-30T13:33:39+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1349'
 permalink: /2015/05/30/skonczyly-sie-zarty/
 restapi_import_id:

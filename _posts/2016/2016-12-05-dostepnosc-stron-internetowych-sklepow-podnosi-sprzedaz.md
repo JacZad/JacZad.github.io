@@ -2,7 +2,6 @@
 id: 1589
 title: 'Dostępność stron internetowych sklepów podnosi sprzedaż'
 date: '2016-12-05T09:48:34+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1589'
 permalink: /2016/12/05/dostepnosc-stron-internetowych-sklepow-podnosi-sprzedaz/
 restapi_import_id:

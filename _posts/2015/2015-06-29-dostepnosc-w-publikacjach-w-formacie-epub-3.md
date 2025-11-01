@@ -2,7 +2,6 @@
 id: 1366
 title: 'Dostępność w publikacjach w formacie EPUB 3'
 date: '2015-06-29T06:52:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1366'
 permalink: /2015/06/29/dostepnosc-w-publikacjach-w-formacie-epub-3/
 restapi_import_id:

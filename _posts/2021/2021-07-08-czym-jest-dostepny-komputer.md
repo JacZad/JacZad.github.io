@@ -3,7 +3,6 @@ id: 2385
 title: 'Czym jest &#8220;dostępny komputer&#8221;?'
 date: '2021-07-08T15:30:02+02:00'
 excerpt: 'Dzisiaj pokusiłem się na zdefiniowanie, jak zamówić dostępny komputer. Właściwie każdy współczesny komputer można uznać za dostępny, ale trzeba uważać na szczegóły.'
-layout: post
 guid: 'http://informaton.blog/?p=2385'
 permalink: /2021/07/08/czym-jest-dostepny-komputer/
 timeline_notification:

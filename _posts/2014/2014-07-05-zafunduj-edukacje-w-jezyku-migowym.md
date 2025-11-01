@@ -2,7 +2,6 @@
 id: 1076
 title: 'Zafunduj edukację w języku migowym'
 date: '2014-07-05T13:32:08+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1076'
 permalink: /2014/07/05/zafunduj-edukacje-w-jezyku-migowym/
 restapi_import_id:

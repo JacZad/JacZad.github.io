@@ -2,7 +2,6 @@
 id: 2097
 title: 'ARIA to wróg dostępności'
 date: '2021-02-17T16:32:52+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2097'
 permalink: /2021/02/17/aria-to-wrog-dostepnosci/
 timeline_notification:

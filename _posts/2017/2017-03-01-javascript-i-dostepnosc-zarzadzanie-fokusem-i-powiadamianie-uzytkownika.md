@@ -2,7 +2,6 @@
 id: 1625
 title: 'JavaScript i dostępność &#8211; zarządzanie fokusem i powiadamianie użytkownika'
 date: '2017-03-01T09:09:55+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1625'
 permalink: /2017/03/01/javascript-i-dostepnosc-zarzadzanie-fokusem-i-powiadamianie-uzytkownika/
 restapi_import_id:

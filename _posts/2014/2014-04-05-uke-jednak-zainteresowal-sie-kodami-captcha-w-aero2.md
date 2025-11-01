@@ -2,7 +2,6 @@
 id: 1006
 title: 'UKE jednak zainteresował się kodami CAPTCHA w Aero2'
 date: '2014-04-05T08:57:26+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1006'
 permalink: /2014/04/05/uke-jednak-zainteresowal-sie-kodami-captcha-w-aero2/
 restapi_import_id:

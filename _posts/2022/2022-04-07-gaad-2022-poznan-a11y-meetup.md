@@ -2,7 +2,6 @@
 title: 'GAAD 2022 - Poznań A11y Meetup'
 date: '2022-04-07T08:46:04+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

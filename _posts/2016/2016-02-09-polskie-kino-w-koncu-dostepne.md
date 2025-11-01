@@ -2,7 +2,6 @@
 id: 1490
 title: 'Polskie kino w końcu dostępne!'
 date: '2016-02-09T16:00:42+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1490'
 permalink: /2016/02/09/polskie-kino-w-koncu-dostepne/
 restapi_import_id:

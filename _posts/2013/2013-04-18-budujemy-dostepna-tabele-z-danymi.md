@@ -2,7 +2,6 @@
 id: 675
 title: 'Budujemy dostępną tabelę z danymi'
 date: '2013-04-18T16:47:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=675'
 permalink: /2013/04/18/budujemy-dostepna-tabele-z-danymi/
 restapi_import_id:

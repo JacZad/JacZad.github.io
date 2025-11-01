@@ -2,7 +2,6 @@
 id: 2084
 title: 'Webinar o dostępności materiałów dydaktycznych i e-learningowych'
 date: '2021-02-06T10:26:19+01:00'
-layout: post
 guid: 'http://informaton.blog/?p=2084'
 permalink: /2021/02/06/webinar-o-dostepnosci-materiaow-dydaktycznych-i-e-learningowych/
 publicize_linkedin_url:

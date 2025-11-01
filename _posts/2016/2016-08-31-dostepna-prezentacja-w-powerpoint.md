@@ -2,7 +2,6 @@
 id: 1538
 title: 'Dostępna prezentacja w Powerpoint'
 date: '2016-08-31T11:46:52+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1538'
 permalink: /2016/08/31/dostepna-prezentacja-w-powerpoint/
 restapi_import_id:

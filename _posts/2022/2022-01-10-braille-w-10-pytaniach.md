@@ -2,7 +2,6 @@
 title: 'Braille w 10 pytaniach'
 date: '2022-01-10T08:46:07+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - quizy
 tags:

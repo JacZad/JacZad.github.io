@@ -2,7 +2,6 @@
 id: 1171
 title: 'Filmy z audiodeskrypcją i napisami w Adapterze'
 date: '2014-11-09T15:01:19+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1171'
 permalink: /2014/11/09/filmy-z-audiodeskrypcja-i-napisami-w-adapterze/
 restapi_import_id:

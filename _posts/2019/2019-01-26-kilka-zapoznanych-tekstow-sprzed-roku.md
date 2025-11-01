@@ -1,7 +1,6 @@
 ---
 title: 'Kilka zapoznanych tekstów sprzed roku'
 date: '2019-01-26T19:25:54+01:00'
-layout: post
 categories:
     - artykuły
 tags:

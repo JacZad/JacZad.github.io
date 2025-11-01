@@ -2,7 +2,6 @@
 id: 696
 title: 'Jak ze stron internetowych korzystają osoby słabowidzące?'
 date: '2013-05-06T13:39:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=696'
 permalink: /2013/05/06/jak-ze-stron-internetowych-korzystaja-osoby-slabowidzace/
 restapi_import_id:

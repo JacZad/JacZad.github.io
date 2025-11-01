@@ -2,7 +2,6 @@
 id: 1100
 title: 'LibreOffice 4.3.0 z domyślnie włączoną obsługą technologii asystujących'
 date: '2014-08-08T09:08:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1100'
 permalink: /2014/08/08/libreoffice-4-3-0-z-domyslnie-wlaczona-obsluga-technologii-asystujacych/
 restapi_import_id:

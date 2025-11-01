@@ -2,7 +2,6 @@
 id: 936
 title: 'Kurs e-learningowy na temat dostępności serwisów internetowych'
 date: '2014-01-22T20:34:54+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=936'
 permalink: /2014/01/22/kurs-e-learningowy-na-temat-dostepnosci-serwisw-internetowych/
 restapi_import_id:

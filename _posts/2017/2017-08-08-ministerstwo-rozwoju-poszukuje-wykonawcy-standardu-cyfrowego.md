@@ -2,7 +2,6 @@
 id: 1714
 title: 'Ministerstwo Rozwoju poszukuje wykonawcy standardu cyfrowego'
 date: '2017-08-08T13:01:07+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1714'
 permalink: /2017/08/08/ministerstwo-rozwoju-poszukuje-wykonawcy-standardu-cyfrowego/
 restapi_import_id:

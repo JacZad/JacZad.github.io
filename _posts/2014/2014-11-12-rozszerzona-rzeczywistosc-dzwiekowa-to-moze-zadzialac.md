@@ -2,7 +2,6 @@
 id: 1187
 title: 'Rozszerzona rzeczywistość dźwiękowa &#8211; to może zadziałać'
 date: '2014-11-12T11:51:10+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1187'
 permalink: /2014/11/12/rozszerzona-rzeczywistosc-dzwiekowa-to-moze-zadzialac/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1995
 title: 'Prezydent podpisał ustawę o cyfrowej dostępności stron internetowych i aplikacji mobilnych podmiotów publicznych'
 date: '2019-04-17T08:46:04+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=1995'
 permalink: /2019/04/17/prezydent-podpisal-ustawe-o-cyfrowej-dostepnosci-stron-internetowych-i-aplikacji-mobilnych-podmiotow-publicznych/
 timeline_notification:

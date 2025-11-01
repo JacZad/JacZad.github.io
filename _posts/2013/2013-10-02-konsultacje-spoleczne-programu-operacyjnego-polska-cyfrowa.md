@@ -2,7 +2,6 @@
 id: 859
 title: 'Konsultacje społeczne Programu Operacyjnego Polska Cyfrowa'
 date: '2013-10-02T20:35:05+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=859'
 permalink: /2013/10/02/konsultacje-spoleczne-programu-operacyjnego-polska-cyfrowa/
 restapi_import_id:

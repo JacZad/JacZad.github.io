@@ -2,7 +2,6 @@
 id: 986
 title: 'O dostępności na The Human Experience Conference'
 date: '2014-03-12T12:47:49+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=986'
 permalink: /2014/03/12/o-dostepnosci-na-the-human-experience-conference/
 restapi_import_id:

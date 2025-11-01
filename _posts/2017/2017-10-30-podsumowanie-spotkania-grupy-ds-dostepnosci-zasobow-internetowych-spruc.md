@@ -2,7 +2,6 @@
 id: 1775
 title: 'Podsumowanie spotkania Grupy ds. dostępności zasobów internetowych SPRUC'
 date: '2017-10-30T10:06:07+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1775'
 permalink: /2017/10/30/podsumowanie-spotkania-grupy-ds-dostepnosci-zasobow-internetowych-spruc/
 restapi_import_id:

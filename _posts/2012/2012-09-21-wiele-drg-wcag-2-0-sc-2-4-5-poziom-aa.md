@@ -2,7 +2,6 @@
 id: 260
 title: 'Wiele dróg (WCAG 2.0 SC 2.4.5, poziom AA)'
 date: '2012-09-21T22:03:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=260'
 permalink: /2012/09/21/wiele-drg-wcag-2-0-sc-2-4-5-poziom-aa/
 restapi_import_id:

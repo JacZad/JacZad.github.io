@@ -2,7 +2,6 @@
 id: 143
 title: 'Zapomnijmy o przepisywaniu kodów z obrazków'
 date: '2012-08-18T10:31:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=143'
 permalink: /2012/08/18/zapomnijmy-o-przepisywaniu-kodw-z-obrazkw/
 restapi_import_id:

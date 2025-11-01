@@ -1,7 +1,6 @@
 ---
 title: 'Badanie branży dostępnościowej w Polsce'
 date: '2018-04-20T08:05:40+02:00'
-layout: post
 categories:
     - artykuły
 tags:

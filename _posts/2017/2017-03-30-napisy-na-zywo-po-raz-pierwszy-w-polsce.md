@@ -2,7 +2,6 @@
 id: 1640
 title: 'Napisy na żywo po raz pierwszy w polskiej telewizji'
 date: '2017-03-30T14:14:53+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1640'
 permalink: /2017/03/30/napisy-na-zywo-po-raz-pierwszy-w-polsce/
 restapi_import_id:

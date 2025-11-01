@@ -2,7 +2,6 @@
 id: 934
 title: 'Nie jest łatwo udostępniać matematykę'
 date: '2014-01-21T14:40:29+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=934'
 permalink: /2014/01/21/nie-jest-latwo-udostepniac-matematyke/
 restapi_import_id:

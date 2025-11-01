@@ -2,7 +2,6 @@
 id: 1332
 title: 'Apple Watch &#8211; niezwykłe zastosowanie dziwnych rozwiązań'
 date: '2015-05-06T09:12:35+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1332'
 permalink: /2015/05/06/apple-watch-niezwykle-zastosowanie-dziwnych-rozwiazan/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 2033
 title: 'Grzechy audytorów dostępności'
 date: '2019-09-02T18:16:16+02:00'
-layout: post
 guid: 'http://informaton.blog/?p=2033'
 permalink: /2019/09/02/grzechy-audytorow-dostepnosci/
 timeline_notification:

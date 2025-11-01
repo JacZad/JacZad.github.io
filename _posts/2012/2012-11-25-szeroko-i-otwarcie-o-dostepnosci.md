@@ -1,7 +1,6 @@
 ---
 title: 'Szeroko i otwarcie o dostępności'
 date: '2012-11-25T09:06:00+01:00'
-layout: post
 categories:
     - artykuły
 tags:

@@ -2,7 +2,6 @@
 title: 'Odcinek nr 3: Mapy, czyli w poszukiwaniu dostępnego interfejsu'
 date: '2022-07-15T02:37:18+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Grzegorz Złotowicz", "nawigacja", "mapy", "osoby niewidome"]
 categories:
     - Podcast

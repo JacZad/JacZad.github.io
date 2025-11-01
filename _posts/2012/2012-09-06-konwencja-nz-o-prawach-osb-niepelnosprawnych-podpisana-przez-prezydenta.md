@@ -2,7 +2,6 @@
 id: 219
 title: 'Konwencja NZ o prawach osób niepełnosprawnych podpisana przez Prezydenta'
 date: '2012-09-06T11:30:08+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=219'
 permalink: /2012/09/06/konwencja-nz-o-prawach-osb-niepelnosprawnych-podpisana-przez-prezydenta/
 restapi_import_id:

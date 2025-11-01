@@ -1,10 +1,8 @@
----
 id: 2518
 title: 'WCAG i Word – dostępne dokumenty tekstowe'
 date: '2021-10-02T17:04:18+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Dziś oddzielam grubą kreską elementy obowiązkowe i dobre praktyki. Jest zapotrzebowanie społeczne, więc je realizuję. W tytule Word, ale zasady można spokojnie stosować w każdym porządnym edytorze tekstu.'
-layout: post
 guid: 'https://informaton.blog/?p=2518'
 permalink: /2021/10/02/wcag-i-word-dostepne-dokumenty-tekstowe/
 categories:
@@ -14,7 +12,6 @@ tags:
     - tekst
     - 'ustawa o dostępności cyfrowej'
     - Word
----
 
 W chaosie informacyjnym czasem trudno doszukać się sedna. Wciąż zdarza się, że dobre praktyki w tworzeniu dostępnych dokumentów bierze się za obowiązek, mit za dobrą praktykę, a obowiązkowe rzeczy są źle rozumiane. Dlatego przygotowałem ten tekst wskazujący, ja tworzyć dostępne dokumenty w edytorze tekstu w podziale na elementy obowiązkowe i dobre praktyki.
 

@@ -2,7 +2,6 @@
 id: 1144
 title: 'Poradnik o narzędziach wspomagających dostępność po polsku i za darmo'
 date: '2014-10-06T13:20:25+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1144'
 permalink: /2014/10/06/poradnik-o-narzedziach-wspomagajacych-dostepnosc-po-polsku-i-za-darmo/
 restapi_import_id:

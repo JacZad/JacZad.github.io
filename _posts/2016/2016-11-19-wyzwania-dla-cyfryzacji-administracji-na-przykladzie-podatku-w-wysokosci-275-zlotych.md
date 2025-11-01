@@ -2,7 +2,6 @@
 id: 1572
 title: 'Wyzwania dla cyfryzacji administracji na przykładzie podatku w wysokości 27,5 złotych'
 date: '2016-11-19T12:13:30+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1572'
 permalink: /2016/11/19/wyzwania-dla-cyfryzacji-administracji-na-przykladzie-podatku-w-wysokosci-275-zlotych/
 restapi_import_id:

@@ -2,7 +2,6 @@
 title: 'Webinar o tekstach alternatywnych'
 date: '2021-03-30T09:00:00+02:00'
 excerpt: 'Skoro już nagrali i opublikowali, to wrzucam. W rolach głównych: Jacek Zadrożny i Robert więckowski.'
-layout: post
 categories:
     - filmy
 tags:

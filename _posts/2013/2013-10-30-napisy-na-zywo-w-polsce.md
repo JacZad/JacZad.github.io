@@ -2,7 +2,6 @@
 id: 885
 title: 'Napisy na żywo w Polsce'
 date: '2013-10-30T18:59:21+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=885'
 permalink: /2013/10/30/napisy-na-zywo-w-polsce/
 restapi_import_id:

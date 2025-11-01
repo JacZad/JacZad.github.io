@@ -2,7 +2,6 @@
 id: 1609
 title: 'Standardy, wytyczne, wskazówki i zasady, czyli moje odkrycia na potrzeby wydawania środków unijnych.'
 date: '2017-02-01T16:42:44+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1609'
 permalink: /2017/02/01/standardy-wytyczne-wskazowki-i-zasady-czyli-moje-odkrycia-na-potrzeby-wydawania-srodkow-unijnych/
 restapi_import_id:

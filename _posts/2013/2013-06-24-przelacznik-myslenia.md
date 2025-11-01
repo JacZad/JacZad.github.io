@@ -2,7 +2,6 @@
 id: 728
 title: 'Przełącznik myślenia'
 date: '2013-06-24T14:41:19+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=728'
 permalink: /2013/06/24/przelacznik-myslenia/
 restapi_import_id:

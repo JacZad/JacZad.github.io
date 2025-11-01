@@ -2,7 +2,6 @@
 title: 'Odcinek nr 13: ETR, czyli tekst łatwy do czytania i zrozumienia'
 date: '2022-09-23T03:30:39+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: [ETR, "tekst łatwy do czytania", tekst, "Barbara Abramowska"]
 categories:
     - Podcast

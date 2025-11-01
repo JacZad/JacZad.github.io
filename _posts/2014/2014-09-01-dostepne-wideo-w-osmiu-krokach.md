@@ -2,7 +2,6 @@
 id: 1118
 title: 'Dostępne wideo w ośmiu krokach'
 date: '2014-09-01T18:04:49+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1118'
 permalink: /2014/09/01/dostepne-wideo-w-osmiu-krokach/
 restapi_import_id:

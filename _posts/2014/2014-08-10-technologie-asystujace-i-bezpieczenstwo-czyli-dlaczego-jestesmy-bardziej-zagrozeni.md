@@ -2,7 +2,6 @@
 id: 1102
 title: 'Technologie asystujące i bezpieczeństwo, czyli dlaczego jesteśmy bardziej zagrożeni'
 date: '2014-08-10T08:35:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1102'
 permalink: /2014/08/10/technologie-asystujace-i-bezpieczenstwo-czyli-dlaczego-jestesmy-bardziej-zagrozeni/
 restapi_import_id:

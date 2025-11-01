@@ -2,7 +2,6 @@
 id: 549
 title: 'Czy daltoniści mogą rządzić światem?'
 date: '2013-01-29T13:51:38+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=549'
 permalink: /2013/01/29/czy-daltonisci-moga-rzadzic-swiatem/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1406
 title: 'O tym, jak świat stał się odrobinę fajniejszy'
 date: '2015-07-26T17:34:06+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1406'
 permalink: /2015/07/26/o-tym-jak-swiat-stal-sie-odrobine-fajniejszy/
 restapi_import_id:

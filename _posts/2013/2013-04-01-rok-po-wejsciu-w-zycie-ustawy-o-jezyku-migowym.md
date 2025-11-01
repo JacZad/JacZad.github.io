@@ -2,7 +2,6 @@
 id: 657
 title: 'Rok po wejściu w życie ustawy o języku migowym'
 date: '2013-04-01T10:17:47+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=657'
 permalink: /2013/04/01/rok-po-wejsciu-w-zycie-ustawy-o-jezyku-migowym/
 restapi_import_id:

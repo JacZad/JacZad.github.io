@@ -2,7 +2,6 @@
 id: 153
 title: 'Podwyższony kontrast (WCAG 2.0 SC 1.4.6, poziom AAA)'
 date: '2012-08-20T10:03:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=153'
 permalink: /2012/08/20/podwyzszony-kontrast-wcag-2-0-sc-1-4-6-poziom-aaa/
 restapi_import_id:

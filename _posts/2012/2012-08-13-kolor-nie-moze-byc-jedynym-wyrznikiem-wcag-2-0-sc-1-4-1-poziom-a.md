@@ -2,7 +2,6 @@
 id: 119
 title: 'Kolor nie może być jedynym wyróżnikiem (WCAG 2.0 SC 1.4.1, poziom A)'
 date: '2012-08-13T10:05:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=119'
 permalink: /2012/08/13/kolor-nie-moze-byc-jedynym-wyrznikiem-wcag-2-0-sc-1-4-1-poziom-a/
 restapi_import_id:

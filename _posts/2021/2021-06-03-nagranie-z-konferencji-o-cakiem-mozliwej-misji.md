@@ -3,7 +3,6 @@ id: 2344
 title: 'Nagranie z konferencji o całkiem możliwej misji'
 date: '2021-06-03T18:11:31+02:00'
 excerpt: 'A tutaj największe wydarzenie w Polsce powiązane z #GAAD. Ponad 4 godziny merytoryki i różnych mądrości.'
-layout: post
 guid: 'http://informaton.blog/?p=2344'
 permalink: /2021/06/03/nagranie-z-konferencji-o-cakiem-mozliwej-misji/
 timeline_notification:

@@ -2,7 +2,6 @@
 id: 1291
 title: 'Japońskie wytyczne dostępności różnią się od WCAG, bo Japończycy mają dziwne literki'
 date: '2015-04-03T10:58:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1291'
 permalink: /2015/04/03/japonskie-wytyczne-dostepnosci-rznia-sie-od-wcag-bo-japonczycy-maja-dziwne-literki/
 restapi_import_id:

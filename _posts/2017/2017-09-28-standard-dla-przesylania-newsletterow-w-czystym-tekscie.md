@@ -2,7 +2,6 @@
 id: 1753
 title: 'Standard dla przesyłania newsletterów w czystym tekście'
 date: '2017-09-28T15:07:37+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1753'
 permalink: /2017/09/28/standard-dla-przesylania-newsletterow-w-czystym-tekscie/
 restapi_import_id:

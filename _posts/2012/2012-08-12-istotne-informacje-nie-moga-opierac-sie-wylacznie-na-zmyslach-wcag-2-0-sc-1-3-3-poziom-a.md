@@ -2,7 +2,6 @@
 id: 116
 title: 'Istotne informacje nie mogą opierać się wyłącznie na zmysłach (WCAG 2.0 SC 1.3.3, poziom A)'
 date: '2012-08-12T10:59:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=116'
 permalink: /2012/08/12/istotne-informacje-nie-moga-opierac-sie-wylacznie-na-zmyslach-wcag-2-0-sc-1-3-3-poziom-a/
 restapi_import_id:

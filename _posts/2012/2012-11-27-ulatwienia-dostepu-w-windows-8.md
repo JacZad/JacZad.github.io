@@ -2,7 +2,6 @@
 id: 406
 title: 'Ułatwienia dostępu w Windows 8'
 date: '2012-11-27T10:04:35+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=406'
 permalink: /2012/11/27/ulatwienia-dostepu-w-windows-8/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1632
 title: 'Czcionkowy syndrom Mamonia (CSUN 2017)'
 date: '2017-03-03T09:30:52+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1632'
 permalink: /2017/03/03/czcionkowy-syndrom-mamonia-csun-2017/
 restapi_import_id:

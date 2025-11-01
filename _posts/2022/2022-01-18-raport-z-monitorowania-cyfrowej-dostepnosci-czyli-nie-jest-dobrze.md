@@ -2,7 +2,6 @@
 title: 'Raport z monitorowania cyfrowej dostępności, czyli nie jest dobrze'
 date: '2022-01-18T08:45:00+01:00'
 author: 'Jacek Zadrożny'
-layout: post
 categories:
     - artykuły
 tags:

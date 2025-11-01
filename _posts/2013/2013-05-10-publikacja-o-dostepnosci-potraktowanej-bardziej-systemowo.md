@@ -2,7 +2,6 @@
 id: 700
 title: 'Publikacja o dostępności potraktowanej bardziej systemowo'
 date: '2013-05-10T19:17:13+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=700'
 permalink: /2013/05/10/publikacja-o-dostepnosci-potraktowanej-bardziej-systemowo/
 restapi_import_id:

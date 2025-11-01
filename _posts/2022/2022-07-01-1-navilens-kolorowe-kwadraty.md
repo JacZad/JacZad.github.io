@@ -2,7 +2,6 @@
 title: 'Odcinek nr 1: Navilens &#8211; kolorowe kwadraty'
 date: '2022-07-01T05:18:24+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Rafał Charłampowicz", "Grzegorz Złotowicz", "Piotr Bartkowski", "Navilens"]
 categories:
     - Podcast

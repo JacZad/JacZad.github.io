@@ -2,7 +2,6 @@
 id: 1065
 title: 'Liderki dostępności'
 date: '2014-06-07T08:29:33+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1065'
 permalink: /2014/06/07/liderki-dostepnosci/
 restapi_import_id:

@@ -3,7 +3,6 @@ id: 2349
 title: 'Mity cyfrowej dostępności &#8211; łącza'
 date: '2021-06-05T18:48:21+02:00'
 excerpt: 'Dzisiaj próbuję rozprawić się z kolejnym mitem krążącym w środowisku rzemiosła dostępnościowego. Piszę o wyższości jednych łączy nad drugimi, a raczej o braku takiej wyższości.'
-layout: post
 guid: 'http://informaton.blog/?p=2349'
 permalink: /2021/06/05/mity-cyfrowej-dostepnosci-acza/
 publicize_linkedin_url:

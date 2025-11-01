@@ -2,7 +2,6 @@
 id: 363
 title: 'Nowoczesne technologie w nowoczesnych organizacjach pozarządowych'
 date: '2012-11-09T19:54:09+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=363'
 permalink: /2012/11/09/nowoczesne-technologie-w-nowoczesnych-organizacjach-pozarzadowych/
 restapi_import_id:

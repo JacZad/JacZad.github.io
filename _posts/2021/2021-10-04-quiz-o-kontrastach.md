@@ -4,7 +4,7 @@ title: 'Quiz o kontrastach'
 date: '2021-10-04T07:45:44+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Na Quizally.pl opublikowałem quiz o kontrastach. Przygotowałem go tak, że także osoby niewidome będą w stanie go wypełnić.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2520'
 permalink: /2021/10/04/quiz-o-kontrastach/
 advanced_seo_description:

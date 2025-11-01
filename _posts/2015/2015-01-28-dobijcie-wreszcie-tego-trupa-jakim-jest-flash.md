@@ -2,7 +2,6 @@
 id: 1250
 title: 'Dobijcie wreszcie tego trupa, jakim jest Flash'
 date: '2015-01-28T19:54:48+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1250'
 permalink: /2015/01/28/dobijcie-wreszcie-tego-trupa-jakim-jest-flash/
 restapi_import_id:

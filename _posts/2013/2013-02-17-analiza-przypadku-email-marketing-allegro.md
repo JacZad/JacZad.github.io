@@ -2,7 +2,6 @@
 id: 608
 title: 'Analiza przypadku &#8211; email marketing Allegro'
 date: '2013-02-17T11:41:19+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=608'
 permalink: /2013/02/17/analiza-przypadku-email-marketing-allegro/
 restapi_import_id:

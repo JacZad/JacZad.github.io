@@ -2,7 +2,6 @@
 id: 150
 title: 'Tekst, a nie obraz tekstu (WCAG 2.0 SC 1.4.5, poziom AA)'
 date: '2012-08-19T10:48:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=150'
 permalink: /2012/08/19/tekst-a-nie-obraz-tekstu-wcag-2-0-sc-1-4-5-poziom-aa/
 restapi_import_id:

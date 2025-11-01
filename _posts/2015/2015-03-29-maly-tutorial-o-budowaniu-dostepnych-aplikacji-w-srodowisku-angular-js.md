@@ -2,7 +2,6 @@
 id: 1289
 title: 'Mały tutorial o budowaniu dostępnych aplikacji w środowisku Angular.js'
 date: '2015-03-29T09:57:22+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1289'
 permalink: /2015/03/29/maly-tutorial-o-budowaniu-dostepnych-aplikacji-w-srodowisku-angular-js/
 restapi_import_id:

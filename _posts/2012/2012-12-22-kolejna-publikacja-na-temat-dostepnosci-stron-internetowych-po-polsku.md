@@ -2,7 +2,6 @@
 id: 452
 title: 'Kolejna publikacja na temat dostępności stron internetowych po polsku'
 date: '2012-12-22T10:41:09+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=452'
 permalink: /2012/12/22/kolejna-publikacja-na-temat-dostepnosci-stron-internetowych-po-polsku/
 restapi_import_id:

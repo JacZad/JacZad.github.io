@@ -2,7 +2,6 @@
 id: 901
 title: 'W Parlamencie Europejskim przegłosowano stanowisko w sprawie dyrektywy o dostępności stron internetowych'
 date: '2013-11-28T19:26:12+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=901'
 permalink: /2013/11/28/w-parlamencie-europejskim-przeglosowano-stanowisko-w-sprawie-dyrektywy-o-dostepnosci-stron-internetowych/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1552
 title: 'Digitalizacja zasobów analogowych a dostępność i zgodność z WCAG 2.0'
 date: '2016-09-30T15:29:33+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1552'
 permalink: /2016/09/30/digitalizacja-zasobow-analogowych-a-dostepnosc-i-zgodnosc-z-wcag-2-0/
 restapi_import_id:

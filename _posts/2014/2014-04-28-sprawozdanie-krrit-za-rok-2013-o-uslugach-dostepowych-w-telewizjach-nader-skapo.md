@@ -2,7 +2,6 @@
 id: 1030
 title: 'Sprawozdanie KRRiT za rok 2013 &#8211; o usługach dostępowych w telewizjach nader skąpo'
 date: '2014-04-28T10:33:17+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1030'
 permalink: /2014/04/28/sprawozdanie-krrit-za-rok-2013-o-uslugach-dostepowych-w-telewizjach-nader-skapo/
 restapi_import_id:

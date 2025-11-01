@@ -2,7 +2,6 @@
 id: 192
 title: 'Powstaje unijne prawo o dostępności'
 date: '2012-08-29T09:09:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=192'
 permalink: /2012/08/29/powstaje-unijne-prawo-o-dostepnosci/
 restapi_import_id:

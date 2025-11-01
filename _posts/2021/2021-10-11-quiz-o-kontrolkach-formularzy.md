@@ -4,7 +4,6 @@ title: 'Quiz o kontrolkach formularzy'
 date: '2021-10-11T09:20:41+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Taki krótki sprawdzian wiedzy i intuicji na temat kontrolek formularzy w HTML. Typy, atrybuty i pułapka.'
-layout: post
 guid: 'https://informaton.blog/?p=2537'
 permalink: /2021/10/11/quiz-o-kontrolkach-formularzy/
 advanced_seo_description:

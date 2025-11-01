@@ -2,7 +2,6 @@
 title: 'Odcinek nr 5: Światłem w oczy, czyli Grzegorz Złotowicz przesłuchuje mnie w krzyżowym ogniu pytań'
 date: '2022-07-29T04:54:07+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: ["Grzegorz Złotowicz", "Jacek Zadrożny", "praca", "prawo"]
 categories:
     - Podcast

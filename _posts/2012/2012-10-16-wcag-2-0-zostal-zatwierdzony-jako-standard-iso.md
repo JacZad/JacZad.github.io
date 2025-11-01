@@ -2,7 +2,6 @@
 id: 318
 title: 'Wcag 2.0 został zatwierdzony jako standard ISO'
 date: '2012-10-16T17:56:18+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=318'
 permalink: /2012/10/16/wcag-2-0-zostal-zatwierdzony-jako-standard-iso/
 restapi_import_id:

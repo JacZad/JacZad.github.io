@@ -2,7 +2,6 @@
 id: 108
 title: 'Pani Wiesia robi tabelki w mBanku'
 date: '2012-08-10T11:03:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=108'
 permalink: /2012/08/10/pani-wiesia-robi-tabelki-w-mbanku/
 restapi_import_id:

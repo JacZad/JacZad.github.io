@@ -2,7 +2,6 @@
 id: 1756
 title: 'III Dni Dostępności Cyfrowej'
 date: '2017-09-29T11:47:16+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1756'
 permalink: /2017/09/29/iii-dni-dostepnosci-cyfrowej/
 restapi_import_id:

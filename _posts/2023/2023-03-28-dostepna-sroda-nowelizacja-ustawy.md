@@ -1,6 +1,6 @@
 ---
 title: 'Nowelizacja ustawy o dostępności cyfrowej podczas dostępnej środy'
-layout: event
+layout: single
 name: 'Dostępna środa'
 organizer:
   name: 'Adam Pietrasiewicz'

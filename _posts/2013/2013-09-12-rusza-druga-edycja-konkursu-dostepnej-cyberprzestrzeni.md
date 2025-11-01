@@ -1,7 +1,6 @@
 ---
 title: 'Rusza druga edycja konkursu dostępnej cyberprzestrzeni'
 date: '2013-09-12T08:32:08+02:00'
-layout: post
 categories:
     - artykuły
 tags:

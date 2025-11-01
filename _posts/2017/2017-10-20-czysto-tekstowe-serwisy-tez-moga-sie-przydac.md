@@ -2,7 +2,6 @@
 id: 1768
 title: 'Czysto tekstowe serwisy też mogą się przydać'
 date: '2017-10-20T08:38:41+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1768'
 permalink: /2017/10/20/czysto-tekstowe-serwisy-tez-moga-sie-przydac/
 restapi_import_id:

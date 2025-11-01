@@ -2,7 +2,6 @@
 id: 1500
 title: 'Najwyższa Izba Kontroli o dostępności publicznych stron internetowych'
 date: '2016-02-11T21:09:25+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1500'
 permalink: /2016/02/11/najwyzsza-izba-kontroli-o-dostepnosci-publicznych-stron-internetowych/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 1600
 title: 'Polski Access Board &#8211; koncepcja do dyskusji'
 date: '2016-12-08T17:09:46+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1600'
 permalink: /2016/12/08/polski-access-board-koncepcja-do-dyskusji/
 restapi_import_id:

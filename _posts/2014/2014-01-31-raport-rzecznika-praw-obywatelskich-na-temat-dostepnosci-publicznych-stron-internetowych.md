@@ -2,7 +2,6 @@
 id: 951
 title: 'Raport Rzecznika Praw Obywatelskich na temat dostępności publicznych stron internetowych'
 date: '2014-01-31T11:00:56+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=951'
 permalink: /2014/01/31/raport-rzecznika-praw-obywatelskich-na-temat-dostepnosci-publicznych-stron-internetowych/
 restapi_import_id:

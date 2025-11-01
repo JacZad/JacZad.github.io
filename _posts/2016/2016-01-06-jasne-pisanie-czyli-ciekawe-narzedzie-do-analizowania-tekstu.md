@@ -2,7 +2,6 @@
 id: 1486
 title: 'Jasne pisanie, czyli ciekawe narzędzie do analizowania tekstu'
 date: '2016-01-06T12:54:30+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1486'
 permalink: /2016/01/06/jasne-pisanie-czyli-ciekawe-narzedzie-do-analizowania-tekstu/
 restapi_import_id:

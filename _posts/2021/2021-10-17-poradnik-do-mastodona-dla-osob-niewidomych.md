@@ -3,7 +3,7 @@ title: 'Poradnik do Mastodona dla osób niewidomych'
 date: '2021-10-17T11:11:03+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Krótki poradnik dla osób niewidomych, jak używać Mastodona. Mam nadzieję, że spotkamy się w fediversum'
-layout: post
+ 
 categories:
     - tutoriale
 tags:

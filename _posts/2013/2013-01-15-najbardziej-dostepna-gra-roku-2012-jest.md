@@ -2,7 +2,6 @@
 id: 502
 title: 'Najbardziej dostępną grą roku 2012 jest&#8230;'
 date: '2013-01-15T20:24:03+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=502'
 permalink: /2013/01/15/najbardziej-dostepna-gra-roku-2012-jest/
 restapi_import_id:

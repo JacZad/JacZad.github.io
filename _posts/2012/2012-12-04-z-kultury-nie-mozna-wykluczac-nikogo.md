@@ -2,7 +2,6 @@
 id: 415
 title: 'Z kultury nie można wykluczać nikogo'
 date: '2012-12-04T16:00:38+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=415'
 permalink: /2012/12/04/z-kultury-nie-mozna-wykluczac-nikogo/
 restapi_import_id:

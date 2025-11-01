@@ -2,7 +2,6 @@
 id: 629
 title: 'Skiplinki, landmarki i nagłówki &#8211; sposoby na ułatwienie nawigacji'
 date: '2013-03-12T13:29:58+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=629'
 permalink: /2013/03/12/skiplinki-landmarki-i-naglwki-sposoby-na-ulatwienie-nawigacji/
 restapi_import_id:

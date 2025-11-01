@@ -2,7 +2,6 @@
 id: 1561
 title: 'Poradnik na temat tworzenia tekstów alternatywnych'
 date: '2016-10-06T11:43:09+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1561'
 permalink: /2016/10/06/poradnik-na-temat-tworzenia-tekstow-alternatywnych/
 restapi_import_id:

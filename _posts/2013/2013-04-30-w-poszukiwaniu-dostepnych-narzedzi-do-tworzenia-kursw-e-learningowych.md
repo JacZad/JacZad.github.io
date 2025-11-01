@@ -2,7 +2,6 @@
 id: 690
 title: 'W poszukiwaniu dostępnych narzędzi do tworzenia kursów e-learningowych'
 date: '2013-04-30T10:34:08+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=690'
 permalink: /2013/04/30/w-poszukiwaniu-dostepnych-narzedzi-do-tworzenia-kursw-e-learningowych/
 restapi_import_id:

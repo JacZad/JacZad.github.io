@@ -2,7 +2,6 @@
 id: 1781
 title: 'Inclusive Design 24 właśnie się dzieje'
 date: '2017-11-16T11:14:56+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1781'
 permalink: /2017/11/16/inclusive-design-24-wlasnie-sie-dzieje/
 restapi_import_id:

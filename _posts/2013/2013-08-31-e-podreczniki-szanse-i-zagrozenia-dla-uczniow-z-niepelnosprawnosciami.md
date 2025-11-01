@@ -2,7 +2,6 @@
 id: 786
 title: 'E-podręczniki szanse i zagrożenia dla uczniów z niepełnosprawnościami'
 date: '2013-08-31T17:20:53+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=786'
 permalink: /2013/08/31/e-podreczniki-szanse-i-zagrozenia-dla-uczniow-z-niepelnosprawnosciami/
 restapi_import_id:

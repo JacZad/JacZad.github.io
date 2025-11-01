@@ -4,7 +4,6 @@ title: 'Uruchamiam newsletter &#8220;Dostępnik&#8221;'
 date: '2021-12-13T15:38:26+01:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Jeszcze mi newslettera brakowało! No to mam i możecie go już subskrybować. Będzie o całej tej dostępności, bo o czym ja innym mogę pisać?..'
-layout: post
 guid: 'https://informaton.blog/?p=2620'
 permalink: /2021/12/13/uruchamiam-newsletter-dostepnik/
 categories:

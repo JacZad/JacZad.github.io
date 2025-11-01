@@ -2,7 +2,6 @@
 id: 1708
 title: 'Lepiej kupić flaszkę, niż beacon'
 date: '2017-07-18T08:50:04+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1708'
 permalink: /2017/07/18/lepiej-kupic-flaszke-niz-beacon/
 restapi_import_id:

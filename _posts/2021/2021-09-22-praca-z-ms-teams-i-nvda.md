@@ -4,7 +4,7 @@ title: 'Praca z MS Teams i NVDA'
 date: '2021-09-22T18:21:32+02:00'
 author: 'Jacek Zadrożny'
 excerpt: 'Ten tutorial przeznaczony jest dla niewidomych użytkowników aplikacji MS Teams pod Windows. Aplikacja jest coraz popularniejsza i często jest niezbędna do pracy lub edukacji zdalnej. Warto poznać te kilka sztuczek i skrótów, by pracować bardziej efektywnie i bez stresu.'
-layout: post
+ 
 guid: 'https://informaton.blog/?p=2472'
 permalink: /2021/09/22/praca-z-ms-teams-i-nvda/
 categories:

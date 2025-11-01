@@ -2,7 +2,6 @@
 id: 1751
 title: 'Europejski Akt o Dostępności &#8211; tu nie będzie rewolucji'
 date: '2017-09-25T12:31:09+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1751'
 permalink: /2017/09/25/europejski-akt-o-dostepnosci-tu-nie-bedzie-rewolucji/
 restapi_import_id:

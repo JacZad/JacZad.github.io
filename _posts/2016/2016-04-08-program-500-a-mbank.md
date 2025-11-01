@@ -2,7 +2,6 @@
 id: 1523
 title: 'Program 500 +, a mBank &#8211;'
 date: '2016-04-08T20:11:12+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1523'
 permalink: /2016/04/08/program-500-a-mbank/
 restapi_import_id:

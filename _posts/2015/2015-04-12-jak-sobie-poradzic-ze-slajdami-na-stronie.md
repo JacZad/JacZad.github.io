@@ -2,7 +2,6 @@
 id: 1300
 title: 'Jak sobie poradzić ze slajdami na stronie?'
 date: '2015-04-12T15:10:42+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1300'
 permalink: /2015/04/12/jak-sobie-poradzic-ze-slajdami-na-stronie/
 restapi_import_id:

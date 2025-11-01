@@ -2,7 +2,6 @@
 id: 1469
 title: 'Dostępność i przepisy prawne &#8211; jak to się zaczęło i jak się skończy'
 date: '2015-12-02T14:48:11+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1469'
 permalink: /2015/12/02/dostepnosc-i-przepisy-prawne-jak-to-sie-zaczelo-i-jak-sie-skonczy/
 restapi_import_id:

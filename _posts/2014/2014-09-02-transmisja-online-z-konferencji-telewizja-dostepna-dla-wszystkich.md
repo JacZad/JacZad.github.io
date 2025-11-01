@@ -2,7 +2,6 @@
 id: 1120
 title: 'Transmisja online z konferencji &#8220;Telewizja dostępna dla wszystkich&#8221;'
 date: '2014-09-02T07:50:35+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1120'
 permalink: /2014/09/02/transmisja-online-z-konferencji-telewizja-dostepna-dla-wszystkich/
 restapi_import_id:

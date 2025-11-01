@@ -2,7 +2,6 @@
 id: 737
 title: 'Sterowanie iPhonem i iPadem za pomocą ruchów głowy'
 date: '2013-06-27T11:57:40+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=737'
 permalink: /2013/06/27/sterowanie-iphonem-i-ipadem-za-pomoca-ruchw-glowy/
 restapi_import_id:

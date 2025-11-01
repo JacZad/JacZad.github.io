@@ -2,7 +2,6 @@
 id: 740
 title: 'Manifestacja Głuchych w Warszawie a dostępność informacji'
 date: '2013-07-01T19:47:24+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=740'
 permalink: /2013/07/01/manifestacja-gluchych-w-warszawie-a-dostepnosc-informacji/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 328
 title: 'Brak nieoczekiwanych zmian kontekstu (WCAG 2.0 SC 3.2.5, poziom AAA)'
 date: '2012-10-24T13:29:47+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=328'
 permalink: /2012/10/24/brak-nieoczekiwanych-zmian-kontekstu-wcag-2-0-sc-3-2-5-poziom-aaa/
 restapi_import_id:

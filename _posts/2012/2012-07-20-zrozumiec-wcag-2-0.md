@@ -2,7 +2,6 @@
 id: 13
 title: 'Zrozumieć WCAG 2.0'
 date: '2012-07-20T11:31:28+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=13'
 permalink: /2012/07/20/zrozumiec-wcag-2-0/
 restapi_import_id:

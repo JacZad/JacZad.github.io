@@ -2,7 +2,6 @@
 id: 1496
 title: 'Przegląd prac nad dostępnością w UE'
 date: '2016-02-09T16:11:04+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1496'
 permalink: /2016/02/09/przeglad-prac-nad-dostepnoscia-w-ue/
 restapi_import_id:

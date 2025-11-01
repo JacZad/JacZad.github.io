@@ -2,7 +2,6 @@
 id: 1243
 title: 'W wolnym czasie zabijam zombie'
 date: '2015-01-25T09:13:00+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1243'
 permalink: /2015/01/25/w-wolnym-czasie-zabijam-zombie/
 restapi_import_id:

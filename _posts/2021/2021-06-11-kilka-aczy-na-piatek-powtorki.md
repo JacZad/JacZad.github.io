@@ -3,7 +3,6 @@ id: 2362
 title: 'Kilka łączy na piątek (powtórki)'
 date: '2021-06-11T11:53:15+02:00'
 excerpt: 'Jeżeli to piątek, to pora na 5 łączy. Dzisiaj jestem cwaniakiem i kierują do tego samego źródła, tylko w różne miejsca.'
-layout: post
 guid: 'http://informaton.blog/?p=2362'
 permalink: /2021/06/11/kilka-aczy-na-piatek-powtorki/
 publicize_linkedin_url:

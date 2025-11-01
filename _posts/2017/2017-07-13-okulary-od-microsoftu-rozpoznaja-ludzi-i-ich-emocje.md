@@ -2,7 +2,6 @@
 id: 1706
 title: 'Okulary od Microsoftu rozpoznają ludzi i ich emocje'
 date: '2017-07-13T08:37:56+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1706'
 permalink: /2017/07/13/okulary-od-microsoftu-rozpoznaja-ludzi-i-ich-emocje/
 restapi_import_id:

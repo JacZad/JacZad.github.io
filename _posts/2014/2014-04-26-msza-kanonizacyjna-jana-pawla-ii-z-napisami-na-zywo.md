@@ -2,7 +2,6 @@
 id: 1035
 title: 'Msza kanonizacyjna Jana Pawła II z napisami na żywo'
 date: '2014-04-26T10:00:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1035'
 permalink: /2014/04/26/msza-kanonizacyjna-jana-pawla-ii-z-napisami-na-zywo/
 restapi_import_id:

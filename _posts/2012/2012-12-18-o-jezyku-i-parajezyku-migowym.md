@@ -2,7 +2,6 @@
 id: 447
 title: 'O języku i parajęzyku migowym'
 date: '2012-12-18T14:04:49+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=447'
 permalink: /2012/12/18/o-jezyku-i-parajezyku-migowym/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 763
 title: 'Znaczniki HTML i role ARIA'
 date: '2013-08-12T19:07:59+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=763'
 permalink: /2013/08/12/znaczniki-html-i-role-aria/
 restapi_import_id:

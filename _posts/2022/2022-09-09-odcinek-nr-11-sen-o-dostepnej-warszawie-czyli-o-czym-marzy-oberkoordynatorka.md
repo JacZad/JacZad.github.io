@@ -2,7 +2,6 @@
 title: 'Odcinek nr 11: Sen o dostępnej Warszawie, czyli o czym marzy oberkoordynatorka'
 date: '2022-09-09T13:17:33+02:00'
 author: 'Jacek Zadrożny'
-layout: post
 tags: [Warszawa, "koordynator dostępności", prawo, "Donata Kończyk"]
 categories:
     - Podcast

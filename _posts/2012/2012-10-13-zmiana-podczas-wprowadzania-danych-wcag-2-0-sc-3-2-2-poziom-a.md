@@ -2,7 +2,6 @@
 id: 311
 title: 'Zmiana podczas wprowadzania danych (WCAG 2.0 SC 3.2.2, poziom A)'
 date: '2012-10-13T08:06:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=311'
 permalink: /2012/10/13/zmiana-podczas-wprowadzania-danych-wcag-2-0-sc-3-2-2-poziom-a/
 restapi_import_id:

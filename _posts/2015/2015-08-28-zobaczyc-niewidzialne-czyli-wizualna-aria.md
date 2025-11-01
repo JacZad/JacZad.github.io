@@ -2,7 +2,6 @@
 id: 1423
 title: 'Zobaczyć niewidzialne, czyli wizualna ARIA'
 date: '2015-08-28T09:02:57+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=1423'
 permalink: /2015/08/28/zobaczyc-niewidzialne-czyli-wizualna-aria/
 restapi_import_id:

@@ -2,7 +2,6 @@
 id: 24
 title: 'Nagranie zawierające tylko dźwięk lub tylko obraz (WCAG 2.0 SC 1.2.1, poziom A)'
 date: '2012-07-26T13:02:00+02:00'
-layout: post
 guid: 'http://informaton.pl/?p=24'
 permalink: /2012/07/26/nagranie-zawierajace-tylko-dzwiek-lub-tylko-obraz-wcag-2-0-sc-1-2-1-poziom-a/
 restapi_import_id:

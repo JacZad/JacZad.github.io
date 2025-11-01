@@ -2,7 +2,6 @@
 id: 413
 title: 'Na Europejski Dzień Osób Niepełnosprawnych &#8211; projekt dyrektywy o e-dostępności'
 date: '2012-12-03T16:29:01+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=413'
 permalink: /2012/12/03/na-europejski-dzien-osb-niepelnosprawnych-projekt-dyrektywy-o-e-dostepnosci/
 restapi_import_id:

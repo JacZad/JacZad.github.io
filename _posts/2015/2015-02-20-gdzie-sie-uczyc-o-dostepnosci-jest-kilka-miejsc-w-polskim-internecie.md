@@ -2,7 +2,6 @@
 id: 1261
 title: 'Gdzie się uczyć o dostępności? Jest kilka miejsc w polskim Internecie.'
 date: '2015-02-20T15:46:24+01:00'
-layout: post
 guid: 'http://informaton.pl/?p=1261'
 permalink: /2015/02/20/gdzie-sie-uczyc-o-dostepnosci-jest-kilka-miejsc-w-polskim-internecie/
 restapi_import_id:
