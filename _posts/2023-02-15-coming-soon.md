@@ -1,5 +1,5 @@
 ---
-title: "Coming soon - by Jacek Zadrożny - Dostępnik"
+title: "Coming soon"
 date: 2023-02-15
 author: "Jacek Zadrożny"
 description: "This is Dostępnik, a newsletter about My personal Substack."

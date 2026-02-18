@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o ARIA 1.3 - by Jacek Zadrożny - Dostępnik"
+title: "Dostępnik o ARIA 1.3"
 date: 2025-07-31
 author: "Jacek Zadrożny"
 description: "Jakoś mam wrażenie, że umknęło to uwadze środowiska. Pojawił się draft specyfikacji ARIA 1.3 i pomyślałem sobie, że mogę się pozastanawiać nad nowościami. Oczywiście sceptycznie!"

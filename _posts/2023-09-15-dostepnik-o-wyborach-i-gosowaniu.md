@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o wyborach i głosowaniu - by Jacek Zadrożny"
+title: "Dostępnik o wyborach i głosowaniu"
 date: 2023-09-15
 author: "Jacek Zadrożny"
 description: "Czy dostępność ma jakikolwiek związek z wyborami? Oczywiście że tak i to już od wielu lat. Za miesiąc mamy zarówno wybory parlamentarne, jak referendum, więc okazja do pisania jest dobra."

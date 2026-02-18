@@ -1,9 +1,11 @@
 main:
-  - title: "Współpraca"
-    url: /wspolpraca/
-  - title: "Projekty"
-    url: /projekty/
   - title: "Blog"
     url: /blog/
+  - title: "Dostępnik"
+    url: https://dostepnik.substack.com
+  - title: "Projekty"
+    url: /projekty/
   - title: "O mnie"
     url: /aboutme/
+  - title: "Współpraca"
+    url: /wspolpraca/

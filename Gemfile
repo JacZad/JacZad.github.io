@@ -6,6 +6,8 @@ gem 'github-pages', group: :jekyll_plugins
 
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
 gem "faraday-retry"
 gem "jekyll-data"
 gem 'fiddle'

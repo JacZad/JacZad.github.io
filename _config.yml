@@ -1,6 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 
-url    : "https://jaczad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://dostepnik.com.pl" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Jacek Zadrożny
@@ -9,13 +9,15 @@ email      : Jacekzadrozny@dostepnik.com.pl
 description: "Dostępność to moja pasja i chcę Cię nią zarazić. Pomogę Ci sprawić, by Twoja strona była dostępna dla wszystkich użytkowników. Zapraszam do współpracy."
 # author     : Jacek Zadrożny
 logo: /assets/img/jz-profilowe.png
+og_image: /assets/img/logo.png
 
 locale: "pl" # See available languages in _data/ui-text.yml
 
 # Site settings
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: false
-breadcrumbs: true
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: true
+search_full_content: true
+breadcrumbs: false
 
 # Social media and author info
 author:
@@ -23,7 +25,7 @@ author:
   bio: "Ekspert dostępności cyfrowej"
   location: "Polska"
   email: "Jacekzadrozny@dostepnik.com.pl"
-  # avatar: assets/img/jz-profilowe.png
+  avatar: assets/img/jz-profilowe.png
   links:
       - label: "LinkedIn"
         icon: "fab fa-fw fa-linkedin"
@@ -40,6 +42,12 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Jacekzadrozny@dostepnik.com.pl"
+    - label: "Dostępnik (newsletter)"
+      icon: "fas fa-fw fa-rss"
+      url: "https://dostepnik.substack.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jaczad"
 
 # Reading settings
 show_excerpts: true
@@ -57,6 +65,8 @@ paginate_path: /page:num/
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-feed
 
 # Navigation
 include:

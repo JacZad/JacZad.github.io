@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik nr 0 - Zaczynam nową przygodę - by Jacek Zadrożny"
+title: "Dostępnik nr 0 - Zaczynam nową przygodę"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "Być może to już nie jest modne."

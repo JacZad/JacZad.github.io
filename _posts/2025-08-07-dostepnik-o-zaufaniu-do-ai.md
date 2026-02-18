@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o zaufaniu do AI - by Jacek Zadrożny - Dostępnik"
+title: "Dostępnik o zaufaniu do AI"
 date: 2025-08-07
 author: "Jacek Zadrożny"
 description: "Jako zagorzały fan sztucznej inteligencji mogę Ci powiedzieć wprost - nie ufaj! AI to taki uczynny doradca mówiący z wielkim przekonaniem zarówno prawdę, półprawdę, jak i całe kłamstwo."

@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o tej nowej ustawie - by Jacek Zadrożny"
+title: "Dostępnik o tej nowej ustawie"
 date: 2025-07-03
 author: "Jacek Zadrożny"
 description: "Wszyscy piszą o tej nowiutkiej ustawie, która weszła w życie 28 czerwca 2025 roku. Chodzi o tę o dostępności produktów i usług. No to ja też, chociaż trochę inaczej."

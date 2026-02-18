@@ -1,5 +1,5 @@
 ---
-title: "Miasteczko galicyjskie - by Jacek Zadrożny - Dostępnik"
+title: "Miasteczko galicyjskie"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "Tym razem podcast ma formę rozmowy w plenerze."

@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o ARIA i zasadach - by Jacek Zadrożny - Dostępnik"
+title: "Dostępnik o ARIA i zasadach"
 date: 2023-04-14
 author: "Jacek Zadrożny"
 description: "Kuba Dębski robił kiedyś badania specjalistów od cyfrowej dostępności. W kwestionariuszu było pytanie o znajomość ARIA. Ktoś dowcipnie zapytał, czy chodzi o Aryę Stark? A może wcale to nie był żart..."

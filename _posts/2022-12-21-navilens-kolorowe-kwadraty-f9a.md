@@ -1,5 +1,5 @@
 ---
-title: "Navilens - kolorowe kwadraty - by Jacek Zadrożny"
+title: "Navilens - kolorowe kwadraty"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "Usiedliśmy w czterech, żeby porozmawiać o systemie Navilens z Hiszpanii."

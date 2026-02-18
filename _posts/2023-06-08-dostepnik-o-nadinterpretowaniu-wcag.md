@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o nadinterpretowaniu WCAG - by Jacek Zadrożny"
+title: "Dostępnik o nadinterpretowaniu WCAG"
 date: 2023-06-08
 author: "Jacek Zadrożny"
 description: "Oglądam sobie ostatnio sporo stron internetowych sprzedawanych jako dostępne. Mam wówczas poczucie, że ktoś jednak nie do końca zrozumiał WCAG. No i wtedy pojawiają się nadinterpretacje."

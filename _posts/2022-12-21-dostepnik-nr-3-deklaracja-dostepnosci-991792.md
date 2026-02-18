@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik nr 3 - deklaracja dostępności - by Jacek Zadrożny"
+title: "Dostępnik nr 3 - deklaracja dostępności"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "Dla wielu podmiotów publicznych, a dokładniej - osób odpowiedzialnych za strony internetowe - deklaracja dostępności jest niepotrzebnym i przykrym obowiązkiem."

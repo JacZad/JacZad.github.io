@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik nr 7 - ten dla programistów - by Jacek Zadrożny"
+title: "Dostępnik nr 7 - ten dla programistów"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "Cyfrowa dostępność zależy od programistów, projektantów i redaktorów treści."

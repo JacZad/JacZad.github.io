@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o kodach QR - by Jacek Zadrożny - Dostępnik"
+title: "Dostępnik o kodach QR"
 date: 2024-09-23
 author: "Jacek Zadrożny"
 description: "Przemyślane używanie kodów QR może zapewnić lepszą dostępność i to praktycznie bezkosztowo. A ja w ogóle uwielbiam kody QR!"

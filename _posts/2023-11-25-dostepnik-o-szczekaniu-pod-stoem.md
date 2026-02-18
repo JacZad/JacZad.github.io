@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o szczekaniu pod stołem - by Jacek Zadrożny"
+title: "Dostępnik o szczekaniu pod stołem"
 date: 2023-11-25
 author: "Jacek Zadrożny"
 description: "Rok temu zaczęła się rewolucja sztucznej inteligencji. Byłem sceptykiem i twierdziłem, że nie da się jej używać do zapewniania dostępności. Wchodzę teraz pod stół i odszczekuję. HaU hau!"

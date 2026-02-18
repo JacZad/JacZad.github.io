@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o żółtych karteczkach - by Jacek Zadrożny"
+title: "Dostępnik o żółtych karteczkach"
 date: 2024-01-18
 author: "Jacek Zadrożny"
 description: "Żółte karteczki są super! Można zapisać na nich krótką notatkę i przykleić do monitora lub na ścianie. Ja używam takich elektronicznych. Chcę Ci dać takie karteczki na temat WCAG."

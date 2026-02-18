@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik #4 - ten o e-learningu - by Jacek Zadrożny"
+title: "Dostępnik #4 - ten o e-learningu"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "Mijają 2 lata pandemii i przyśpieszonego włączania cyfrowego całego społeczeństwa."

@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o 100 audytach - by Jacek Zadrożny - Dostępnik"
+title: "Dostępnik o 100 audytach"
 date: 2025-05-30
 author: "Jacek Zadrożny"
 description: "Jak można zrobić 100 audytów dostępności stron internetowych w 2 dni? Uczciwie się nie da, ale..."

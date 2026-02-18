@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik nr 8 - ten wakacyjny - by Jacek Zadrożny"
+title: "Dostępnik nr 8 - ten wakacyjny"
 date: 2022-12-21
 author: "Jacek Zadrożny"
 description: "W dawnych czasach było tak, że w wakacje miesięczniki wychodziły raz, to znaczy że był taki numer lipcowo-sierpniowy."

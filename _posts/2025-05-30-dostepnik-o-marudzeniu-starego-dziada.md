@@ -1,5 +1,5 @@
 ---
-title: "Dostępnik o marudzeniu starego dziada - by Jacek Zadrożny"
+title: "Dostępnik o marudzeniu starego dziada"
 date: 2025-05-30
 author: "Jacek Zadrożny"
 description: "Na początek ostrzeżenie."
