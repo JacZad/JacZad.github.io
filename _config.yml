@@ -12,6 +12,8 @@ logo: /assets/img/jz-profilowe.png
 og_image: /assets/img/logo.png
 
 locale: "pl" # See available languages in _data/ui-text.yml
+lang: pl-PL
+timezone: Europe/Warsaw
 
 # Site settings
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -67,6 +69,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-github-metadata
 
 # Navigation
 include:
@@ -98,3 +105,12 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:title/
+
+# HTML compression for better performance
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
