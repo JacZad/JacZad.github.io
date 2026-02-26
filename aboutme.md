@@ -1,5 +1,7 @@
 ---
 title: O mnie
+layout: page
+description: Jacek Zadrożny - specjalista ds. dostępności cyfrowej, audyty WCAG, szkolenia i doradztwo
 permalink: /aboutme/
 ---
 

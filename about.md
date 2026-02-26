@@ -1,87 +1,27 @@
 ---
-title: About
+title: O mnie
 layout: page
-description: About
+description: Jacek Zadrożny - specjalista ds. dostępności cyfrowej, audyty WCAG, szkolenia i doradztwo
 bodyClass: page-about
+permalink: /aboutme/
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Cześć! Nazywam się Jacek Zadrożny i od lat zajmuję się dostępnością cyfrową. Niektórzy nazywają mnie "accessibility celebrity", co brzmi dumnie, ale prawda jest prostsza – po prostu od bardzo dawna mówię i piszę o tym, że internet powinien być dla wszystkich.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+## Czym się zajmuję?
 
-# Objectives
+Przede wszystkim audytuję strony internetowe pod kątem zgodności z WCAG 2.0, 2.1 i 2.2. Prowadzę szkolenia dla programistów, projektantów i redaktorów – uczę, jak tworzyć dostępne treści bez komplikowania sobie życia. Doradzam organizacjom, jak wprowadzić dostępność w ich procesy, żeby nie była tylko punktem na liście "do zrobienia", ale naturalną częścią tworzenia produktów cyfrowych.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Skąd to wszystko?
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Nie pamiętam już dokładnie, kiedy zacząłem – gdzieś w 2012 roku zacząłem pisać o dostępności, bo zauważyłem, że w polskim internecie brakowało praktycznych poradników. Napisałem książkę o WCAG 2.0 (2014), potem kolejne materiały – o narzędziach do testowania, o dostępnych e-learningach, o cyfrowym wykluczeniu.
 
-## Relevance
+W 2013 roku dostałem nagrodę "Otwarta Cyberprzestrzeń" od Forum Dostępnej Cyberprzestrzeni. W 2025 zostałem Ambasadorem Konwencji ONZ o Prawach Osób z Niepełnosprawnościami – to dla mnie ogromne wyróżnienie i zobowiązanie jednocześnie.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Aktualnie
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Prowadzę newsletter "Dostępnik" na Substacku, gdzie co jakiś czas piszę o tym, co się dzieje w świecie dostępności cyfrowej – czasem technicznie, czasem publicystycznie, czasem po prostu żeby was zdenerwować (albo uspokoić).
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Walczę z niedostępnością systemu KSeF (Krajowy System e-Faktur), bo uważam, że rządowe systemy powinny być dostępne dla osób niewidomych i słabowidzących. Testuję strony, prowadzę wykłady, dyskutuję o certyfikatach i standardach.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Cieszę się, że jesteś tutaj. Jeśli masz pytania, pomysły na współpracę albo po prostu chcesz pogadać o dostępności – zapraszam do kontaktu.

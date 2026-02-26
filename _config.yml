@@ -1,9 +1,17 @@
 baseurl: '/'
+url: 'https://dostepnik.com.pl'
+lang: pl
 permalink: pretty
 title: 'Jacek Zadrożny'
-description: 'Strona z ofertą współpracy'
+description: 'Audyty dostępności, szkolenia i doradztwo w zakresie WCAG'
 
-logo:
+author:
+  name: 'Jacek Zadrożny'
+  email: 'kontakt@dostepnik.com.pl'
+
+logo: 'images/logo/logo.svg'
+
+site_logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
@@ -38,6 +46,9 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - Gemfile

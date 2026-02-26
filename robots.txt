@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dostepnik.com.pl/sitemap.xml
